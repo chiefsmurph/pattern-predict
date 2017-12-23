@@ -21,12 +21,14 @@ const scrapeTeam = async(team) => {
         }
       });
       await page.goto(`https://www.basketball-reference.com/teams/${team}/${year}_games.html`, {
-        waitUntil: 'networkidle2'
+        waitUntil: 'networkidle2',
+        timeout: 60000
       });
       console.log('done');
       const upDownString = await page.evaluate(() => {
         return Array.from(document.querySelectorAll('table#games td:nth-child(8)'))
             .map(el => el.textContent)
+            .filter(txt => txt)
             .map(wl => wl === 'W' ? 1 : 0)
             .join('');
       });
@@ -36,14 +38,18 @@ const scrapeTeam = async(team) => {
     };
 
     const years = [];
-    for (let yr = 2017; yr > 2017 - 20; yr--) {
+    for (let yr = 2018; yr > 2017 - 20; yr--) {
       years.push(yr);
     }
     console.log(years);
 
     let totalUpDownString = '';
     for (let yr of years) {
-      totalUpDownString = await scrapeSeason(yr) + totalUpDownString;
+      try {
+        totalUpDownString = await scrapeSeason(yr) + totalUpDownString;
+      } catch (e) {
+        console.error('y', e);
+      }
       console.log(totalUpDownString, 'totalUpDownString');
     }
 
@@ -58,7 +64,7 @@ const scrapeTeam = async(team) => {
 };
 
 (async() => {
-  await scrapeTeam('GSW');
+  await scrapeTeam('TOR');
 })();
 
 module.exports = scrapeTeam;
