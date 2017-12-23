@@ -1,11 +1,19 @@
 const createPredictions = require('./createPredictions');
+const executePerms = require('./executePerms');
 
 const testPredictions = (upDownString, numDaysToTest, permsExecuted) => {
 
   const testResults = [];
   for (var i = 1; i < numDaysToTest; i++) {
     console.log('testing for today - ' + i + ' days');
-    const prediction = createPredictions(upDownString.slice(0, 0 - i), permsExecuted);
+
+    // let goBackRandomDays = upDownString.length / 2;
+    // goBackRandomDays = Math.round(Math.random() * goBackRandomDays);
+    let goBackRandomDays = i;
+    console.log('going back ', goBackRandomDays, ' days');
+    const todaysUpDownString = upDownString.slice(0, 0 - goBackRandomDays);
+    const todaysExecutePerms = permsExecuted || executePerms(todaysUpDownString);
+    const prediction = createPredictions(todaysUpDownString, todaysExecutePerms);
     const whatActuallyHappened = upDownString.substring(upDownString.length - i, upDownString.length - i + 1);
     // console.log('whatActuallyHappened', whatActuallyHappened);
     const weightedPredictedUp = prediction.weightedPerc > 50;

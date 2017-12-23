@@ -1,8 +1,10 @@
-const everyPermutation = require('./everyPermutation');
+const { MAX_DIGITS } = require('../settings');
+
+const everyPermutation = require('./everyPermutation')(MAX_DIGITS);
 const runPattern = require('./runPattern');
 
-const permsExecuted = (upDownString, MAX_DIGITS) => {
-  return everyPermutation(MAX_DIGITS).map((perm, i) => {
+const executePerms = (upDownString) => {
+  return everyPermutation.map((perm, i) => {
     const pattern = runPattern(upDownString, perm);
     // console.log('ran ', i, ' of ', perms.length);
     return {
@@ -12,5 +14,4 @@ const permsExecuted = (upDownString, MAX_DIGITS) => {
   });
 };
 
-
-module.exports = permsExecuted;
+module.exports = executePerms;

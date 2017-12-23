@@ -1,7 +1,7 @@
 
 const { MAX_DIGITS } = require('./settings.js');
 
-const csvFilePath = './data/GSPC.csv';
+const csvFilePath = './stock-data/GSPC.csv';
 const fs = require('mz/fs')
 
 // utils
@@ -15,7 +15,7 @@ const executePerms = require('./predictFns/executePerms');
 const testPredictions = require('./predictFns/testPredictions');
 
 
-const findPatternsAndGiveTodaysOutlook = (upDownString, options = {}) => {
+const findPatternsAndReturnTodaysOutlook = (upDownString, options = {}) => {
   const permsExecuted = executePerms(upDownString, MAX_DIGITS);
 
   const forPresenting = permsExecuted
@@ -26,10 +26,10 @@ const findPatternsAndGiveTodaysOutlook = (upDownString, options = {}) => {
     console.log('permutation patterns found in desc order')
     console.log(forPresenting);
   }
-
-  if (options.runTests) testPredictions(upDownString, 300, permsExecuted);
+  if (options.runTests) {
+    testPredictions(upDownString, 300, options.executePermsEveryDay ? null : permsExecuted);
+  }
   const todaysOutlook = createPredictions(upDownString, permsExecuted);
-  console.log('todays outlook', todaysOutlook);
   return todaysOutlook;
 };
 
@@ -37,20 +37,20 @@ const findPatternsAndGiveTodaysOutlook = (upDownString, options = {}) => {
 (async () => {
 
   // STOCKS
-  // const dayArray = await csvToArray(csvFilePath);
-  // console.log('dayarray', dayArray);
-  // const upDownString = generateUpDownString(dayArray);
+  const dayArray = await csvToArray(csvFilePath);
+  console.log('dayarray', dayArray);
+  const upDownString = generateUpDownString(dayArray);
 
   // BBALL
-  const upDownString = await fs.readFile('./basketball-data/LAL.txt', 'utf8');
-  console.log('upDownString', upDownString);
+  // const upDownString = await fs.readFile('./basketball-data/LAL.txt', 'utf8');
+  // console.log('upDownString', upDownString);
   // console.log('\n');
 
-  findPatternsAndGiveTodaysOutlook(upDownString, {
+  const todaysOutlook = findPatternsAndReturnTodaysOutlook(upDownString, {
     showPerms: true,
-    runTests: true
+    // runTests: true,
+    // executePermsEveryDay: true
   });
-
-
+  console.log('todays outlook', todaysOutlook);
 
 })();
