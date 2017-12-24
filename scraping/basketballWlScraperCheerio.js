@@ -21,6 +21,8 @@ const scrapeTeam = async(team) => {
                 .join('');
             console.log(upDownString, 'here')
             resolve(upDownString);
+          } else {
+            reject(error);
           }
         });
       });
@@ -30,7 +32,7 @@ const scrapeTeam = async(team) => {
     for (let yr = 2018; yr > 2017 - 20; yr--) {
       years.push(yr);
     }
-    console.log(years);
+    // console.log(years);
 
     let totalUpDownString = '';
     for (let yr of years) {
@@ -38,8 +40,9 @@ const scrapeTeam = async(team) => {
         totalUpDownString = await scrapeSeason(yr) + totalUpDownString;
       } catch (e) {
         console.error('y', e);
+        break;
       }
-      console.log(totalUpDownString, 'totalUpDownString');
+      // console.log(totalUpDownString, 'totalUpDownString');
     }
 
     console.log('saving...')
@@ -51,11 +54,11 @@ const scrapeTeam = async(team) => {
     }
 };
 
-(async() => {
-  console.log(process.argv.slice(2));
-  for (let team of process.argv.slice(2)) {
-    await scrapeTeam(team);
-  }
-})();
+// (async() => {
+//   console.log(process.argv.slice(2));
+//   for (let team of process.argv.slice(2)) {
+//     await scrapeTeam(team);
+//   }
+// })();
 
 module.exports = scrapeTeam;

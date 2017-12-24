@@ -4,7 +4,7 @@ const executePerms = require('./executePerms');
 const testPredictions = (upDownString, numDaysToTest, permsExecuted) => {
 
   const testResults = [];
-  for (var i = 1; i < numDaysToTest; i++) {
+  for (var i = 1; i <= numDaysToTest; i++) {
     console.log('testing for today - ' + i + ' days');
 
     // let goBackRandomDays = upDownString.length / 2;
@@ -15,7 +15,7 @@ const testPredictions = (upDownString, numDaysToTest, permsExecuted) => {
     const todaysExecutePerms = permsExecuted || executePerms(todaysUpDownString);
     const prediction = createPredictions(todaysUpDownString, todaysExecutePerms);
     const whatActuallyHappened = upDownString.substring(upDownString.length - i, upDownString.length - i + 1);
-    // console.log('whatActuallyHappened', whatActuallyHappened);
+    // console.log('prediction', prediction);
     const weightedPredictedUp = prediction.weightedPerc > 50;
     const avgPredictedUp = prediction.avgPerc > 50;
     const didGoUp = whatActuallyHappened === '1';
@@ -29,7 +29,7 @@ const testPredictions = (upDownString, numDaysToTest, permsExecuted) => {
       weightedCorrect: (weightedPredictedUp === didGoUp),
       didGoUp
     });
-    console.log('finished test ', i, ' of ', 100);
+    console.log('finished test ', i, ' of ', numDaysToTest);
   }
 
   const percAvgCorrectOfTestGroup = tests => Math.round(tests.filter(test => test.avgCorrect).length / tests.length * 10000) / 100;
@@ -37,6 +37,7 @@ const testPredictions = (upDownString, numDaysToTest, permsExecuted) => {
   const displayTestGroup = (name, tests) => {
     console.log('------------------------------');
     console.log('test results for ' + name);
+    console.log(tests);
     console.log('test count: ', tests.length);
     console.log('avg perc ', percAvgCorrectOfTestGroup(tests));
     console.log('weighted perc ', percWeightedCorrectOfTestGroup(tests));

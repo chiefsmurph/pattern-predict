@@ -10,7 +10,7 @@ function everyPermutation(maxDigits) {
     }
   }
   recurse('');
-  return returnArr.filter(perm => perm.length >= 3);
+  return returnArr.filter(perm => perm.length >= 2);
 }
 
 module.exports = everyPermutation;
