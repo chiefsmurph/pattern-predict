@@ -6,7 +6,7 @@ const runPattern = require('./runPattern');
 const executePerms = (upDownString) => {
   return everyPermutation.map((perm, i) => {
     const pattern = runPattern(upDownString, perm);
-    // console.log('ran ', i, ' of ', perms.length);
+    // console.log('ran ', i, ' of ', everyPermutation.length);
     return {
       perm,
       ...pattern

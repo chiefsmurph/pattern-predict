@@ -1,7 +1,7 @@
 
 const { MAX_DIGITS } = require('./settings.js');
 
-const csvFilePath = './stock-data/GSPC.csv';
+const csvFilePath = './stock-data/DE-10-year.csv';
 const fs = require('mz/fs')
 
 // utils
@@ -20,12 +20,12 @@ const testPredictions = require('./predictFns/testPredictions');
 (async () => {
 
   // STOCKS
-  // const dayArray = await csvToArray(csvFilePath);
-  // console.log('dayarray', dayArray);
-  // const upDownString = generateUpDownString(dayArray);
+  const dayArray = await csvToArray(csvFilePath);
+  console.log('dayarray', dayArray);
+  const upDownString = generateUpDownString(dayArray);
 
   // BBALL
-  const upDownString = await fs.readFile('./basketball-data/LAL.txt', 'utf8');
+  // const upDownString = await fs.readFile('./basketball-data/LAL.txt', 'utf8');
   console.log('upDownString', upDownString);
   console.log('\n');
 
@@ -33,7 +33,7 @@ const testPredictions = require('./predictFns/testPredictions');
     showPerms: true,
     runTests: true,
     executePermsEveryDay: true,
-    numTests: 4
+    numTests: 200
   });
   console.log('todays outlook', todaysOutlook);
 

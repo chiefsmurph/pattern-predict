@@ -1,12 +1,7 @@
 
 const { MAX_DIGITS } = require('./settings.js');
 
-const csvFilePath = './stock-data/GSPC.csv';
 const fs = require('mz/fs')
-
-// utils
-const csvToArray = require('./utils/csvToArray');
-const generateUpDownString = require('./utils/generateUpDownString');
 
 // nba scraping
 const getNbaGamesToday = require('./scraping/getNbaGamesToday');
@@ -14,28 +9,26 @@ const basketballWlScraperCheerio = require('./scraping/basketballWlScraperCheeri
 
 // predictFns
 const findPatternsAndReturnTodaysOutlook = require('./predictFns/findPatternsAndReturnTodaysOutlook');
-const createPredictions = require('./predictFns/createPredictions');
-const executePerms = require('./predictFns/executePerms');
-
-const testPredictions = require('./predictFns/testPredictions');
-
-
 
 (async () => {
 
-  const todaysGames = await getNbaGamesToday();
+  const anotherDay = process.argv.slice(2).join(' ');
+  const todaysGames = await getNbaGamesToday(anotherDay);
+  console.log('todaysGames', todaysGames);
   const todaysPredictions = [];
   for (let matchup of todaysGames) {
     console.log('scraping team ', matchup[0]);
-    await basketballWlScraperCheerio(matchup[0]);
+    const rawt1 = await basketballWlScraperCheerio(matchup[0]);
     console.log('scraping team ', matchup[1]);
-    await basketballWlScraperCheerio(matchup[1]);
+    const rawt2 = await basketballWlScraperCheerio(matchup[1]);
     console.log('----------------');
     console.log('now predicting...');
-    const t1UpDownString = await fs.readFile(`./basketball-data/${matchup[0]}.txt`, 'utf8');
+    const t1UpDownString = Object.keys(rawt1).map(yr => rawt1[yr]).join('');
     const t1Outlook = findPatternsAndReturnTodaysOutlook(t1UpDownString);
-    const t2UpDownString = await fs.readFile(`./basketball-data/${matchup[1]}.txt`, 'utf8');
+    console.log('t1Outlook', t1Outlook);
+    const t2UpDownString = Object.keys(rawt2).map(yr => rawt2[yr]).join('');
     const t2Outlook = findPatternsAndReturnTodaysOutlook(t2UpDownString);
+    console.log('t2Outlook', t2Outlook);
     const winnerPrediction = t1Outlook.avgPerc > t2Outlook.avgPerc ? matchup[0] : matchup[1];
     todaysPredictions.push({
       team1: matchup[0],

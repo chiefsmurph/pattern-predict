@@ -8,6 +8,8 @@ const scrapeTeam = async(team) => {
 
     console.log('scraping ', team);
 
+    const teamData = {};
+
     const scrapeSeason = async (year) => {
       return new Promise((resolve, reject) => {
         request(`https://www.basketball-reference.com/teams/${team}/${year}_games.html`, function (error, response, html) {
@@ -19,7 +21,7 @@ const scrapeTeam = async(team) => {
                 .filter(txt => txt)
                 .map(wl => wl === 'W' ? 1 : 0)
                 .join('');
-            console.log(upDownString, 'here')
+            console.log(upDownString)
             resolve(upDownString);
           } else {
             reject(error);
@@ -33,11 +35,9 @@ const scrapeTeam = async(team) => {
       years.push(yr);
     }
     // console.log(years);
-
-    let totalUpDownString = '';
     for (let yr of years) {
       try {
-        totalUpDownString = await scrapeSeason(yr) + totalUpDownString;
+        teamData[yr] = await scrapeSeason(yr);
       } catch (e) {
         console.error('y', e);
         break;
@@ -47,8 +47,9 @@ const scrapeTeam = async(team) => {
 
     console.log('saving...')
     try {
-      await fs.writeFile('./basketball-data/' + team + '.txt', totalUpDownString);
+      await fs.writeFile('./basketball-data/' + team + '.txt', JSON.stringify(teamData));
       console.log('done');
+      return teamData;
     } catch (e) {
       console.error(e);
     }

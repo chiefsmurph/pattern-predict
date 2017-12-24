@@ -12,10 +12,10 @@ const dayCommaYear = date => {
   return date.getDate() + ", " + date.getFullYear();
 };
 
-const scrapeTodaysGames = async () => {
+const scrapeTodaysGames = async (anotherDay) => {
 
     console.log('scraping todays games');
-    const d = new Date();
+    const d = anotherDay ? new Date(anotherDay) : new Date();
     const currentMonth = getMonthName(d);
     const dayCommaYearStr = dayCommaYear(d);
     console.log('dayCommaYearStr', dayCommaYearStr);
