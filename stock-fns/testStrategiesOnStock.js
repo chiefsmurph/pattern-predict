@@ -3,7 +3,7 @@ const csvToArray = require('../utils/csvToArray');
 const generateUpDownString = require('../utils/generateUpDownString');
 
 // predictFns
-const testStrategies = require('../predict-fns/testStrategies');
+const testStrategies = require('../strategy-testing/testStrategies');
 
 const fs = require('mz/fs');
 

@@ -13,9 +13,9 @@ module.exports = (todaysOutlook, strategyPerformance) => {
 
     const stratPerf = Object.keys(strategyPerformance).reduce((acc, timeBreakdown) => {
       const timePeriodStratPerf = strategyPerformance[timeBreakdown];
-      const breakdownPerformance = timePeriodStratPerf[.find(breakdownObj => {
+      const breakdownPerformance = timePeriodStratPerf.find(breakdownObj => {
         return breakdownObj.breakdownName === breakdownMet;
-      })];
+      });
       // console.log(breakdownPerformance)
       const stratPerf = breakdownPerformance.strategyPerformance[stratKey];
       acc[timeBreakdown] = stratPerf;

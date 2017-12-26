@@ -1,7 +1,7 @@
 const arrayAvg = require('../utils/arrayAvg');
 
-const createPredictions = require('./createPredictions');
-const executePerms = require('./executePerms');
+const createPredictions = require('../predict-fns/createPredictions');
+const executePerms = require('../predict-fns/executePerms');
 
 const percBreakdowns = require('./percBreakdowns');
 const timeBreakdowns = require('./timeBreakdowns');
