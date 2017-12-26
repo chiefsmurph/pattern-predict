@@ -19,7 +19,7 @@ const testStrategiesOnStock = async stockTicker => {
   console.log('upDownString', upDownString);
   console.log('\n');
 
-  const strategyPerformance = testStrategies(upDownString, 4);
+  const strategyPerformance = testStrategies(upDownString, 365);
   console.log('strategyPerformance');
   console.log(JSON.stringify(strategyPerformance, null, 2));
 

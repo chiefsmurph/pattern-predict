@@ -41,7 +41,8 @@ const getTodaysOutlook = async stockTicker => {
   } else {
     console.log('run ./stock-fns/testStrategiesOnStock to add testPerformance');
   }
-  console.log('todays outlook', todaysOutlook);
+  console.log('todays outlook')
+  console.log(JSON.stringify(todaysOutlook, null, 2));
 
 };
 

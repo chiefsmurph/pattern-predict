@@ -1,4 +1,4 @@
-const percBreakdowns = require('./percBreakdowns');
+const percBreakdowns = require('../strategy-testing/percBreakdowns');
 
 module.exports = (todaysOutlook, strategyPerformance) => {
 
@@ -10,11 +10,18 @@ module.exports = (todaysOutlook, strategyPerformance) => {
       const percFilter = percBreakdowns[breakdownName];
       return percFilter(stratValue);
     });
-    const breakdownPerformance = strategyPerformance.find(breakdownObj => {
-      return breakdownObj.breakdownName === breakdownMet;
-    });
-    // console.log(breakdownPerformance)
-    const stratPerf = breakdownPerformance.strategyPerformance.find(stratPerf => stratPerf.strategy === stratKey).percCorrect;
+
+    const stratPerf = Object.keys(strategyPerformance).reduce((acc, timeBreakdown) => {
+      const timePeriodStratPerf = strategyPerformance[timeBreakdown];
+      const breakdownPerformance = timePeriodStratPerf[.find(breakdownObj => {
+        return breakdownObj.breakdownName === breakdownMet;
+      })];
+      // console.log(breakdownPerformance)
+      const stratPerf = breakdownPerformance.strategyPerformance[stratKey];
+      acc[timeBreakdown] = stratPerf;
+      return acc;
+    }, {});
+
     acc[stratKey] = {
       val: stratValue,
       testPerformance: stratPerf
@@ -27,5 +34,5 @@ module.exports = (todaysOutlook, strategyPerformance) => {
     ...todaysOutlook,
     strategies: newStrategies
   };
-  
+
 };

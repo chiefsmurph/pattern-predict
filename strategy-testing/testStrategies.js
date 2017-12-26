@@ -3,13 +3,16 @@ const arrayAvg = require('../utils/arrayAvg');
 const createPredictions = require('./createPredictions');
 const executePerms = require('./executePerms');
 
+const percBreakdowns = require('./percBreakdowns');
+const timeBreakdowns = require('./timeBreakdowns');
+
 const testStrategies = (upDownString, numDaysToTest, permsExecuted) => {
 
   const testResults = [];
   for (var i = 1; i <= numDaysToTest; i++) {
     console.log('testing for today - ' + i + ' days');
 
-    let goBackRandomDays = 365 - i;
+    let goBackRandomDays = i;
     // goBackRandomDays = Math.round(Math.random() * goBackRandomDays);
     // let goBackRandomDays = i;
     console.log('going back ', goBackRandomDays, ' days');
@@ -36,32 +39,34 @@ const testStrategies = (upDownString, numDaysToTest, permsExecuted) => {
     console.log('finished test ', i, ' of ', numDaysToTest);
   }
 
-  const calcStrategyPerformance = (testResults, breakdowns) => {
+  const calcStrategyPerformance = (testResults) => {
     console.log('------------------------------');
     // console.log(tests);
-    return Object.keys(breakdowns).map(breakdownName => {
-      const percFilter = breakdowns[breakdownName];
+    return Object.keys(percBreakdowns).map(breakdownName => {
+      const percFilter = percBreakdowns[breakdownName];
       const strategies = Object.keys(testResults[0].strategies);
       return {
         breakdownName,
-        strategyPerformance: strategies.map(strategyKey => {
+        strategyPerformance: strategies.reduce((acc, strategyKey) => {
           const testsThatMeetFilter = testResults.filter(test => percFilter(test.strategies[strategyKey].val));
           const percCorrect = testsThatMeetFilter.filter(test => test.strategies[strategyKey].correct).length * 10000 / (testsThatMeetFilter.length * 100);
-          return {
-            strategy: strategyKey,
+          acc[strategyKey] = {
             percCorrect,
             count: testsThatMeetFilter.length
           };
-        })
+          return acc;
+        }, {})
       };
     });
 
   };
 
-  const strategyPerformance = calcStrategyPerformance(
-    testResults,
-    require('./percBreakdowns')
-  );
+  const strategyPerformance = Object.keys(timeBreakdowns).reduce((acc, timeBreakdown) => {
+    acc[timeBreakdown] = calcStrategyPerformance(
+      testResults.slice(0 - timeBreakdowns[timeBreakdown])
+    );
+    return acc;
+  }, {});
 
   console.log('strategyPerformance');
   console.log(JSON.stringify(strategyPerformance, null, 2));

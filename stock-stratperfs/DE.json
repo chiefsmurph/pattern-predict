@@ -1,107 +1,323 @@
-[
-  {
-    "breakdownName": "overall",
-    "strategyPerformance": [
-      {
-        "strategy": "avgPerc",
-        "percCorrect": 25,
-        "count": 4
-      },
-      {
-        "strategy": "weightedPerc",
-        "percCorrect": 25,
-        "count": 4
-      }
-    ]
-  },
-  {
-    "breakdownName": "testsPredictedUp",
-    "strategyPerformance": [
-      {
-        "strategy": "avgPerc",
-        "percCorrect": 50,
-        "count": 2
-      },
-      {
-        "strategy": "weightedPerc",
-        "percCorrect": 50,
-        "count": 2
-      }
-    ]
-  },
-  {
-    "breakdownName": "withoutUnsures (> 55% || < 45%)",
-    "strategyPerformance": [
-      {
-        "strategy": "avgPerc",
-        "percCorrect": null,
-        "count": 0
-      },
-      {
-        "strategy": "weightedPerc",
-        "percCorrect": null,
-        "count": 0
-      }
-    ]
-  },
-  {
-    "breakdownName": "sureThings (> 55%)",
-    "strategyPerformance": [
-      {
-        "strategy": "avgPerc",
-        "percCorrect": 50,
-        "count": 2
-      },
-      {
-        "strategy": "weightedPerc",
-        "percCorrect": 50,
-        "count": 2
-      }
-    ]
-  },
-  {
-    "breakdownName": "real sureThings (> 60%)",
-    "strategyPerformance": [
-      {
-        "strategy": "avgPerc",
-        "percCorrect": null,
-        "count": 0
-      },
-      {
-        "strategy": "weightedPerc",
-        "percCorrect": null,
-        "count": 0
-      }
-    ]
-  },
-  {
-    "breakdownName": "kinda really sureThings (> 65%)",
-    "strategyPerformance": [
-      {
-        "strategy": "avgPerc",
-        "percCorrect": null,
-        "count": 0
-      },
-      {
-        "strategy": "weightedPerc",
-        "percCorrect": null,
-        "count": 0
-      }
-    ]
-  },
-  {
-    "breakdownName": "really sureThings (> 70%)",
-    "strategyPerformance": [
-      {
-        "strategy": "avgPerc",
-        "percCorrect": null,
-        "count": 0
-      },
-      {
-        "strategy": "weightedPerc",
-        "percCorrect": null,
-        "count": 0
-      }
-    ]
-  }
-]
+{
+  "lastYear": [
+    {
+      "breakdownName": "overall",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 48.49315068493151,
+          "count": 365
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 50.136986301369866,
+          "count": 365
+        }
+      ]
+    },
+    {
+      "breakdownName": "testsPredictedUp",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 55.68862275449102,
+          "count": 167
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 56.613756613756614,
+          "count": 189
+        }
+      ]
+    },
+    {
+      "breakdownName": "withoutUnsures (> 55% || < 45%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 47.22222222222222,
+          "count": 72
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 52.69461077844311,
+          "count": 167
+        }
+      ]
+    },
+    {
+      "breakdownName": "sureThings (> 55%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 55.68862275449102,
+          "count": 167
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 56.613756613756614,
+          "count": 189
+        }
+      ]
+    },
+    {
+      "breakdownName": "real sureThings (> 60%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 48.888888888888886,
+          "count": 45
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 57.00934579439252,
+          "count": 107
+        }
+      ]
+    },
+    {
+      "breakdownName": "kinda really sureThings (> 65%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 46.15384615384615,
+          "count": 13
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 54.43037974683544,
+          "count": 79
+        }
+      ]
+    },
+    {
+      "breakdownName": "really sureThings (> 70%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 100,
+          "count": 2
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 47.82608695652174,
+          "count": 46
+        }
+      ]
+    }
+  ],
+  "last60": [
+    {
+      "breakdownName": "overall",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 55,
+          "count": 60
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 55,
+          "count": 60
+        }
+      ]
+    },
+    {
+      "breakdownName": "testsPredictedUp",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 48.275862068965516,
+          "count": 29
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 48.484848484848484,
+          "count": 33
+        }
+      ]
+    },
+    {
+      "breakdownName": "withoutUnsures (> 55% || < 45%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 64.28571428571429,
+          "count": 14
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 50,
+          "count": 34
+        }
+      ]
+    },
+    {
+      "breakdownName": "sureThings (> 55%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 48.275862068965516,
+          "count": 29
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 48.484848484848484,
+          "count": 33
+        }
+      ]
+    },
+    {
+      "breakdownName": "real sureThings (> 60%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 66.66666666666667,
+          "count": 9
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 45,
+          "count": 20
+        }
+      ]
+    },
+    {
+      "breakdownName": "kinda really sureThings (> 65%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": null,
+          "count": 0
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 64.28571428571429,
+          "count": 14
+        }
+      ]
+    },
+    {
+      "breakdownName": "really sureThings (> 70%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": null,
+          "count": 0
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 66.66666666666667,
+          "count": 9
+        }
+      ]
+    }
+  ],
+  "last30": [
+    {
+      "breakdownName": "overall",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 50,
+          "count": 30
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 50,
+          "count": 30
+        }
+      ]
+    },
+    {
+      "breakdownName": "testsPredictedUp",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 37.5,
+          "count": 16
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 38.888888888888886,
+          "count": 18
+        }
+      ]
+    },
+    {
+      "breakdownName": "withoutUnsures (> 55% || < 45%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 83.33333333333333,
+          "count": 6
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 46.666666666666664,
+          "count": 15
+        }
+      ]
+    },
+    {
+      "breakdownName": "sureThings (> 55%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 37.5,
+          "count": 16
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 38.888888888888886,
+          "count": 18
+        }
+      ]
+    },
+    {
+      "breakdownName": "real sureThings (> 60%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": 75,
+          "count": 4
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 33.333333333333336,
+          "count": 9
+        }
+      ]
+    },
+    {
+      "breakdownName": "kinda really sureThings (> 65%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": null,
+          "count": 0
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 75,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "breakdownName": "really sureThings (> 70%)",
+      "strategyPerformance": [
+        {
+          "strategy": "avgPerc",
+          "percCorrect": null,
+          "count": 0
+        },
+        {
+          "strategy": "weightedPerc",
+          "percCorrect": 75,
+          "count": 4
+        }
+      ]
+    }
+  ]
+}
