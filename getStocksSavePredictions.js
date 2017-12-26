@@ -10,7 +10,7 @@ const exec = require('child_process').exec;
       await getHistoricalStock(stock);
 
 
-      var child = exec('node ./predictFns/runOutlookAndTestsOnStockCSV ' + stock + ' > ./output/' + stock + '.txt');
+      var child = exec('node ./stock-fns/runOutlookAndTestsOnStockCSV ' + stock + ' > ./output/' + stock + '.txt');
       child.stdout.on('data', function(data) {
           console.log('stdout: ' + data);
       });

@@ -8,7 +8,7 @@ const getNbaGamesToday = require('./scraping/getNbaGamesToday');
 const basketballWlScraperCheerio = require('./scraping/basketballWlScraperCheerio');
 
 // predictFns
-const findPatternsAndReturnTodaysOutlook = require('./predictFns/findPatternsAndReturnTodaysOutlook');
+const findPatternsAndReturnTodaysOutlook = require('./predict-fns/findPatternsAndReturnTodaysOutlook');
 
 (async () => {
 

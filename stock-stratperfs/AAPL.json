@@ -1,0 +1,107 @@
+[
+  {
+    "breakdownName": "overall",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 75,
+        "count": 4
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 75,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "breakdownName": "testsPredictedUp",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 66.66666666666667,
+        "count": 3
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 66.66666666666667,
+        "count": 3
+      }
+    ]
+  },
+  {
+    "breakdownName": "withoutUnsures (> 55% || < 45%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 100,
+        "count": 1
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 100,
+        "count": 2
+      }
+    ]
+  },
+  {
+    "breakdownName": "sureThings (> 55%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 66.66666666666667,
+        "count": 3
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 66.66666666666667,
+        "count": 3
+      }
+    ]
+  },
+  {
+    "breakdownName": "real sureThings (> 60%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 100,
+        "count": 1
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 100,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "breakdownName": "kinda really sureThings (> 65%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 100,
+        "count": 1
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 100,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "breakdownName": "really sureThings (> 70%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": null,
+        "count": 0
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 100,
+        "count": 1
+      }
+    ]
+  }
+]

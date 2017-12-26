@@ -1,0 +1,107 @@
+[
+  {
+    "breakdownName": "overall",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 25,
+        "count": 4
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 25,
+        "count": 4
+      }
+    ]
+  },
+  {
+    "breakdownName": "testsPredictedUp",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 50,
+        "count": 2
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 50,
+        "count": 2
+      }
+    ]
+  },
+  {
+    "breakdownName": "withoutUnsures (> 55% || < 45%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": null,
+        "count": 0
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": null,
+        "count": 0
+      }
+    ]
+  },
+  {
+    "breakdownName": "sureThings (> 55%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": 50,
+        "count": 2
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": 50,
+        "count": 2
+      }
+    ]
+  },
+  {
+    "breakdownName": "real sureThings (> 60%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": null,
+        "count": 0
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": null,
+        "count": 0
+      }
+    ]
+  },
+  {
+    "breakdownName": "kinda really sureThings (> 65%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": null,
+        "count": 0
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": null,
+        "count": 0
+      }
+    ]
+  },
+  {
+    "breakdownName": "really sureThings (> 70%)",
+    "strategyPerformance": [
+      {
+        "strategy": "avgPerc",
+        "percCorrect": null,
+        "count": 0
+      },
+      {
+        "strategy": "weightedPerc",
+        "percCorrect": null,
+        "count": 0
+      }
+    ]
+  }
+]

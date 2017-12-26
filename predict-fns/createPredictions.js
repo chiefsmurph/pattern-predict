@@ -21,7 +21,7 @@ const createPredictions = (upDownString, permsExecuted) => {
 
   return {
     perms: todaysPerms,
-    ...strategies(todaysPerms)
+    strategies: strategies(todaysPerms)
   };
 };
 

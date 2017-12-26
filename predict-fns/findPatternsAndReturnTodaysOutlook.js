@@ -1,7 +1,7 @@
 const { MAX_DIGITS } = require('../settings');
 
 const executePerms = require('./executePerms');
-const testPredictions = require('./testPredictions');
+const testStrategies = require('./testStrategies');
 const createPredictions = require('./createPredictions');
 
 const findPatternsAndReturnTodaysOutlook = (upDownString, options = {}) => {
@@ -15,10 +15,10 @@ const findPatternsAndReturnTodaysOutlook = (upDownString, options = {}) => {
     console.log(forPresenting);
   }
   if (options.runTests) {
-    testPredictions(upDownString, options.numTests || 30, options.executePermsEveryDay ? null : permsExecuted);
+    var strategyPerformance = testStrategies(upDownString, options.numTests || 30, options.executePermsEveryDay ? null : permsExecuted);
   }
   const todaysOutlook = createPredictions(upDownString, permsExecuted);
-  return todaysOutlook;
+  return [todaysOutlook, strategyPerformance];
 };
 
 module.exports = findPatternsAndReturnTodaysOutlook;

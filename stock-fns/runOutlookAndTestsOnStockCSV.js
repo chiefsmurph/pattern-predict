@@ -3,8 +3,8 @@ const csvToArray = require('../utils/csvToArray');
 const generateUpDownString = require('../utils/generateUpDownString');
 
 // predictFns
-const findPatternsAndReturnTodaysOutlook = require('./findPatternsAndReturnTodaysOutlook');
-
+const findPatternsAndReturnTodaysOutlook = require('../predict-fns/findPatternsAndReturnTodaysOutlook');
+const addTestPerfToOutlook = require('../predict-fns/addTestPerfToOutlook');
 
 const runOutlookAndTestsOnStockCSV = async csvFilePath => {
   // STOCKS
@@ -17,13 +17,19 @@ const runOutlookAndTestsOnStockCSV = async csvFilePath => {
   console.log('upDownString', upDownString);
   console.log('\n');
 
-  const todaysOutlook = findPatternsAndReturnTodaysOutlook(upDownString, {
+  let [todaysOutlook, strategyPerformance] = findPatternsAndReturnTodaysOutlook(upDownString, {
     showPerms: true,
     runTests: true,
     executePermsEveryDay: true,
-    numTests: 200
+    numTests: 4
   });
+
+  if (strategyPerformance) {
+    console.log(JSON.stringify(strategyPerformance, null, 2), 'stratperf');
+    todaysOutlook = addTestPerfToOutlook(todaysOutlook, strategyPerformance);
+  }
   console.log('todays outlook', todaysOutlook);
+
 };
 
 (async() => {
