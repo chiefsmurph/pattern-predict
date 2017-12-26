@@ -1,0 +1,1464 @@
+dayarray [ { Date: '1986-03-13',
+    Open: '0.088542',
+    High: '0.101563',
+    Low: '0.088542',
+    Close: '0.097222',
+    'Adj Close': '0.064572',
+    Volume: '1031788800' },
+  { Date: '1986-03-14',
+    Open: '0.097222',
+    High: '0.102431',
+    Low: '0.097222',
+    Close: '0.100694',
+    'Adj Close': '0.066878',
+    Volume: '308160000' },
+  { Date: '1986-03-17',
+    Open: '0.100694',
+    High: '0.103299',
+    Low: '0.100694',
+    Close: '0.102431',
+    'Adj Close': '0.068032',
+    Volume: '133171200' },
+  { Date: '1986-03-18',
+    Open: '0.102431',
+    High: '0.103299',
+    Low: '0.098958',
+    Close: '0.099826',
+    'Adj Close': '0.066302',
+    Volume: '67766400' },
+  { Date: '1986-03-19',
+    Open: '0.099826',
+    High: '0.100694',
+    Low: '0.097222',
+    Close: '0.098090',
+    'Adj Close': '0.065149',
+    Volume: '47894400' },
+  { Date: '1986-03-20',
+    Open: '0.098090',
+    High: '0.098090',
+    Low: '0.094618',
+    Close: '0.095486',
+    'Adj Close': '0.063419',
+    Volume: '58435200' },
+  { Date: '1986-03-21',
+    Open: '0.095486',
+    High: '0.097222',
+    Low: '0.091146',
+    Close: '0.092882',
+    'Adj Close': '0.061690',
+    Volume: '59990400' },
+  { Date: '1986-03-24',
+    Open: '0.092882',
+    High: '0.092882',
+    Low: '0.089410',
+    Close: '0.090278',
+    'Adj Close': '0.059960',
+    Volume: '65289600' },
+  { Date: '1986-03-25',
+    Open: '0.090278',
+    High: '0.092014',
+    Low: '0.089410',
+    Close: '0.092014',
+    'Adj Close': '0.061113',
+    Volume: '32083200' },
+  { Date: '1986-03-26',
+    Open: '0.092014',
+    High: '0.095486',
+    Low: '0.091146',
+    Close: '0.094618',
+    'Adj Close': '0.062843',
+    Volume: '22752000' },
+  { Date: '1986-03-27',
+    Open: '0.094618',
+    High: '0.096354',
+    Low: '0.094618',
+    Close: '0.096354',
+    'Adj Close': '0.063996',
+    Volume: '16848000' },
+  { Date: '1986-03-31',
+    Open: '0.096354',
+    High: '0.096354',
+    Low: '0.093750',
+    Close: '0.095486',
+    'Adj Close': '0.063419',
+    Volume: '12873600' },
+  { Date: '1986-04-01',
+    Open: '0.095486',
+    High: '0.095486',
+    Low: '0.094618',
+    Close: '0.094618',
+    'Adj Close': '0.062843',
+    Volume: '11088000' },
+  { Date: '1986-04-02',
+    Open: '0.094618',
+    High: '0.097222',
+    Low: '0.094618',
+    Close: '0.095486',
+    'Adj Close': '0.063419',
+    Volume: '27014400' },
+  { Date: '1986-04-03',
+    Open: '0.096354',
+    High: '0.098958',
+    Low: '0.096354',
+    Close: '0.096354',
+    'Adj Close': '0.063996',
+    Volume: '23040000' },
+  { Date: '1986-04-04',
+    Open: '0.096354',
+    High: '0.097222',
+    Low: '0.096354',
+    Close: '0.096354',
+    'Adj Close': '0.063996',
+    Volume: '26582400' },
+  { Date: '1986-04-07',
+    Open: '0.096354',
+    High: '0.097222',
+    Low: '0.092882',
+    Close: '0.094618',
+    'Adj Close': '0.062843',
+    Volume: '16560000' },
+  { Date: '1986-04-08',
+    Open: '0.094618',
+    High: '0.097222',
+    Low: '0.094618',
+    Close: '0.095486',
+    'Adj Close': '0.063419',
+    Volume: '10252800' },
+  { Date: '1986-04-09',
+    Open: '0.095486',
+    High: '0.098090',
+    Low: '0.095486',
+    Close: '0.097222',
+    'Adj Close': '0.064572',
+    Volume: '12153600' },
+  { Date: '1986-04-10',
+    Open: '0.097222',
+    High: '0.098958',
+    Low: '0.095486',
+    Close: '0.098090',
+    'Adj Close': '0.065149',
+    Volume: '13881600' },
+  { Date: '1986-04-11',
+    Open: '0.098958',
+    High: '0.101563',
+    Low: '0.098958',
+    Close: '0.099826',
+    'Adj Close': '0.066302',
+    Volume: '17222400' },
+  { Date: '1986-04-14',
+    Open: '0.099826',
+    High: '0.101563',
+    Low: '0.099826',
+    Close: '0.100694',
+    'Adj Close': '0.066878',
+    Volume: '12153600' },
+  { Date: '1986-04-15',
+    Open: '0.100694',
+    High: '0.100694',
+    Low: '0.097222',
+    Close: '0.100694',
+    'Adj Close': '0.066878',
+    Volume: '9302400' },
+  { Date: '1986-04-16',
+    Open: '0.100694',
+    High: '0.105035',
+    Low: '0.099826',
+    Close: '0.104167',
+    'Adj Close': '0.069185',
+    Volume: '31910400' },
+  { Date: '1986-04-17',
+    Open: '0.104167',
+    High: '0.105035',
+    Low: '0.104167',
+    Close: '0.105035',
+    'Adj Close': '0.069761',
+    Volume: '22003200' },
+  { Date: '1986-04-18',
+    Open: '0.105035',
+    High: '0.105035',
+    Low: '0.100694',
+    Close: '0.101563',
+    'Adj Close': '0.067455',
+    Volume: '21628800' },
+  { Date: '1986-04-21',
+    Open: '0.101563',
+    High: '0.102431',
+    Low: '0.098958',
+    Close: '0.101563',
+    'Adj Close': '0.067455',
+    Volume: '22924800' },
+  { Date: '1986-04-22',
+    Open: '0.101563',
+    High: '0.101563',
+    Low: '0.099826',
+    Close: '0.099826',
+    'Adj Close': '0.066302',
+    Volume: '15552000' },
+  { Date: '1986-04-23',
+    Open: '0.099826',
+    High: '0.100694',
+    Low: '0.098958',
+    Close: '0.100260',
+    'Adj Close': '0.066590',
+    Volume: '15609600' },
+  { Date: '1986-04-24',
+    Open: '0.100260',
+    High: '0.111979',
+    Low: '0.099826',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '62352000' },
+  { Date: '1986-04-25',
+    Open: '0.111111',
+    High: '0.121962',
+    Low: '0.111111',
+    Close: '0.117188',
+    'Adj Close': '0.077833',
+    Volume: '85795200' },
+  { Date: '1986-04-28',
+    Open: '0.117188',
+    High: '0.118924',
+    Low: '0.116319',
+    Close: '0.118056',
+    'Adj Close': '0.078409',
+    Volume: '28886400' },
+  { Date: '1986-04-29',
+    Open: '0.118056',
+    High: '0.118056',
+    Low: '0.113715',
+    Close: '0.114583',
+    'Adj Close': '0.076103',
+    Volume: '30326400' },
+  { Date: '1986-04-30',
+    Open: '0.114583',
+    High: '0.115451',
+    Low: '0.109375',
+    Close: '0.111979',
+    'Adj Close': '0.074373',
+    Volume: '30902400' },
+  { Date: '1986-05-01',
+    Open: '0.111979',
+    High: '0.111979',
+    Low: '0.108507',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '54345600' },
+  { Date: '1986-05-02',
+    Open: '0.110243',
+    High: '0.111979',
+    Low: '0.109375',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '20246400' },
+  { Date: '1986-05-05',
+    Open: '0.110243',
+    High: '0.110243',
+    Low: '0.109375',
+    Close: '0.109375',
+    'Adj Close': '0.072644',
+    Volume: '3254400' },
+  { Date: '1986-05-06',
+    Open: '0.110243',
+    High: '0.111979',
+    Low: '0.110243',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '9734400' },
+  { Date: '1986-05-07',
+    Open: '0.110243',
+    High: '0.111111',
+    Low: '0.108507',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '5155200' },
+  { Date: '1986-05-08',
+    Open: '0.110243',
+    High: '0.111111',
+    Low: '0.109375',
+    Close: '0.111111',
+    'Adj Close': '0.073797',
+    Volume: '3542400' },
+  { Date: '1986-05-09',
+    Open: '0.111111',
+    High: '0.111111',
+    Low: '0.110243',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '6076800' },
+  { Date: '1986-05-12',
+    Open: '0.110243',
+    High: '0.113715',
+    Low: '0.110243',
+    Close: '0.111111',
+    'Adj Close': '0.073797',
+    Volume: '10483200' },
+  { Date: '1986-05-13',
+    Open: '0.111111',
+    High: '0.112847',
+    Low: '0.111111',
+    Close: '0.111979',
+    'Adj Close': '0.074373',
+    Volume: '3830400' },
+  { Date: '1986-05-14',
+    Open: '0.111979',
+    High: '0.111979',
+    Low: '0.111111',
+    Close: '0.111111',
+    'Adj Close': '0.073797',
+    Volume: '9302400' },
+  { Date: '1986-05-15',
+    Open: '0.111111',
+    High: '0.112847',
+    Low: '0.111111',
+    Close: '0.111111',
+    'Adj Close': '0.073797',
+    Volume: '3801600' },
+  { Date: '1986-05-16',
+    Open: '0.111111',
+    High: '0.114583',
+    Low: '0.111111',
+    Close: '0.111979',
+    'Adj Close': '0.074373',
+    Volume: '11952000' },
+  { Date: '1986-05-19',
+    Open: '0.111979',
+    High: '0.111979',
+    Low: '0.109375',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '11001600' },
+  { Date: '1986-05-20',
+    Open: '0.110243',
+    High: '0.110243',
+    Low: '0.108507',
+    Close: '0.109375',
+    'Adj Close': '0.072644',
+    Volume: '61977600' },
+  { Date: '1986-05-21',
+    Open: '0.109375',
+    High: '0.110243',
+    Low: '0.107639',
+    Close: '0.107639',
+    'Adj Close': '0.071491',
+    Volume: '8092800' },
+  { Date: '1986-05-22',
+    Open: '0.107639',
+    High: '0.108507',
+    Low: '0.107639',
+    Close: '0.107639',
+    'Adj Close': '0.071491',
+    Volume: '4406400' },
+  { Date: '1986-05-23',
+    Open: '0.107639',
+    High: '0.109375',
+    Low: '0.107639',
+    Close: '0.107639',
+    'Adj Close': '0.071491',
+    Volume: '4089600' },
+  { Date: '1986-05-27',
+    Open: '0.107639',
+    High: '0.111111',
+    Low: '0.107639',
+    Close: '0.111111',
+    'Adj Close': '0.073797',
+    Volume: '13881600' },
+  { Date: '1986-05-28',
+    Open: '0.111111',
+    High: '0.114583',
+    Low: '0.111111',
+    Close: '0.114583',
+    'Adj Close': '0.076103',
+    Volume: '15523200' },
+  { Date: '1986-05-29',
+    Open: '0.114583',
+    High: '0.118924',
+    Low: '0.113715',
+    Close: '0.117188',
+    'Adj Close': '0.077833',
+    Volume: '45676800' },
+  { Date: '1986-05-30',
+    Open: '0.118056',
+    High: '0.123264',
+    Low: '0.118056',
+    Close: '0.121528',
+    'Adj Close': '0.080715',
+    Volume: '27072000' },
+  { Date: '1986-06-02',
+    Open: '0.121528',
+    High: '0.121528',
+    Low: '0.118056',
+    Close: '0.118056',
+    'Adj Close': '0.078409',
+    Volume: '19728000' },
+  { Date: '1986-06-03',
+    Open: '0.118056',
+    High: '0.118056',
+    Low: '0.116319',
+    Close: '0.118056',
+    'Adj Close': '0.078409',
+    Volume: '5011200' },
+  { Date: '1986-06-04',
+    Open: '0.118056',
+    High: '0.118924',
+    Low: '0.116319',
+    Close: '0.117188',
+    'Adj Close': '0.077833',
+    Volume: '4723200' },
+  { Date: '1986-06-05',
+    Open: '0.117188',
+    High: '0.118924',
+    Low: '0.116319',
+    Close: '0.118924',
+    'Adj Close': '0.078986',
+    Volume: '13708800' },
+  { Date: '1986-06-06',
+    Open: '0.118924',
+    High: '0.118924',
+    Low: '0.117188',
+    Close: '0.118924',
+    'Adj Close': '0.078986',
+    Volume: '3427200' },
+  { Date: '1986-06-09',
+    Open: '0.118924',
+    High: '0.118924',
+    Low: '0.113715',
+    Close: '0.113715',
+    'Adj Close': '0.075527',
+    Volume: '12672000' },
+  { Date: '1986-06-10',
+    Open: '0.113715',
+    High: '0.113715',
+    Low: '0.111979',
+    Close: '0.113715',
+    'Adj Close': '0.075527',
+    Volume: '3427200' },
+  { Date: '1986-06-11',
+    Open: '0.113715',
+    High: '0.113715',
+    Low: '0.111979',
+    Close: '0.113715',
+    'Adj Close': '0.075527',
+    Volume: '2304000' },
+  { Date: '1986-06-12',
+    Open: '0.113715',
+    High: '0.113715',
+    Low: '0.108507',
+    Close: '0.109375',
+    'Adj Close': '0.072644',
+    Volume: '13708800' },
+  { Date: '1986-06-13',
+    Open: '0.109375',
+    High: '0.110243',
+    Low: '0.108507',
+    Close: '0.109375',
+    'Adj Close': '0.072644',
+    Volume: '7891200' },
+  { Date: '1986-06-16',
+    Open: '0.109375',
+    High: '0.110243',
+    Low: '0.107639',
+    Close: '0.108507',
+    'Adj Close': '0.072067',
+    Volume: '9590400' },
+  { Date: '1986-06-17',
+    Open: '0.109375',
+    High: '0.111979',
+    Low: '0.109375',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '13075200' },
+  { Date: '1986-06-18',
+    Open: '0.110243',
+    High: '0.110243',
+    Low: '0.107639',
+    Close: '0.109375',
+    'Adj Close': '0.072644',
+    Volume: '4348800' },
+  { Date: '1986-06-19',
+    Open: '0.109375',
+    High: '0.110243',
+    Low: '0.107639',
+    Close: '0.108507',
+    'Adj Close': '0.072067',
+    Volume: '8467200' },
+  { Date: '1986-06-20',
+    Open: '0.108507',
+    High: '0.109375',
+    Low: '0.108507',
+    Close: '0.108941',
+    'Adj Close': '0.072356',
+    Volume: '3801600' },
+  { Date: '1986-06-23',
+    Open: '0.108941',
+    High: '0.110243',
+    Low: '0.106771',
+    Close: '0.110243',
+    'Adj Close': '0.073220',
+    Volume: '46195200' },
+  { Date: '1986-06-24',
+    Open: '0.110243',
+    High: '0.111111',
+    Low: '0.108507',
+    Close: '0.109375',
+    'Adj Close': '0.072644',
+    Volume: '14572800' },
+  { Date: '1986-06-25',
+    Open: '0.109375',
+    High: '0.110243',
+    Low: '0.107639',
+    Close: '0.107639',
+    'Adj Close': '0.071491',
+    Volume: '15235200' },
+  { Date: '1986-06-26',
+    Open: '0.107639',
+    High: '0.108507',
+    Low: '0.104167',
+    Close: '0.104167',
+    'Adj Close': '0.069185',
+    Volume: '19152000' },
+  { Date: '1986-06-27',
+    Open: '0.104167',
+    High: '0.105035',
+    Low: '0.102431',
+    Close: '0.103299',
+    'Adj Close': '0.068608',
+    Volume: '10396800' },
+  { Date: '1986-06-30',
+    Open: '0.103299',
+    High: '0.109375',
+    Low: '0.102431',
+    Close: '0.106771',
+    'Adj Close': '0.070914',
+    Volume: '62352000' },
+  { Date: '1986-07-01',
+    Open: '0.106771',
+    High: '0.106771',
+    Low: '0.105903',
+    Close: '0.106771',
+    'Adj Close': '0.070914',
+    Volume: '47577600' },
+  { Date: '1986-07-02',
+    Open: '0.106771',
+    High: '0.106771',
+    Low: '0.105903',
+    Close: '0.106771',
+    'Adj Close': '0.070914',
+    Volume: '52617600' },
+  { Date: '1986-07-03',
+    Open: '0.107639',
+    High: '0.109375',
+    Low: '0.107639',
+    Close: '0.108507',
+    'Adj Close': '0.072067',
+    Volume: '14140800' },
+  { Date: '1986-07-07',
+    Open: '0.108507',
+    High: '0.108507',
+    Low: '0.104167',
+    Close: '0.104167',
+    'Adj Close': '0.069185',
+    Volume: '14054400' },
+  { Date: '1986-07-08',
+    Open: '0.104167',
+    High: '0.104167',
+    Low: '0.100694',
+    Close: '0.101563',
+    'Adj Close': '0.067455',
+    Volume: '14256000' },
+  { Date: '1986-07-09',
+    Open: '0.101563',
+    High: '0.101563',
+    Low: '0.096354',
+    Close: '0.097222',
+    'Adj Close': '0.064572',
+    Volume: '46137600' },
+  { Date: '1986-07-10',
+    Open: '0.097222',
+    High: '0.098090',
+    Low: '0.090278',
+    Close: '0.094618',
+    'Adj Close': '0.062843',
+    Volume: '46886400' },
+  { Date: '1986-07-11',
+    Open: '0.094618',
+    High: '0.098958',
+    Low: '0.094618',
+    Close: '0.097222',
+    'Adj Close': '0.064572',
+    Volume: '17395200' },
+  { Date: '1986-07-14',
+    Open: '0.094618',
+    High: '0.098090',
+    Low: '0.094618',
+    Close: '0.095920',
+    'Adj Close': '0.063708',
+    Volume: '28598400' },
+  { Date: '1986-07-15',
+    Open: '0.095920',
+    High: '0.098958',
+    Low: '0.094618',
+    Close: '0.097222',
+    'Adj Close': '0.064572',
+    Volume: '13190400' },
+  { Date: '1986-07-16',
+    Open: '0.098090',
+    High: '0.100694',
+    Low: '0.098090',
+    Close: '0.100694',
+    'Adj Close': '0.066878',
+    Volume: '9360000' },
+  { Date: '1986-07-17',
+    Open: '0.100694',
+    High: '0.102431',
+    Low: '0.099826',
+    Close: '0.102431',
+    'Adj Close': '0.068032',
+    Volume: '6940800' },
+  { Date: '1986-07-18',
+    Open: '0.102431',
+    High: '0.104167',
+    Low: '0.099826',
+    Close: '0.103299',
+    'Adj Close': '0.068608',
+    Volume: '12326400' },
+  { Date: '1986-07-21',
+    Open: '0.103299',
+    High: '0.105035',
+    Low: '0.103299',
+    Close: '0.103299',
+    'Adj Close': '0.068608',
+    Volume: '3513600' },
+  { Date: '1986-07-22',
+    Open: '0.103299',
+    High: '0.106771',
+    Low: '0.103299',
+    Close: '0.106771',
+    'Adj Close': '0.070914',
+    Volume: '10512000' },
+  { Date: '1986-07-23',
+    Open: '0.106771',
+    High: '0.108507',
+    Low: '0.104167',
+    Close: '0.104167',
+    'Adj Close': '0.069185',
+    Volume: '20793600' },
+  { Date: '1986-07-24',
+    Open: '0.105903',
+    High: '0.109375',
+    Low: '0.105903',
+    Close: '0.107639',
+    'Adj Close': '0.071491',
+    Volume: '14140800' },
+  { Date: '1986-07-25',
+    Open: '0.107639',
+    High: '0.109375',
+    Low: '0.107639',
+    Close: '0.108507',
+    'Adj Close': '0.072067',
+    Volume: '20448000' },
+  { Date: '1986-07-28',
+    Open: '0.108507',
+    High: '0.108507',
+    Low: '0.105903',
+    Close: '0.105903',
+    'Adj Close': '0.070338',
+    Volume: '11808000' },
+  { Date: '1986-07-29',
+    Open: '0.105903',
+    High: '0.106771',
+    Low: '0.101563',
+    Close: '0.103299',
+    'Adj Close': '0.068608',
+    Volume: '14054400' },
+  { Date: '1986-07-30',
+    Open: '0.103299',
+    High: '0.103299',
+    Low: '0.096354',
+    Close: '0.099826',
+    'Adj Close': '0.066302',
+    Volume: '26409600' },
+  { Date: '1986-07-31',
+    Open: '0.099826',
+    High: '0.100694',
+    Low: '0.098958',
+    Close: '0.098958',
+    'Adj Close': '0.065725',
+    Volume: '15638400' },
+  { Date: '1986-08-01',
+    Open: '0.098958',
+    High: '0.099826',
+    Low: '0.097222',
+    Close: '0.098090',
+    'Adj Close': '0.065149',
+    Volume: '12902400' },
+  { Date: '1986-08-04',
+    Open: '0.098090',
+    High: '0.098090',
+    Low: '0.095486',
+    Close: '0.098090',
+    'Adj Close': '0.065149',
+    Volume: '12441600' },
+  ... 7914 more items ]
+upDownString 1110000011100100011111011000111100000001011001000001111000100000001001100001001000011111101011000000000111111000000000000110100010110010000000111111011011100011010111100000110111110000010001100111111000110111111001011110111010010001110100011010001100101001110010011101100101011101101010111101100110000101010001001000101110001000010001111100100101100000111100011100111111100100011110000011111011110000010000110001110101101110000101100010101110111010001000110101101010001010101100100011111101101100101101110010100110001001011010010110101000001111100011100100101011011010100110011000101110110011010001000110000000011010000111110001101101000011100011010000001101101000011000001110010001001111011010010110110101011011000011100011000111101101110001100010100111000110010110100010101101001111010100110000001100111111010101000110000001001100000111011010011101100111011101000010110110110101100111110101011111110111100001111100000111010110110100010000010100100000011111011110101000111010001010011110011100101001101111001110111101001101111100111001000100001011110011001011110010011000111101011000010000111011110010001010011000110100000000111001100100101110010100110101000000011011100010111000010101101011011111001010111010000110110001001101101101111101101101011101011011100000100110001110111001001010001001010110110110000110111010101100110101000010011110001101110101100010110001111100011010110100000000110011100101010011110001000010000111000110111100100100011111010001010110101111101111011100001010010010100001000010111100000011010110110010000100101101010001001010111000000001110000111010000001100001000010100010111010010111100010000010000101001111111101111101101011011100110101001110100101101011101100001110101110111010010111100010001110011101000100001011001001000010011100100011111000001011011110101010000000000110111100100001111000100100000000100000011010000011000100011010011100010001111000110000111000111001010111111000111010000010111001011000100111010010010111110110100000110001000011111111100010000110101010100100010101111000000111001011110011111100010101110110110100110100011010101100110011111001100010000001000100000011000110000111100010001111010001111010100010001100001001111001111011111010011010110000001110010100100110001010110010101101101001010001011111000010001101111011101110101011111000001001101100001100110100000101110111010010010101001111101100111101110101100101100000011000011011001000011001011100000100000110010100111011010110111001010110000000101010001010100100010110001101100110011111010100110101110100011110000011010101011100001011011010100111101001101100111011001000110001100101011001000110000100010000010110011001011011101011000110011001001101111111110001011011000101001001100011111101101101100010111000110100011100110000101001010111110100111010010110001011010110100101101000000100101111000101011110111100100101001001001100100011101111101101000001001000111000100001100111000001011101000011010110110100101000101000111000000010100100011001010111011101111010110000010000001110101010110111010111011110101010000010100010110100000110110000111100110011111100101000100101010110100110010111100111111111011110111111010100101100100011001100110101110001010101111100111010100100011101100011010110000111100101111111101001101010111110100000111100010110011101100100101000001110101011111010110100011010011001010010010011000000000000001000000111010110100001111010011111011111101001000010000010001010010011100011110010010111010101010101110000010110100010000010010010011110111111001111110011110100001010001110000100111011010100001001101011100111101010111001101000010000011010101010111000111000000100101111100011101110010001101101110010100001000110011000001001010100011010001000101101010000000110000111000111010011010011000111000000100011000000110100011101110001101101100101110000101010110010111000110100011010001001011010111010100010011100000101110100001110100100100110011110100001100101100100110100101110010100011000101001010011000111101101111101110110000101110111010100110010111100010111100010001100101011010001000110010011010001001000111101111010101000111001010101010000001011100011001111000110011001111101011100010111001100010100000010111100011101010110110000100101110011011001100010001101111101111010011101100011110011110100010101100100001100001111011010000010001011001010011100101000001110011111110000100010001000100101010100110100110000000011000010001111011100010100110110010000001101000001010001000111001101111111001101011010001011011000010101001001000100000010000100100100011101100101010011100111000010111011001000001011001000010011011100000000001011010011110010100101110100010000101101100001111010011111101111101010000101101001100010101101000110110101001000111010010101110010111110110001001101000110000011110101000001111110110110110100111011000000011100101001010011010100010000001001100100001000000110010011110010001001000101010100011111110101110110010100100011010000001011111100111000100111110101010100110101110000000000000000001100001000010011001110111101110111111010000001100100001011100100001111011011110000011110100001011010101101010110101101101010011001000101001001111100001100101100001011000100001000111111001011010101000111100011010011000010111011010110000010111111111001110010101001110110010110111101111110011110101100100011001101100111001110011000101100001000001010100111010110110001010010100101010111000111101100110011101110110100100011100100011011000010101001101101101111100000001101110000001100110011110100111101000110001001011101011001111001110000001100101000011001110100110111111010010101000000011100001000001001010100111000110111010110100000110010011001110101100001001001101100001010100011011011000100010000010001101100011010110001111110100001110110000000011000100011101110001001001110011010001100100010010011010011011000101000000001111101001011010110100111110011000010100000000011000100010010011001011000100110100101000001101110000101111111111111010100110100000101101101111001100110000010101111110101011111101101011010100010111011011001101001010101111110110010011100011110111011111110011001001101000111001110101011111000111100101111010100110100100111111111011010100101010001100000010101011100000101001000000001011001001011010110011000110111101000010100111000010110100010000001100011011011001110110001100000010101111111001010111001110110101110001011100111100110111000100100110000000110111000101100110010110000000110111100110011000011000011110001010010011111101101101111010101011110100010001010110100110111101111011111100011100001110110100100110010000101100101000000001100000011100101001101011110011100011010010111111100001110101101001100111100001010010100100010110010010010000011010000011000100000101010110100101001011000001011100000100001011101011001001000010110010111101000000001101000111100010010101100001000001100100001001100011010001011000000101011010101001000011011010010010111010011111100100110101101100110011011011011100011111110001111110111000001100010111001100111110001000111001011101010101010000111010111010011010111111010001110111100000010011101001100011100111110010000101010110110001001011100000011110001111111011100011010100110111010100011100001101111001010100000011011001101000011001100100111101101010110100110110110001000001001001111110100001101111111001111001011000100100001111101011101111101111010010001010010010110011111000001001100000110101001010010100110011101101011010001111110100000101001110110101111110100011010101111001001000000100111100000000001000011111111110011001001101011100010111001101011011001101001101110101110111011101001110100000101000101010011100010100011011001100001010010101011000000101111001011001100011011111011010111100100011111000010001101110101010101011011100101011001001011011111101110001000111011001110101010111101100001001001101000100011011010010011011001100000001101010111011011100110101110001010010100011001010011110110000110010111010111001011110000100101001111101010000011011110101000101110110111001110011100011011101010010101111011111111110010000101101101010100001110101010101010010011100111101101101100100100111010111010110111011011011100100001
+
+
+permutation patterns found in desc order
+[ { perm: '110110000', perc: 86.67, count: 15 },
+  { perm: '1000000001', perc: 81.82, count: 11 },
+  { perm: '1100010001', perc: 81.82, count: 11 },
+  { perm: '101111011', perc: 81.82, count: 11 },
+  { perm: '001001001', perc: 78.57, count: 14 },
+  { perm: '0001111000', perc: 76.92, count: 13 },
+  { perm: '001010101', perc: 76.92, count: 13 },
+  { perm: '011001110', perc: 76.92, count: 13 },
+  { perm: '110010000', perc: 76.47, count: 17 },
+  { perm: '100010100', perc: 75, count: 16 },
+  { perm: '111110110', perc: 75, count: 16 },
+  { perm: '0010000101', perc: 75, count: 12 },
+  { perm: '100010001', perc: 75, count: 20 },
+  { perm: '000000001', perc: 73.68, count: 19 },
+  { perm: '001110001', perc: 73.33, count: 15 },
+  { perm: '001000000', perc: 73.33, count: 15 },
+  { perm: '0101101001', perc: 72.73, count: 11 },
+  { perm: '00010001', perc: 72.73, count: 33 },
+  { perm: '0000011011', perc: 72.73, count: 11 },
+  { perm: '010101100', perc: 72.73, count: 11 },
+  { perm: '1101101101', perc: 72.73, count: 11 },
+  { perm: '0100110101', perc: 72.73, count: 11 },
+  { perm: '0100110001', perc: 72.73, count: 11 },
+  { perm: '1011010110', perc: 72.73, count: 11 },
+  { perm: '001111000', perc: 72.22, count: 18 },
+  { perm: '00000001', perc: 71.88, count: 32 },
+  { perm: '111110111', perc: 71.43, count: 14 },
+  { perm: '111000110', perc: 71.43, count: 21 },
+  { perm: '0111000110', perc: 71.43, count: 14 },
+  { perm: '101001000', perc: 71.43, count: 14 },
+  { perm: '011010110', perc: 71.43, count: 21 },
+  { perm: '100110011', perc: 70.59, count: 17 },
+  { perm: '100110101', perc: 70.59, count: 17 },
+  { perm: '010000101', perc: 70.59, count: 17 },
+  { perm: '11110110', perc: 70.37, count: 27 },
+  { perm: '11000110', perc: 69.7, count: 33 },
+  { perm: '110111110', perc: 69.23, count: 13 },
+  { perm: '111101001', perc: 69.23, count: 13 },
+  { perm: '111110001', perc: 69.23, count: 13 },
+  { perm: '011101110', perc: 69.23, count: 13 },
+  { perm: '001110011', perc: 69.23, count: 13 },
+  { perm: '100000001', perc: 69.23, count: 13 },
+  { perm: '101110010', perc: 69.23, count: 13 },
+  { perm: '110100001', perc: 68.75, count: 16 },
+  { perm: '011101010', perc: 68.75, count: 16 },
+  { perm: '00010100', perc: 68.75, count: 32 },
+  { perm: '111011110', perc: 68.75, count: 16 },
+  { perm: '110010100', perc: 68.42, count: 19 },
+  { perm: '10010000', perc: 67.86, count: 28 },
+  { perm: '0010001', perc: 67.65, count: 68 },
+  { perm: '110000011', perc: 66.67, count: 12 },
+  { perm: '100001100', perc: 66.67, count: 12 },
+  { perm: '110010111', perc: 66.67, count: 15 },
+  { perm: '100010101', perc: 66.67, count: 15 },
+  { perm: '1110110101', perc: 66.67, count: 12 },
+  { perm: '110111010', perc: 66.67, count: 18 },
+  { perm: '1001100111', perc: 66.67, count: 12 },
+  { perm: '0110010000', perc: 66.67, count: 12 },
+  { perm: '011000111', perc: 66.67, count: 12 },
+  { perm: '101111101', perc: 66.67, count: 15 },
+  { perm: '1001101011', perc: 66.67, count: 12 },
+  { perm: '011000110', perc: 66.67, count: 12 },
+  { perm: '110010001', perc: 66.67, count: 18 },
+  { perm: '1110101010', perc: 66.67, count: 12 },
+  { perm: '100100011', perc: 66.67, count: 21 },
+  { perm: '000110010', perc: 66.67, count: 18 },
+  { perm: '110010101', perc: 66.67, count: 15 },
+  { perm: '011010010', perc: 66.67, count: 15 },
+  { perm: '0110100000', perc: 66.67, count: 15 },
+  { perm: '110111100', perc: 66.67, count: 12 },
+  { perm: '1011100010', perc: 66.67, count: 12 },
+  { perm: '0010000001', perc: 66.67, count: 12 },
+  { perm: '000101100', perc: 66.67, count: 18 },
+  { perm: '1010101111', perc: 66.67, count: 12 },
+  { perm: '010101001', perc: 66.67, count: 15 },
+  { perm: '111001000', perc: 66.67, count: 15 },
+  { perm: '0010100', perc: 65, count: 60 },
+  { perm: '11000011', perc: 65, count: 20 },
+  { perm: '10010001', perc: 64.71, count: 34 },
+  { perm: '01111110', perc: 64.71, count: 34 },
+  { perm: '000011011', perc: 64.71, count: 17 },
+  { perm: '101011101', perc: 64.71, count: 17 },
+  { perm: '011011001', perc: 64.71, count: 17 },
+  { perm: '01110010', perc: 64.52, count: 31 },
+  { perm: '10101001', perc: 64.52, count: 31 },
+  { perm: '0010100100', perc: 64.29, count: 14 },
+  { perm: '101010110', perc: 64.29, count: 14 },
+  { perm: '011000011', perc: 64.29, count: 14 },
+  { perm: '010010110', perc: 64.29, count: 14 },
+  { perm: '100111000', perc: 64.29, count: 14 },
+  { perm: '000010001', perc: 64.29, count: 14 },
+  { perm: '110011110', perc: 64.29, count: 14 },
+  { perm: '100001110', perc: 64.29, count: 14 },
+  { perm: '0011001111', perc: 63.64, count: 11 },
+  { perm: '0001011101', perc: 63.64, count: 11 },
+  { perm: '1000110110', perc: 63.64, count: 11 },
+  { perm: '011110110', perc: 63.64, count: 11 },
+  { perm: '0001110010', perc: 63.64, count: 11 },
+  { perm: '1100110011', perc: 63.64, count: 11 },
+  { perm: '0000101110', perc: 63.64, count: 11 },
+  ... 1028 more items ]
+testing for today - 1 days
+going back  364  days
+finished test  1  of  200
+testing for today - 2 days
+going back  363  days
+finished test  2  of  200
+testing for today - 3 days
+going back  362  days
+finished test  3  of  200
+testing for today - 4 days
+going back  361  days
+finished test  4  of  200
+testing for today - 5 days
+going back  360  days
+finished test  5  of  200
+testing for today - 6 days
+going back  359  days
+finished test  6  of  200
+testing for today - 7 days
+going back  358  days
+finished test  7  of  200
+testing for today - 8 days
+going back  357  days
+finished test  8  of  200
+testing for today - 9 days
+going back  356  days
+finished test  9  of  200
+testing for today - 10 days
+going back  355  days
+finished test  10  of  200
+testing for today - 11 days
+going back  354  days
+finished test  11  of  200
+testing for today - 12 days
+going back  353  days
+finished test  12  of  200
+testing for today - 13 days
+going back  352  days
+finished test  13  of  200
+testing for today - 14 days
+going back  351  days
+finished test  14  of  200
+testing for today - 15 days
+going back  350  days
+finished test  15  of  200
+testing for today - 16 days
+going back  349  days
+finished test  16  of  200
+testing for today - 17 days
+going back  348  days
+finished test  17  of  200
+testing for today - 18 days
+going back  347  days
+finished test  18  of  200
+testing for today - 19 days
+going back  346  days
+finished test  19  of  200
+testing for today - 20 days
+going back  345  days
+finished test  20  of  200
+testing for today - 21 days
+going back  344  days
+finished test  21  of  200
+testing for today - 22 days
+going back  343  days
+finished test  22  of  200
+testing for today - 23 days
+going back  342  days
+finished test  23  of  200
+testing for today - 24 days
+going back  341  days
+finished test  24  of  200
+testing for today - 25 days
+going back  340  days
+finished test  25  of  200
+testing for today - 26 days
+going back  339  days
+finished test  26  of  200
+testing for today - 27 days
+going back  338  days
+finished test  27  of  200
+testing for today - 28 days
+going back  337  days
+finished test  28  of  200
+testing for today - 29 days
+going back  336  days
+finished test  29  of  200
+testing for today - 30 days
+going back  335  days
+finished test  30  of  200
+testing for today - 31 days
+going back  334  days
+finished test  31  of  200
+testing for today - 32 days
+going back  333  days
+finished test  32  of  200
+testing for today - 33 days
+going back  332  days
+finished test  33  of  200
+testing for today - 34 days
+going back  331  days
+finished test  34  of  200
+testing for today - 35 days
+going back  330  days
+finished test  35  of  200
+testing for today - 36 days
+going back  329  days
+finished test  36  of  200
+testing for today - 37 days
+going back  328  days
+finished test  37  of  200
+testing for today - 38 days
+going back  327  days
+finished test  38  of  200
+testing for today - 39 days
+going back  326  days
+finished test  39  of  200
+testing for today - 40 days
+going back  325  days
+finished test  40  of  200
+testing for today - 41 days
+going back  324  days
+finished test  41  of  200
+testing for today - 42 days
+going back  323  days
+finished test  42  of  200
+testing for today - 43 days
+going back  322  days
+finished test  43  of  200
+testing for today - 44 days
+going back  321  days
+finished test  44  of  200
+testing for today - 45 days
+going back  320  days
+finished test  45  of  200
+testing for today - 46 days
+going back  319  days
+finished test  46  of  200
+testing for today - 47 days
+going back  318  days
+finished test  47  of  200
+testing for today - 48 days
+going back  317  days
+finished test  48  of  200
+testing for today - 49 days
+going back  316  days
+finished test  49  of  200
+testing for today - 50 days
+going back  315  days
+finished test  50  of  200
+testing for today - 51 days
+going back  314  days
+finished test  51  of  200
+testing for today - 52 days
+going back  313  days
+finished test  52  of  200
+testing for today - 53 days
+going back  312  days
+finished test  53  of  200
+testing for today - 54 days
+going back  311  days
+finished test  54  of  200
+testing for today - 55 days
+going back  310  days
+finished test  55  of  200
+testing for today - 56 days
+going back  309  days
+finished test  56  of  200
+testing for today - 57 days
+going back  308  days
+finished test  57  of  200
+testing for today - 58 days
+going back  307  days
+finished test  58  of  200
+testing for today - 59 days
+going back  306  days
+finished test  59  of  200
+testing for today - 60 days
+going back  305  days
+finished test  60  of  200
+testing for today - 61 days
+going back  304  days
+finished test  61  of  200
+testing for today - 62 days
+going back  303  days
+finished test  62  of  200
+testing for today - 63 days
+going back  302  days
+finished test  63  of  200
+testing for today - 64 days
+going back  301  days
+finished test  64  of  200
+testing for today - 65 days
+going back  300  days
+finished test  65  of  200
+testing for today - 66 days
+going back  299  days
+finished test  66  of  200
+testing for today - 67 days
+going back  298  days
+finished test  67  of  200
+testing for today - 68 days
+going back  297  days
+finished test  68  of  200
+testing for today - 69 days
+going back  296  days
+finished test  69  of  200
+testing for today - 70 days
+going back  295  days
+finished test  70  of  200
+testing for today - 71 days
+going back  294  days
+finished test  71  of  200
+testing for today - 72 days
+going back  293  days
+finished test  72  of  200
+testing for today - 73 days
+going back  292  days
+finished test  73  of  200
+testing for today - 74 days
+going back  291  days
+finished test  74  of  200
+testing for today - 75 days
+going back  290  days
+finished test  75  of  200
+testing for today - 76 days
+going back  289  days
+finished test  76  of  200
+testing for today - 77 days
+going back  288  days
+finished test  77  of  200
+testing for today - 78 days
+going back  287  days
+finished test  78  of  200
+testing for today - 79 days
+going back  286  days
+finished test  79  of  200
+testing for today - 80 days
+going back  285  days
+finished test  80  of  200
+testing for today - 81 days
+going back  284  days
+finished test  81  of  200
+testing for today - 82 days
+going back  283  days
+finished test  82  of  200
+testing for today - 83 days
+going back  282  days
+finished test  83  of  200
+testing for today - 84 days
+going back  281  days
+finished test  84  of  200
+testing for today - 85 days
+going back  280  days
+finished test  85  of  200
+testing for today - 86 days
+going back  279  days
+finished test  86  of  200
+testing for today - 87 days
+going back  278  days
+finished test  87  of  200
+testing for today - 88 days
+going back  277  days
+finished test  88  of  200
+testing for today - 89 days
+going back  276  days
+finished test  89  of  200
+testing for today - 90 days
+going back  275  days
+finished test  90  of  200
+testing for today - 91 days
+going back  274  days
+finished test  91  of  200
+testing for today - 92 days
+going back  273  days
+finished test  92  of  200
+testing for today - 93 days
+going back  272  days
+finished test  93  of  200
+testing for today - 94 days
+going back  271  days
+finished test  94  of  200
+testing for today - 95 days
+going back  270  days
+finished test  95  of  200
+testing for today - 96 days
+going back  269  days
+finished test  96  of  200
+testing for today - 97 days
+going back  268  days
+finished test  97  of  200
+testing for today - 98 days
+going back  267  days
+finished test  98  of  200
+testing for today - 99 days
+going back  266  days
+finished test  99  of  200
+testing for today - 100 days
+going back  265  days
+finished test  100  of  200
+testing for today - 101 days
+going back  264  days
+finished test  101  of  200
+testing for today - 102 days
+going back  263  days
+finished test  102  of  200
+testing for today - 103 days
+going back  262  days
+finished test  103  of  200
+testing for today - 104 days
+going back  261  days
+finished test  104  of  200
+testing for today - 105 days
+going back  260  days
+finished test  105  of  200
+testing for today - 106 days
+going back  259  days
+finished test  106  of  200
+testing for today - 107 days
+going back  258  days
+finished test  107  of  200
+testing for today - 108 days
+going back  257  days
+finished test  108  of  200
+testing for today - 109 days
+going back  256  days
+finished test  109  of  200
+testing for today - 110 days
+going back  255  days
+finished test  110  of  200
+testing for today - 111 days
+going back  254  days
+finished test  111  of  200
+testing for today - 112 days
+going back  253  days
+finished test  112  of  200
+testing for today - 113 days
+going back  252  days
+finished test  113  of  200
+testing for today - 114 days
+going back  251  days
+finished test  114  of  200
+testing for today - 115 days
+going back  250  days
+finished test  115  of  200
+testing for today - 116 days
+going back  249  days
+finished test  116  of  200
+testing for today - 117 days
+going back  248  days
+finished test  117  of  200
+testing for today - 118 days
+going back  247  days
+finished test  118  of  200
+testing for today - 119 days
+going back  246  days
+finished test  119  of  200
+testing for today - 120 days
+going back  245  days
+finished test  120  of  200
+testing for today - 121 days
+going back  244  days
+finished test  121  of  200
+testing for today - 122 days
+going back  243  days
+finished test  122  of  200
+testing for today - 123 days
+going back  242  days
+finished test  123  of  200
+testing for today - 124 days
+going back  241  days
+finished test  124  of  200
+testing for today - 125 days
+going back  240  days
+finished test  125  of  200
+testing for today - 126 days
+going back  239  days
+finished test  126  of  200
+testing for today - 127 days
+going back  238  days
+finished test  127  of  200
+testing for today - 128 days
+going back  237  days
+finished test  128  of  200
+testing for today - 129 days
+going back  236  days
+finished test  129  of  200
+testing for today - 130 days
+going back  235  days
+finished test  130  of  200
+testing for today - 131 days
+going back  234  days
+finished test  131  of  200
+testing for today - 132 days
+going back  233  days
+finished test  132  of  200
+testing for today - 133 days
+going back  232  days
+finished test  133  of  200
+testing for today - 134 days
+going back  231  days
+finished test  134  of  200
+testing for today - 135 days
+going back  230  days
+finished test  135  of  200
+testing for today - 136 days
+going back  229  days
+finished test  136  of  200
+testing for today - 137 days
+going back  228  days
+finished test  137  of  200
+testing for today - 138 days
+going back  227  days
+finished test  138  of  200
+testing for today - 139 days
+going back  226  days
+finished test  139  of  200
+testing for today - 140 days
+going back  225  days
+finished test  140  of  200
+testing for today - 141 days
+going back  224  days
+finished test  141  of  200
+testing for today - 142 days
+going back  223  days
+finished test  142  of  200
+testing for today - 143 days
+going back  222  days
+finished test  143  of  200
+testing for today - 144 days
+going back  221  days
+finished test  144  of  200
+testing for today - 145 days
+going back  220  days
+finished test  145  of  200
+testing for today - 146 days
+going back  219  days
+finished test  146  of  200
+testing for today - 147 days
+going back  218  days
+finished test  147  of  200
+testing for today - 148 days
+going back  217  days
+finished test  148  of  200
+testing for today - 149 days
+going back  216  days
+finished test  149  of  200
+testing for today - 150 days
+going back  215  days
+finished test  150  of  200
+testing for today - 151 days
+going back  214  days
+finished test  151  of  200
+testing for today - 152 days
+going back  213  days
+finished test  152  of  200
+testing for today - 153 days
+going back  212  days
+finished test  153  of  200
+testing for today - 154 days
+going back  211  days
+finished test  154  of  200
+testing for today - 155 days
+going back  210  days
+finished test  155  of  200
+testing for today - 156 days
+going back  209  days
+finished test  156  of  200
+testing for today - 157 days
+going back  208  days
+finished test  157  of  200
+testing for today - 158 days
+going back  207  days
+finished test  158  of  200
+testing for today - 159 days
+going back  206  days
+finished test  159  of  200
+testing for today - 160 days
+going back  205  days
+finished test  160  of  200
+testing for today - 161 days
+going back  204  days
+finished test  161  of  200
+testing for today - 162 days
+going back  203  days
+finished test  162  of  200
+testing for today - 163 days
+going back  202  days
+finished test  163  of  200
+testing for today - 164 days
+going back  201  days
+finished test  164  of  200
+testing for today - 165 days
+going back  200  days
+finished test  165  of  200
+testing for today - 166 days
+going back  199  days
+finished test  166  of  200
+testing for today - 167 days
+going back  198  days
+finished test  167  of  200
+testing for today - 168 days
+going back  197  days
+finished test  168  of  200
+testing for today - 169 days
+going back  196  days
+finished test  169  of  200
+testing for today - 170 days
+going back  195  days
+finished test  170  of  200
+testing for today - 171 days
+going back  194  days
+finished test  171  of  200
+testing for today - 172 days
+going back  193  days
+finished test  172  of  200
+testing for today - 173 days
+going back  192  days
+finished test  173  of  200
+testing for today - 174 days
+going back  191  days
+finished test  174  of  200
+testing for today - 175 days
+going back  190  days
+finished test  175  of  200
+testing for today - 176 days
+going back  189  days
+finished test  176  of  200
+testing for today - 177 days
+going back  188  days
+finished test  177  of  200
+testing for today - 178 days
+going back  187  days
+finished test  178  of  200
+testing for today - 179 days
+going back  186  days
+finished test  179  of  200
+testing for today - 180 days
+going back  185  days
+finished test  180  of  200
+testing for today - 181 days
+going back  184  days
+finished test  181  of  200
+testing for today - 182 days
+going back  183  days
+finished test  182  of  200
+testing for today - 183 days
+going back  182  days
+finished test  183  of  200
+testing for today - 184 days
+going back  181  days
+finished test  184  of  200
+testing for today - 185 days
+going back  180  days
+finished test  185  of  200
+testing for today - 186 days
+going back  179  days
+finished test  186  of  200
+testing for today - 187 days
+going back  178  days
+finished test  187  of  200
+testing for today - 188 days
+going back  177  days
+finished test  188  of  200
+testing for today - 189 days
+going back  176  days
+finished test  189  of  200
+testing for today - 190 days
+going back  175  days
+finished test  190  of  200
+testing for today - 191 days
+going back  174  days
+finished test  191  of  200
+testing for today - 192 days
+going back  173  days
+finished test  192  of  200
+testing for today - 193 days
+going back  172  days
+finished test  193  of  200
+testing for today - 194 days
+going back  171  days
+finished test  194  of  200
+testing for today - 195 days
+going back  170  days
+finished test  195  of  200
+testing for today - 196 days
+going back  169  days
+finished test  196  of  200
+testing for today - 197 days
+going back  168  days
+finished test  197  of  200
+testing for today - 198 days
+going back  167  days
+finished test  198  of  200
+testing for today - 199 days
+going back  166  days
+finished test  199  of  200
+testing for today - 200 days
+going back  165  days
+finished test  200  of  200
+------------------------------
+test results for overall
+avg count 200
+weighted count 200
+avg perc  50.5
+weighted perc  49
+------------------------------
+test results for testsPredictedUp
+avg count 109
+weighted count 118
+avg perc  55.96330275229358
+weighted perc  54.23728813559322
+------------------------------
+test results for withoutUnsures (> 55% || < 45%)
+avg count 45
+weighted count 100
+avg perc  64.44444444444444
+weighted perc  52
+------------------------------
+test results for sureThings (> 55%)
+avg count 109
+weighted count 118
+avg perc  55.96330275229358
+weighted perc  54.23728813559322
+------------------------------
+test results for real sureThings (> 60%)
+avg count 35
+weighted count 70
+avg perc  62.857142857142854
+weighted perc  52.857142857142854
+------------------------------
+test results for kinda really sureThings (> 65%)
+avg count 9
+weighted count 46
+avg perc  77.77777777777777
+weighted perc  58.69565217391305
+------------------------------
+test results for really sureThings (> 70%)
+avg count 1
+weighted count 31
+avg perc  100
+weighted perc  64.51612903225806
+------------------------------
+todays outlook { perms: 
+   [ { perm: '01', perc: 48.79, count: 1617 },
+     { perm: '001', perc: 50.28, count: 903 },
+     { perm: '0001', perc: 48.97, count: 486 },
+     { perm: '00001', perc: 48.57, count: 245 },
+     { perm: '100001', perc: 40.18, count: 112 },
+     { perm: '0100001', perc: 45.76, count: 59 },
+     { perm: '00100001', perc: 36.11, count: 36 },
+     { perm: '100100001', perc: 38.89, count: 18 },
+     { perm: '1100100001', perc: 33.33, count: 12 },
+     { perm: '11100100001', perc: 50, count: 4 },
+     { perm: '011100100001', perc: 100, count: 1 },
+     { perm: '1011100100001', perc: 100, count: 1 } ],
+  avgPerc: 53.406666666666666,
+  weightedPerc: 60.4390909090909 }

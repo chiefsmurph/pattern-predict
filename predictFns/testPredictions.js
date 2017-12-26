@@ -51,7 +51,7 @@ const testPredictions = (upDownString, numDaysToTest, permsExecuted) => {
     console.log('avg count', testsAvgMeetsFilter.length);
     console.log('weighted count', testsWeightedPercMeetsFilter.length);
 
-    const percCorrectOfAvg = testsWeightedPercMeetsFilter.filter(test => test.avgCorrect).length * 10000 / (testsWeightedPercMeetsFilter.length * 100);
+    const percCorrectOfAvg = testsAvgMeetsFilter.filter(test => test.avgCorrect).length * 10000 / (testsAvgMeetsFilter.length * 100);
     const percCorrectOfWeighted = testsWeightedPercMeetsFilter.filter(test => test.weightedCorrect).length * 10000 / (testsWeightedPercMeetsFilter.length * 100);
 
     console.log('avg perc ', percCorrectOfAvg);
@@ -64,6 +64,7 @@ const testPredictions = (upDownString, numDaysToTest, permsExecuted) => {
   displayTestGroup('withoutUnsures (> 55% || < 45%)', testResults, perc => perc < 40 || perc > 60);
   displayTestGroup('sureThings (> 55%)', testResults, perc => perc > 50);
   displayTestGroup('real sureThings (> 60%)', testResults, perc => perc > 60);
+  displayTestGroup('kinda really sureThings (> 65%)', testResults, perc => perc > 65);
   displayTestGroup('really sureThings (> 70%)', testResults, perc => perc > 70);
 
   console.log('------------------------------');
