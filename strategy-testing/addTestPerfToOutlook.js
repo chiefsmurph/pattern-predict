@@ -1,6 +1,10 @@
-const percBreakdowns = require('../strategy-testing/percBreakdowns');
+const percBreakdowns = require('./percBreakdowns');
+const calcStrategyPerformance = require('./calcStrategyPerformance');
 
-module.exports = (todaysOutlook, strategyPerformance) => {
+module.exports = (todaysOutlook, testResults) => {
+
+  const strategyPerformance = calcStrategyPerformance(testResults);
+  console.log(JSON.stringify(strategyPerformance, null, 2), 'stratperf');
 
   const newStrategies = Object.keys(todaysOutlook.strategies).reduce((acc, stratKey) => {
 

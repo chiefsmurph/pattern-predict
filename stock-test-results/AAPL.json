@@ -1,0 +1,90 @@
+[
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": {
+        "val": 58.77538461538462,
+        "correct": true
+      },
+      "weightedPerc": {
+        "val": 64.99358974358974,
+        "correct": true
+      }
+    },
+    "rawData": {
+      "Date": "2017-12-21",
+      "Open": "174.169998",
+      "High": "176.020004",
+      "Low": "174.100006",
+      "Close": "175.009995",
+      "Adj Close": "175.009995",
+      "Volume": "20949900"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": {
+        "val": 53.04416666666666,
+        "correct": true
+      },
+      "weightedPerc": {
+        "val": 56.87560606060607,
+        "correct": true
+      }
+    },
+    "rawData": {
+      "Date": "2017-12-20",
+      "Open": "174.869995",
+      "High": "175.419998",
+      "Low": "173.250000",
+      "Close": "174.350006",
+      "Adj Close": "174.350006",
+      "Volume": "23475600"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": {
+        "val": 42.745555555555555,
+        "correct": true
+      },
+      "weightedPerc": {
+        "val": 41.01777777777776,
+        "correct": true
+      }
+    },
+    "rawData": {
+      "Date": "2017-12-19",
+      "Open": "175.029999",
+      "High": "175.389999",
+      "Low": "174.089996",
+      "Close": "174.539993",
+      "Adj Close": "174.539993",
+      "Volume": "27436400"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": {
+        "val": 56.65500000000001,
+        "correct": false
+      },
+      "weightedPerc": {
+        "val": 66.02545454545455,
+        "correct": false
+      }
+    },
+    "rawData": {
+      "Date": "2017-12-18",
+      "Open": "174.880005",
+      "High": "177.199997",
+      "Low": "174.860001",
+      "Close": "176.419998",
+      "Adj Close": "176.419998",
+      "Volume": "29421100"
+    }
+  }
+]

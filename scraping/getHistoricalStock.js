@@ -1,8 +1,11 @@
 const puppeteer = require('puppeteer');
 const fs = require('mz/fs');
 
+const timeoutPromise = require('../utils/timeoutPromise');
+
 const getHistoricalStock = async (stock) => {
-    const browser = await puppeteer.launch({headless: false});
+    console.log('starting to scrape historical content for ', stock);
+    const browser = await puppeteer.launch({headless: true});
     const page = await browser.newPage();
 
     // configure puppeteer
@@ -24,18 +27,18 @@ const getHistoricalStock = async (stock) => {
       waitUntil: 'domcontentloaded',
       // timeout: 60000
     });
-    console.log('went to');
-    await page.waitFor(3000);
+    console.log(stock, ': loaded page');
+    await timeoutPromise(3000);
     await page.click('section > div > div > div span span svg');
-    await page.waitFor(1000);
+    await timeoutPromise(1000);
     await page.click('span[data-value="MAX"]');
-    await page.waitFor(1000);
+    await timeoutPromise(1000);
     await page.click('div[data-test="date-picker-menu"] div button span');
-    await page.waitFor(1000);
+    await timeoutPromise(1000);
     await page.click('section > div > div > button');
-    await page.waitFor(10000);
+    await timeoutPromise(10000);
     await page.click('section > div div span a');
-    await page.waitFor(5000);
+    await timeoutPromise(5000);
 
 
     // const href = await page.evaluate(() => document.querySelector('section > div div span a').href);
@@ -50,10 +53,21 @@ const getHistoricalStock = async (stock) => {
 
     await page.close();
     await browser.close();
+
+    console.log('done scraping historical content for ', stock);
+};
+
+const executeHistoricalStock = async stock => {
+  try {
+    return await getHistoricalStock(stock);
+  } catch (e) {
+    console.error('g', e, stock);
+    return await executeHistoricalStock(stock);
+  }
 };
 
 // (async() => {
 //   await getHistoricalStock('GM');
 // })();
 
-module.exports = getHistoricalStock;
+module.exports = executeHistoricalStock;

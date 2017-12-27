@@ -5,26 +5,40 @@ const generateUpDownString = require('../utils/generateUpDownString');
 // predictFns
 const testStrategies = require('../strategy-testing/testStrategies');
 
+// scraping
+const getHistoricalStock = require('../scraping/getHistoricalStock');
+
 const fs = require('mz/fs');
 
 const testStrategiesOnStock = async stockTicker => {
 
   const csvFilePath = './stock-data/' + stockTicker + '.csv';
-  const outputFile = './stock-stratperfs/' + stockTicker + '.json';
+  const outputFile = './stock-test-results/' + stockTicker + '.json';
 
   // STOCKS
   const dayArray = await csvToArray(csvFilePath);
-  console.log('dayarray', dayArray);
+  // console.log('dayarray', dayArray);
   const upDownString = generateUpDownString(dayArray);
-  console.log('upDownString', upDownString);
-  console.log('\n');
+  // console.log('upDownString', upDownString);
+  // console.log('\n');
 
-  const strategyPerformance = testStrategies(upDownString, 4);
-  console.log('strategyPerformance');
-  console.log(JSON.stringify(strategyPerformance, null, 2));
+  const testResults = testStrategies(upDownString, 365, null, dayArray, stockTicker);
+  // console.log('testResults');
+  // console.log(JSON.stringify(testResults, null, 2));
 
-  await fs.writeFile(outputFile, JSON.stringify(strategyPerformance, null, 2));
-  return strategyPerformance;
+  const saveJSON = {
+    lastTested: new Date().toLocaleDateString("en-US", {
+      weekday: 'long',
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric'
+    }),
+    testResults
+  };
+  await fs.writeFile(outputFile, JSON.stringify(testResults, null, 2));
+
+  console.log('finished', stockTicker);
+  return testResults;
 
 };
 

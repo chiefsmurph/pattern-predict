@@ -15,10 +15,10 @@ const findPatternsAndReturnTodaysOutlook = (upDownString, options = {}) => {
     console.log(forPresenting);
   }
   if (options.runTests) {
-    var strategyPerformance = testStrategies(upDownString, options.numTests || 30, options.executePermsEveryDay ? null : permsExecuted);
+    var testResults = testStrategies(upDownString, options.numTests || 30, options.executePermsEveryDay ? null : permsExecuted);
   }
   const todaysOutlook = createPredictions(upDownString, permsExecuted);
-  return [todaysOutlook, strategyPerformance];
+  return [todaysOutlook, testResults];
 };
 
 module.exports = findPatternsAndReturnTodaysOutlook;
