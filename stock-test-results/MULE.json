@@ -2,9 +2,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 72.51124999999999,
-      "weightedPerc": 87.02357142857143,
-      "compareToPast": 60
+      "avgPerc": 70.41222222222223,
+      "weightedPerc": 83.79861111111111,
+      "compareToPast": 60,
+      "avgWith30Random": 40.412222222222226,
+      "avgWith20Random": 90.41222222222223,
+      "avgWith10Random": 60.412222222222226,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-22",
@@ -19,9 +23,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 80.89857142857143,
-      "weightedPerc": 94.22809523809524,
-      "compareToPast": 50
+      "avgPerc": 77.14250000000001,
+      "weightedPerc": 90.89571428571428,
+      "compareToPast": 50,
+      "avgWith30Random": 107.14250000000001,
+      "avgWith20Random": 57.14250000000001,
+      "avgWith10Random": 67.14250000000001,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-21",
@@ -36,9 +44,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 65.25800000000001,
-      "weightedPerc": 71.213,
-      "compareToPast": 50
+      "avgPerc": 62.856666666666676,
+      "weightedPerc": 69.228,
+      "compareToPast": 50,
+      "avgWith30Random": 32.856666666666676,
+      "avgWith20Random": 82.85666666666668,
+      "avgWith10Random": 52.856666666666676,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-20",
@@ -53,9 +65,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 56.15,
-      "weightedPerc": 61.029999999999994,
-      "compareToPast": 50
+      "avgPerc": 55.41166666666666,
+      "weightedPerc": 59.40333333333333,
+      "compareToPast": 50,
+      "avgWith30Random": 85.41166666666666,
+      "avgWith20Random": 75.41166666666666,
+      "avgWith10Random": 65.41166666666666,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-19",
@@ -70,9 +86,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 63.977999999999994,
-      "weightedPerc": 73.15,
-      "compareToPast": 65
+      "avgPerc": 61.935,
+      "weightedPerc": 70.09266666666666,
+      "compareToPast": 65,
+      "avgWith30Random": 31.935000000000002,
+      "avgWith20Random": 41.935,
+      "avgWith10Random": 51.935,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-12-18",
@@ -87,9 +107,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 77.17555555555555,
-      "weightedPerc": 91.94527777777778,
-      "compareToPast": 75
+      "avgPerc": 74.721,
+      "weightedPerc": 88.99133333333333,
+      "compareToPast": 75,
+      "avgWith30Random": 104.721,
+      "avgWith20Random": 54.721000000000004,
+      "avgWith10Random": 64.721,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-15",
@@ -104,9 +128,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 65.848,
-      "weightedPerc": 71.45199999999998,
-      "compareToPast": 65
+      "avgPerc": 63.81,
+      "weightedPerc": 69.58399999999999,
+      "compareToPast": 65,
+      "avgWith30Random": 33.81,
+      "avgWith20Random": 43.81,
+      "avgWith10Random": 53.81,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-12-14",
@@ -121,9 +149,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 44.00857142857143,
-      "weightedPerc": 43.65047619047619,
-      "compareToPast": 65
+      "avgPerc": 45.125,
+      "weightedPerc": 43.74,
+      "compareToPast": 65,
+      "avgWith30Random": 15.125,
+      "avgWith20Random": 25.125,
+      "avgWith10Random": 55.125,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-13",
@@ -138,9 +170,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 71.86166666666666,
-      "weightedPerc": 84.078,
-      "compareToPast": 65
+      "avgPerc": 69.15857142857143,
+      "weightedPerc": 80.58761904761906,
+      "compareToPast": 65,
+      "avgWith30Random": 99.15857142857143,
+      "avgWith20Random": 49.158571428571435,
+      "avgWith10Random": 79.15857142857143,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-12",
@@ -155,9 +191,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 63.176,
-      "weightedPerc": 63.176,
-      "compareToPast": 50
+      "avgPerc": 61.353333333333346,
+      "weightedPerc": 63.17599999999998,
+      "compareToPast": 50,
+      "avgWith30Random": 91.35333333333335,
+      "avgWith20Random": 41.353333333333346,
+      "avgWith10Random": 51.353333333333346,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-11",
@@ -172,9 +212,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 40.95399999999999,
-      "weightedPerc": 39.239999999999995,
-      "compareToPast": 50
+      "avgPerc": 42.76,
+      "weightedPerc": 39.81133333333334,
+      "compareToPast": 50,
+      "avgWith30Random": 12.759999999999998,
+      "avgWith20Random": 62.76,
+      "avgWith10Random": 52.76,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-08",
@@ -189,9 +233,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 58.10333333333333,
-      "weightedPerc": 65.33333333333333,
-      "compareToPast": 40
+      "avgPerc": 57.26571428571429,
+      "weightedPerc": 63.26761904761904,
+      "compareToPast": 40,
+      "avgWith30Random": 27.26571428571429,
+      "avgWith20Random": 77.2657142857143,
+      "avgWith10Random": 67.2657142857143,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-12-07",
@@ -206,9 +254,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 50.426,
-      "weightedPerc": 47.21099999999999,
-      "compareToPast": 40
+      "avgPerc": 50.60833333333333,
+      "weightedPerc": 48.28266666666668,
+      "compareToPast": 40,
+      "avgWith30Random": 20.608333333333327,
+      "avgWith20Random": 30.608333333333327,
+      "avgWith10Random": 40.60833333333333,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-12-06",
@@ -223,9 +275,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 51.67999999999999,
-      "weightedPerc": 50.769999999999996,
-      "compareToPast": 40
+      "avgPerc": 51.69833333333333,
+      "weightedPerc": 51.07333333333334,
+      "compareToPast": 40,
+      "avgWith30Random": 21.69833333333333,
+      "avgWith20Random": 31.69833333333333,
+      "avgWith10Random": 61.69833333333333,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-12-05",
@@ -240,9 +296,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 47.62,
-      "weightedPerc": 49.81,
-      "compareToPast": 50
+      "avgPerc": 48.471666666666664,
+      "weightedPerc": 49.080000000000005,
+      "compareToPast": 50,
+      "avgWith30Random": 78.47166666666666,
+      "avgWith20Random": 28.471666666666664,
+      "avgWith10Random": 38.471666666666664,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-04",
@@ -257,9 +317,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 55.699999999999996,
-      "weightedPerc": 55.86266666666666,
-      "compareToPast": 60
+      "avgPerc": 55.10285714285715,
+      "weightedPerc": 55.81619047619047,
+      "compareToPast": 60,
+      "avgWith30Random": 85.10285714285715,
+      "avgWith20Random": 35.10285714285715,
+      "avgWith10Random": 65.10285714285715,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-12-01",
@@ -274,9 +338,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 67.08714285714287,
-      "weightedPerc": 79.63047619047619,
-      "compareToPast": 60
+      "avgPerc": 65.0475,
+      "weightedPerc": 76.49464285714285,
+      "compareToPast": 60,
+      "avgWith30Random": 35.0475,
+      "avgWith20Random": 85.0475,
+      "avgWith10Random": 55.0475,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-11-30",
@@ -291,9 +359,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 66.625,
-      "weightedPerc": 79.82466666666666,
-      "compareToPast": 60
+      "avgPerc": 64.64,
+      "weightedPerc": 76.05333333333333,
+      "compareToPast": 60,
+      "avgWith30Random": 94.64,
+      "avgWith20Random": 84.64,
+      "avgWith10Random": 54.64,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-11-29",
@@ -308,9 +380,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 72.8775,
-      "weightedPerc": 86.84571428571428,
-      "compareToPast": 65
+      "avgPerc": 70.74666666666667,
+      "weightedPerc": 83.74166666666666,
+      "compareToPast": 65,
+      "avgWith30Random": 40.74666666666667,
+      "avgWith20Random": 90.74666666666667,
+      "avgWith10Random": 80.74666666666667,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-28",
@@ -325,9 +401,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 69.88,
-      "weightedPerc": 74.345,
-      "compareToPast": 75
+      "avgPerc": 67.84444444444445,
+      "weightedPerc": 73.35277777777777,
+      "compareToPast": 75,
+      "avgWith30Random": 97.84444444444445,
+      "avgWith20Random": 87.84444444444445,
+      "avgWith10Random": 77.84444444444445,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-27",
@@ -342,9 +422,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 79.86285714285714,
-      "weightedPerc": 91.98380952380951,
-      "compareToPast": 75
+      "avgPerc": 76.325,
+      "weightedPerc": 88.95357142857142,
+      "compareToPast": 75,
+      "avgWith30Random": 46.325,
+      "avgWith20Random": 56.325,
+      "avgWith10Random": 66.325,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-24",
@@ -359,9 +443,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 69.32166666666667,
-      "weightedPerc": 78.22333333333333,
-      "compareToPast": 75
+      "avgPerc": 66.67428571428572,
+      "weightedPerc": 75.67999999999999,
+      "compareToPast": 75,
+      "avgWith30Random": 36.674285714285716,
+      "avgWith20Random": 86.67428571428572,
+      "avgWith10Random": 76.67428571428572,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-11-22",
@@ -376,9 +464,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 70.852,
-      "weightedPerc": 82.5,
-      "compareToPast": 60
+      "avgPerc": 67.50833333333334,
+      "weightedPerc": 78.61733333333333,
+      "compareToPast": 60,
+      "avgWith30Random": 97.50833333333334,
+      "avgWith20Random": 47.50833333333334,
+      "avgWith10Random": 57.50833333333334,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-11-21",
@@ -393,9 +485,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 41.16499999999999,
-      "weightedPerc": 34.73666666666666,
-      "compareToPast": 60
+      "avgPerc": 42.931999999999995,
+      "weightedPerc": 37.308,
+      "compareToPast": 60,
+      "avgWith30Random": 12.931999999999995,
+      "avgWith20Random": 22.931999999999995,
+      "avgWith10Random": 32.931999999999995,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-20",
@@ -410,9 +506,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 48.39666666666667,
-      "weightedPerc": 41.666666666666664,
-      "compareToPast": 60
+      "avgPerc": 48.7975,
+      "weightedPerc": 45.031666666666666,
+      "compareToPast": 60,
+      "avgWith30Random": 18.7975,
+      "avgWith20Random": 68.7975,
+      "avgWith10Random": 58.7975,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-11-17",
@@ -427,9 +527,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 39.233333333333334,
-      "weightedPerc": 30.393333333333334,
-      "compareToPast": 60
+      "avgPerc": 41.72,
+      "weightedPerc": 34.81333333333333,
+      "compareToPast": 60,
+      "avgWith30Random": 71.72,
+      "avgWith20Random": 21.72,
+      "avgWith10Random": 51.72,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-16",
@@ -444,9 +548,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 59.66571428571429,
-      "weightedPerc": 69.97476190476189,
-      "compareToPast": 60
+      "avgPerc": 58.81125,
+      "weightedPerc": 67.3975,
+      "compareToPast": 60,
+      "avgWith30Random": 88.81125,
+      "avgWith20Random": 38.81125,
+      "avgWith10Random": 48.81125,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-15",
@@ -461,9 +569,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 67.0275,
-      "weightedPerc": 77.58749999999999,
-      "compareToPast": 60
+      "avgPerc": 65.44999999999999,
+      "weightedPerc": 75.24083333333334,
+      "compareToPast": 60,
+      "avgWith30Random": 95.44999999999999,
+      "avgWith20Random": 45.44999999999999,
+      "avgWith10Random": 75.44999999999999,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-14",
@@ -478,9 +590,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 44.703333333333326,
-      "weightedPerc": 43.47333333333333,
-      "compareToPast": 75
+      "avgPerc": 46.01,
+      "weightedPerc": 43.8247619047619,
+      "compareToPast": 75,
+      "avgWith30Random": 16.009999999999998,
+      "avgWith20Random": 26.009999999999998,
+      "avgWith10Random": 36.01,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-13",
@@ -495,9 +611,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 40.66799999999999,
-      "weightedPerc": 35.699999999999996,
-      "compareToPast": 75
+      "avgPerc": 42.22333333333333,
+      "weightedPerc": 37.356,
+      "compareToPast": 75,
+      "avgWith30Random": 72.22333333333333,
+      "avgWith20Random": 22.22333333333333,
+      "avgWith10Random": 32.22333333333333,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-11-10",
@@ -512,9 +632,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 52.674,
-      "weightedPerc": 49.40299999999999,
-      "compareToPast": 75
+      "avgPerc": 52.22833333333333,
+      "weightedPerc": 50.49333333333335,
+      "compareToPast": 75,
+      "avgWith30Random": 22.22833333333333,
+      "avgWith20Random": 32.22833333333333,
+      "avgWith10Random": 62.22833333333333,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-09",
@@ -529,9 +653,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 77.83666666666666,
-      "weightedPerc": 89.23,
-      "compareToPast": 60
+      "avgPerc": 73.73857142857143,
+      "weightedPerc": 85.9747619047619,
+      "compareToPast": 60,
+      "avgWith30Random": 43.73857142857143,
+      "avgWith20Random": 93.73857142857143,
+      "avgWith10Random": 63.73857142857143,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-08",
@@ -546,9 +674,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 35.952,
-      "weightedPerc": 28.776999999999997,
-      "compareToPast": 60
+      "avgPerc": 38.78333333333333,
+      "weightedPerc": 31.168666666666663,
+      "compareToPast": 60,
+      "avgWith30Random": 8.783333333333331,
+      "avgWith20Random": 58.78333333333333,
+      "avgWith10Random": 28.78333333333333,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-07",
@@ -563,9 +695,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 70.05888888888889,
-      "weightedPerc": 84.72916666666667,
-      "compareToPast": 75
+      "avgPerc": 68.053,
+      "weightedPerc": 81.79511111111111,
+      "compareToPast": 75,
+      "avgWith30Random": 98.053,
+      "avgWith20Random": 48.053,
+      "avgWith10Random": 78.053,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-06",
@@ -580,9 +716,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 76.89750000000001,
-      "weightedPerc": 90.16607142857143,
-      "compareToPast": 60
+      "avgPerc": 73.9088888888889,
+      "weightedPerc": 87.2175,
+      "compareToPast": 60,
+      "avgWith30Random": 43.908888888888896,
+      "avgWith20Random": 93.9088888888889,
+      "avgWith10Random": 83.9088888888889,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-03",
@@ -597,9 +737,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 66.73428571428572,
-      "weightedPerc": 76.2895238095238,
-      "compareToPast": 60
+      "avgPerc": 64.5325,
+      "weightedPerc": 73.9007142857143,
+      "compareToPast": 60,
+      "avgWith30Random": 94.5325,
+      "avgWith20Random": 84.5325,
+      "avgWith10Random": 74.5325,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-11-02",
@@ -614,9 +758,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 53.10333333333333,
-      "weightedPerc": 63.46333333333334,
-      "compareToPast": 60
+      "avgPerc": 52.94571428571429,
+      "weightedPerc": 60.50333333333333,
+      "compareToPast": 60,
+      "avgWith30Random": 22.94571428571429,
+      "avgWith20Random": 72.94571428571429,
+      "avgWith10Random": 42.94571428571429,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-11-01",
@@ -631,9 +779,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 49.79333333333333,
-      "weightedPerc": 45.24,
-      "compareToPast": 60
+      "avgPerc": 49.625,
+      "weightedPerc": 47.51666666666667,
+      "compareToPast": 60,
+      "avgWith30Random": 79.625,
+      "avgWith20Random": 29.625,
+      "avgWith10Random": 39.625,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-31",
@@ -648,9 +800,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 30.865000000000002,
-      "weightedPerc": 23.513333333333332,
-      "compareToPast": 60
+      "avgPerc": 34.333999999999996,
+      "weightedPerc": 26.453999999999997,
+      "compareToPast": 60,
+      "avgWith30Random": 64.334,
+      "avgWith20Random": 54.333999999999996,
+      "avgWith10Random": 24.333999999999996,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-30",
@@ -665,9 +821,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 59.02333333333333,
-      "weightedPerc": 68.14666666666666,
-      "compareToPast": 75
+      "avgPerc": 57.0225,
+      "weightedPerc": 63.585,
+      "compareToPast": 75,
+      "avgWith30Random": 87.02250000000001,
+      "avgWith20Random": 37.0225,
+      "avgWith10Random": 67.02250000000001,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-27",
@@ -682,9 +842,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 79.414,
-      "weightedPerc": 94.444,
-      "compareToPast": 75
+      "avgPerc": 74.68166666666667,
+      "weightedPerc": 89.434,
+      "compareToPast": 75,
+      "avgWith30Random": 104.68166666666667,
+      "avgWith20Random": 94.68166666666667,
+      "avgWith10Random": 84.68166666666667,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-26",
@@ -699,9 +863,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 78.38777777777779,
-      "weightedPerc": 92.10333333333334,
-      "compareToPast": 75
+      "avgPerc": 75.75699999999999,
+      "weightedPerc": 89.36022222222222,
+      "compareToPast": 75,
+      "avgWith30Random": 105.75699999999999,
+      "avgWith20Random": 95.75699999999999,
+      "avgWith10Random": 65.75699999999999,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-25",
@@ -716,9 +884,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 62.034000000000006,
-      "weightedPerc": 66.46199999999999,
-      "compareToPast": 75
+      "avgPerc": 60.375,
+      "weightedPerc": 64.98599999999999,
+      "compareToPast": 75,
+      "avgWith30Random": 90.375,
+      "avgWith20Random": 40.375,
+      "avgWith10Random": 50.375,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-24",
@@ -733,9 +905,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 41.005,
-      "weightedPerc": 35.416666666666664,
-      "compareToPast": 65
+      "avgPerc": 43.442,
+      "weightedPerc": 37.652,
+      "compareToPast": 65,
+      "avgWith30Random": 13.442,
+      "avgWith20Random": 23.442,
+      "avgWith10Random": 53.442,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-23",
@@ -750,9 +926,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 49.282,
-      "weightedPerc": 48.433,
-      "compareToPast": 65
+      "avgPerc": 49.25,
+      "weightedPerc": 48.716,
+      "compareToPast": 65,
+      "avgWith30Random": 79.25,
+      "avgWith20Random": 69.25,
+      "avgWith10Random": 39.25,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-20",
@@ -767,9 +947,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 46.988,
-      "weightedPerc": 46.372,
-      "compareToPast": 65
+      "avgPerc": 47.33833333333333,
+      "weightedPerc": 46.57733333333333,
+      "compareToPast": 65,
+      "avgWith30Random": 77.33833333333334,
+      "avgWith20Random": 27.33833333333333,
+      "avgWith10Random": 57.33833333333333,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-19",
@@ -784,9 +968,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 42.04,
-      "weightedPerc": 42.221666666666664,
-      "compareToPast": 50
+      "avgPerc": 43.262,
+      "weightedPerc": 42.149,
+      "compareToPast": 50,
+      "avgWith30Random": 13.262,
+      "avgWith20Random": 23.262,
+      "avgWith10Random": 33.262,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-18",
@@ -801,9 +989,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 46.366,
-      "weightedPerc": 41.443999999999996,
-      "compareToPast": 50
+      "avgPerc": 47.50333333333333,
+      "weightedPerc": 43.08466666666668,
+      "compareToPast": 50,
+      "avgWith30Random": 17.50333333333333,
+      "avgWith20Random": 67.50333333333333,
+      "avgWith10Random": 37.50333333333333,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-17",
@@ -818,9 +1010,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 58.855,
-      "weightedPerc": 72.5,
-      "compareToPast": 65
+      "avgPerc": 58.21142857142858,
+      "weightedPerc": 68.60142857142857,
+      "compareToPast": 65,
+      "avgWith30Random": 88.21142857142857,
+      "avgWith20Random": 78.21142857142857,
+      "avgWith10Random": 48.21142857142858,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-16",
@@ -835,9 +1031,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 77.08999999999999,
-      "weightedPerc": 88.6113888888889,
-      "compareToPast": 65
+      "avgPerc": 74.196,
+      "weightedPerc": 86.3071111111111,
+      "compareToPast": 65,
+      "avgWith30Random": 104.196,
+      "avgWith20Random": 54.196,
+      "avgWith10Random": 64.196,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-13",
@@ -852,9 +1052,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 73.275,
-      "weightedPerc": 85.23857142857143,
-      "compareToPast": 65
+      "avgPerc": 70.37444444444445,
+      "weightedPerc": 82.58,
+      "compareToPast": 65,
+      "avgWith30Random": 100.37444444444445,
+      "avgWith20Random": 50.37444444444445,
+      "avgWith10Random": 60.37444444444445,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-12",
@@ -869,9 +1073,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 63.49571428571429,
-      "weightedPerc": 77.09809523809524,
-      "compareToPast": 65
+      "avgPerc": 62.225,
+      "weightedPerc": 73.6975,
+      "compareToPast": 65,
+      "avgWith30Random": 32.225,
+      "avgWith20Random": 82.225,
+      "avgWith10Random": 72.225,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-11",
@@ -886,9 +1094,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 74.9075,
-      "weightedPerc": 84.12357142857142,
-      "compareToPast": 65
+      "avgPerc": 71.82555555555557,
+      "weightedPerc": 82.07555555555555,
+      "compareToPast": 65,
+      "avgWith30Random": 41.82555555555557,
+      "avgWith20Random": 51.82555555555557,
+      "avgWith10Random": 61.82555555555557,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-10",
@@ -903,9 +1115,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 70.60857142857142,
-      "weightedPerc": 78.3552380952381,
-      "compareToPast": 65
+      "avgPerc": 67.55125000000001,
+      "weightedPerc": 76.41857142857144,
+      "compareToPast": 65,
+      "avgWith30Random": 97.55125000000001,
+      "avgWith20Random": 87.55125000000001,
+      "avgWith10Random": 77.55125000000001,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-09",
@@ -920,9 +1136,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 65.35333333333334,
-      "weightedPerc": 69.69733333333333,
-      "compareToPast": 55
+      "avgPerc": 62.61000000000001,
+      "weightedPerc": 68.45619047619047,
+      "compareToPast": 55,
+      "avgWith30Random": 92.61000000000001,
+      "avgWith20Random": 82.61000000000001,
+      "avgWith10Random": 52.61000000000001,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-06",
@@ -937,9 +1157,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 67.334,
-      "weightedPerc": 79.001,
-      "compareToPast": 55
+      "avgPerc": 63.62833333333333,
+      "weightedPerc": 75.112,
+      "compareToPast": 55,
+      "avgWith30Random": 93.62833333333333,
+      "avgWith20Random": 83.62833333333333,
+      "avgWith10Random": 53.62833333333333,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-05",
@@ -954,9 +1178,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 72.77833333333334,
-      "weightedPerc": 86.00066666666666,
-      "compareToPast": 55
+      "avgPerc": 68.82428571428571,
+      "weightedPerc": 82.22285714285714,
+      "compareToPast": 55,
+      "avgWith30Random": 98.82428571428571,
+      "avgWith20Random": 48.82428571428571,
+      "avgWith10Random": 78.82428571428571,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-04",
@@ -971,9 +1199,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 53.525999999999996,
-      "weightedPerc": 54,
-      "compareToPast": 55
+      "avgPerc": 51.93833333333333,
+      "weightedPerc": 53.842,
+      "compareToPast": 55,
+      "avgWith30Random": 21.938333333333333,
+      "avgWith20Random": 71.93833333333333,
+      "avgWith10Random": 61.93833333333333,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-10-03",
@@ -988,9 +1220,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 56.49250000000001,
-      "weightedPerc": 62.225,
-      "compareToPast": 40
+      "avgPerc": 53.99400000000001,
+      "weightedPerc": 59.932,
+      "compareToPast": 40,
+      "avgWith30Random": 23.994000000000007,
+      "avgWith20Random": 33.99400000000001,
+      "avgWith10Random": 43.99400000000001,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-10-02",
@@ -1005,9 +1241,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 41.153333333333336,
-      "weightedPerc": 36.11,
-      "compareToPast": 55
+      "avgPerc": 41.58,
+      "weightedPerc": 38.63166666666667,
+      "compareToPast": 55,
+      "avgWith30Random": 11.579999999999998,
+      "avgWith20Random": 61.58,
+      "avgWith10Random": 31.58,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-29",
@@ -1022,9 +1262,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 37.5,
-      "weightedPerc": 31.109999999999996,
-      "compareToPast": 55
+      "avgPerc": 38.572,
+      "weightedPerc": 33.666,
+      "compareToPast": 55,
+      "avgWith30Random": 8.572000000000003,
+      "avgWith20Random": 58.572,
+      "avgWith10Random": 28.572000000000003,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-28",
@@ -1039,9 +1283,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 37.565,
-      "weightedPerc": 36.50666666666666,
-      "compareToPast": 40
+      "avgPerc": 38.386,
+      "weightedPerc": 36.92999999999999,
+      "compareToPast": 40,
+      "avgWith30Random": 68.386,
+      "avgWith20Random": 58.386,
+      "avgWith10Random": 48.386,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-27",
@@ -1056,9 +1304,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 51.667500000000004,
-      "weightedPerc": 52.778333333333336,
-      "compareToPast": 40
+      "avgPerc": 52,
+      "weightedPerc": 52.334,
+      "compareToPast": 40,
+      "avgWith30Random": 22,
+      "avgWith20Random": 72,
+      "avgWith10Random": 62,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-26",
@@ -1073,9 +1325,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 62.10833333333333,
-      "weightedPerc": 60.473333333333336,
-      "compareToPast": 40
+      "avgPerc": 61.028571428571425,
+      "weightedPerc": 60.94047619047619,
+      "compareToPast": 40,
+      "avgWith30Random": 91.02857142857142,
+      "avgWith20Random": 41.028571428571425,
+      "avgWith10Random": 51.028571428571425,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-25",
@@ -1090,9 +1346,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 31.563333333333336,
-      "weightedPerc": 23.01666666666667,
-      "compareToPast": 40
+      "avgPerc": 34.31,
+      "weightedPerc": 27.29000000000001,
+      "compareToPast": 40,
+      "avgWith30Random": 4.310000000000002,
+      "avgWith20Random": 14.310000000000002,
+      "avgWith10Random": 24.310000000000002,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-22",
@@ -1107,9 +1367,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 62.69833333333333,
-      "weightedPerc": 77.30133333333333,
-      "compareToPast": 40
+      "avgPerc": 61.38285714285714,
+      "weightedPerc": 73.12904761904763,
+      "compareToPast": 40,
+      "avgWith30Random": 91.38285714285715,
+      "avgWith20Random": 41.38285714285714,
+      "avgWith10Random": 71.38285714285715,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-21",
@@ -1124,9 +1388,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 61.5,
-      "weightedPerc": 66.66799999999999,
-      "compareToPast": 40
+      "avgPerc": 60.165,
+      "weightedPerc": 64.94533333333331,
+      "compareToPast": 40,
+      "avgWith30Random": 90.16499999999999,
+      "avgWith20Random": 80.16499999999999,
+      "avgWith10Random": 50.165,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-20",
@@ -1141,9 +1409,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 41.47,
-      "weightedPerc": 35.11833333333333,
-      "compareToPast": 40
+      "avgPerc": 44.128,
+      "weightedPerc": 37.659000000000006,
+      "compareToPast": 40,
+      "avgWith30Random": 14.128,
+      "avgWith20Random": 64.128,
+      "avgWith10Random": 34.128,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-19",
@@ -1158,9 +1430,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 43.45333333333334,
-      "weightedPerc": 41.07333333333333,
-      "compareToPast": 40
+      "avgPerc": 43.459999999999994,
+      "weightedPerc": 42.26333333333334,
+      "compareToPast": 40,
+      "avgWith30Random": 73.46,
+      "avgWith20Random": 63.459999999999994,
+      "avgWith10Random": 53.459999999999994,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-09-18",
@@ -1175,9 +1451,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 44.96,
-      "weightedPerc": 42.86,
-      "compareToPast": 50
+      "avgPerc": 44.46666666666666,
+      "weightedPerc": 44.26,
+      "compareToPast": 50,
+      "avgWith30Random": 74.46666666666667,
+      "avgWith20Random": 64.46666666666667,
+      "avgWith10Random": 54.46666666666666,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-15",
@@ -1192,9 +1472,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 35.82,
-      "weightedPerc": 37.243,
-      "compareToPast": 40
+      "avgPerc": 36.88666666666666,
+      "weightedPerc": 36.76866666666667,
+      "compareToPast": 40,
+      "avgWith30Random": 6.886666666666663,
+      "avgWith20Random": 16.886666666666663,
+      "avgWith10Random": 46.88666666666666,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-14",
@@ -1209,9 +1493,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 53.326666666666675,
-      "weightedPerc": 54.029333333333334,
-      "compareToPast": 40
+      "avgPerc": 53.53142857142858,
+      "weightedPerc": 53.828571428571436,
+      "compareToPast": 40,
+      "avgWith30Random": 23.531428571428577,
+      "avgWith20Random": 33.53142857142858,
+      "avgWith10Random": 43.53142857142858,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-09-13",
@@ -1226,9 +1514,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 42.452,
-      "weightedPerc": 37.17699999999999,
-      "compareToPast": 55
+      "avgPerc": 44.72666666666667,
+      "weightedPerc": 38.93533333333333,
+      "compareToPast": 55,
+      "avgWith30Random": 74.72666666666666,
+      "avgWith20Random": 64.72666666666666,
+      "avgWith10Random": 34.72666666666667,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-12",
@@ -1243,9 +1535,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 57.984,
-      "weightedPerc": 69.286,
-      "compareToPast": 55
+      "avgPerc": 55.51666666666667,
+      "weightedPerc": 65.51866666666666,
+      "compareToPast": 55,
+      "avgWith30Random": 85.51666666666668,
+      "avgWith20Random": 35.51666666666667,
+      "avgWith10Random": 65.51666666666668,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-09-11",
@@ -1260,9 +1556,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 49.72,
-      "weightedPerc": 53.63333333333333,
-      "compareToPast": 55
+      "avgPerc": 48.412,
+      "weightedPerc": 52.068000000000005,
+      "compareToPast": 55,
+      "avgWith30Random": 78.412,
+      "avgWith20Random": 68.412,
+      "avgWith10Random": 58.412,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-08",
@@ -1277,9 +1577,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 50.447500000000005,
-      "weightedPerc": 52.38166666666667,
-      "compareToPast": 55
+      "avgPerc": 48.730000000000004,
+      "weightedPerc": 51.608000000000004,
+      "compareToPast": 55,
+      "avgWith30Random": 18.730000000000004,
+      "avgWith20Random": 28.730000000000004,
+      "avgWith10Random": 38.730000000000004,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-09-07",
@@ -1294,9 +1598,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 44.7225,
-      "weightedPerc": 43.88833333333333,
-      "compareToPast": 55
+      "avgPerc": 46.778,
+      "weightedPerc": 44.222,
+      "compareToPast": 55,
+      "avgWith30Random": 76.77799999999999,
+      "avgWith20Random": 66.77799999999999,
+      "avgWith10Random": 56.778,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-09-06",
@@ -1311,9 +1619,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 62.084,
-      "weightedPerc": 73.334,
-      "compareToPast": 55
+      "avgPerc": 58.88,
+      "weightedPerc": 69.584,
+      "compareToPast": 55,
+      "avgWith30Random": 88.88,
+      "avgWith20Random": 78.88,
+      "avgWith10Random": 48.88,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-05",
@@ -1328,9 +1640,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 52.605000000000004,
-      "weightedPerc": 55.55666666666667,
-      "compareToPast": 55
+      "avgPerc": 50.656000000000006,
+      "weightedPerc": 54.376,
+      "compareToPast": 55,
+      "avgWith30Random": 20.656000000000006,
+      "avgWith20Random": 30.656000000000006,
+      "avgWith10Random": 60.656000000000006,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-09-01",
@@ -1345,9 +1661,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 52.223333333333336,
-      "weightedPerc": 61.11333333333334,
-      "compareToPast": 55
+      "avgPerc": 49.5325,
+      "weightedPerc": 56.668333333333344,
+      "compareToPast": 55,
+      "avgWith30Random": 79.5325,
+      "avgWith20Random": 29.5325,
+      "avgWith10Random": 59.5325,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-31",
@@ -1362,9 +1682,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 56.666666666666664,
-      "weightedPerc": 66.66666666666667,
-      "compareToPast": 55
+      "avgPerc": 54.494285714285716,
+      "weightedPerc": 63.80952380952381,
+      "compareToPast": 55,
+      "avgWith30Random": 84.49428571428572,
+      "avgWith20Random": 34.494285714285716,
+      "avgWith10Random": 64.49428571428572,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-30",
@@ -1379,9 +1703,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 37,
-      "weightedPerc": 34,
-      "compareToPast": 55
+      "avgPerc": 37.5,
+      "weightedPerc": 35,
+      "compareToPast": 55,
+      "avgWith30Random": 67.5,
+      "avgWith20Random": 17.5,
+      "avgWith10Random": 27.5,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-29",
@@ -1396,9 +1724,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 42.736000000000004,
-      "weightedPerc": 42.974999999999994,
-      "compareToPast": 55
+      "avgPerc": 42.28,
+      "weightedPerc": 42.89533333333333,
+      "compareToPast": 55,
+      "avgWith30Random": 12.280000000000001,
+      "avgWith20Random": 62.28,
+      "avgWith10Random": 32.28,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-28",
@@ -1413,9 +1745,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 63.141999999999996,
-      "weightedPerc": 76.155,
-      "compareToPast": 55
+      "avgPerc": 59.028333333333336,
+      "weightedPerc": 71.81733333333334,
+      "compareToPast": 55,
+      "avgWith30Random": 29.028333333333336,
+      "avgWith20Random": 79.02833333333334,
+      "avgWith10Random": 49.028333333333336,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-25",
@@ -1430,9 +1766,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 67.30833333333334,
-      "weightedPerc": 73.88933333333334,
-      "compareToPast": 40
+      "avgPerc": 65.38571428571429,
+      "weightedPerc": 72.00904761904762,
+      "compareToPast": 40,
+      "avgWith30Random": 95.38571428571429,
+      "avgWith20Random": 45.385714285714286,
+      "avgWith10Random": 75.38571428571429,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-24",
@@ -1447,9 +1787,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 36.447500000000005,
-      "weightedPerc": 35.553333333333335,
-      "compareToPast": 40
+      "avgPerc": 37.052,
+      "weightedPerc": 35.910999999999994,
+      "compareToPast": 40,
+      "avgWith30Random": 67.05199999999999,
+      "avgWith20Random": 57.052,
+      "avgWith10Random": 47.052,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-23",
@@ -1464,9 +1808,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 40.705,
-      "weightedPerc": 36.11166666666667,
-      "compareToPast": 40
+      "avgPerc": 43.334,
+      "weightedPerc": 37.949,
+      "compareToPast": 40,
+      "avgWith30Random": 73.334,
+      "avgWith20Random": 63.334,
+      "avgWith10Random": 33.334,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-22",
@@ -1481,9 +1829,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 60.378,
-      "weightedPerc": 72.209,
-      "compareToPast": 40
+      "avgPerc": 59.525000000000006,
+      "weightedPerc": 68.26533333333333,
+      "compareToPast": 40,
+      "avgWith30Random": 29.525000000000006,
+      "avgWith20Random": 39.525000000000006,
+      "avgWith10Random": 49.525000000000006,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-21",
@@ -1498,9 +1850,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 37.41,
-      "weightedPerc": 36.36,
-      "compareToPast": 55
+      "avgPerc": 38.09666666666667,
+      "weightedPerc": 37.059999999999995,
+      "compareToPast": 55,
+      "avgWith30Random": 68.09666666666666,
+      "avgWith20Random": 18.09666666666667,
+      "avgWith10Random": 48.09666666666667,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-18",
@@ -1515,9 +1871,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 26.766666666666666,
-      "weightedPerc": 20.203333333333333,
-      "compareToPast": 40
+      "avgPerc": 29.535,
+      "weightedPerc": 23.485,
+      "compareToPast": 40,
+      "avgWith30Random": 59.535,
+      "avgWith20Random": 9.535,
+      "avgWith10Random": 39.535,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-17",
@@ -1532,9 +1892,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 37.60333333333333,
-      "weightedPerc": 33.33,
-      "compareToPast": 40
+      "avgPerc": 41.71499999999999,
+      "weightedPerc": 35.46666666666666,
+      "compareToPast": 40,
+      "avgWith30Random": 71.71499999999999,
+      "avgWith20Random": 21.71499999999999,
+      "avgWith10Random": 31.71499999999999,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-16",
@@ -1549,9 +1913,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 67.6125,
-      "weightedPerc": 82.575,
-      "compareToPast": 40
+      "avgPerc": 64.9,
+      "weightedPerc": 76.59,
+      "compareToPast": 40,
+      "avgWith30Random": 34.900000000000006,
+      "avgWith20Random": 44.900000000000006,
+      "avgWith10Random": 74.9,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-15",
@@ -1566,9 +1934,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 84.61333333333333,
-      "weightedPerc": 95.67066666666666,
-      "compareToPast": 40
+      "avgPerc": 80.46285714285715,
+      "weightedPerc": 92.51142857142857,
+      "compareToPast": 40,
+      "avgWith30Random": 110.46285714285715,
+      "avgWith20Random": 60.462857142857146,
+      "avgWith10Random": 90.46285714285715,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-14",
@@ -1583,9 +1955,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 29.366666666666664,
-      "weightedPerc": 23.333333333333332,
-      "compareToPast": 55
+      "avgPerc": 31.747500000000002,
+      "weightedPerc": 26.349999999999998,
+      "compareToPast": 55,
+      "avgWith30Random": 61.7475,
+      "avgWith20Random": 11.747500000000002,
+      "avgWith10Random": 41.7475,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-11",
@@ -1600,9 +1976,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 30.8325,
-      "weightedPerc": 26.665000000000003,
-      "compareToPast": 55
+      "avgPerc": 35.524,
+      "weightedPerc": 28.331999999999994,
+      "compareToPast": 55,
+      "avgWith30Random": 5.524000000000001,
+      "avgWith20Random": 55.524,
+      "avgWith10Random": 45.524,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-10",
@@ -1617,9 +1997,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 80.64999999999999,
-      "weightedPerc": 93.80952380952381,
-      "compareToPast": 40
+      "avgPerc": 77.355,
+      "weightedPerc": 90.51964285714287,
+      "compareToPast": 40,
+      "avgWith30Random": 107.355,
+      "avgWith20Random": 97.355,
+      "avgWith10Random": 87.355,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-09",
@@ -1634,9 +2018,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 50.145,
-      "weightedPerc": 49.333333333333336,
-      "compareToPast": 40
+      "avgPerc": 50.964285714285715,
+      "weightedPerc": 49.56523809523809,
+      "compareToPast": 40,
+      "avgWith30Random": 80.96428571428572,
+      "avgWith20Random": 70.96428571428572,
+      "avgWith10Random": 40.964285714285715,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-08",
@@ -1651,9 +2039,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 44.358000000000004,
-      "weightedPerc": 43.331999999999994,
-      "compareToPast": 40
+      "avgPerc": 43.63166666666667,
+      "weightedPerc": 43.674000000000014,
+      "compareToPast": 40,
+      "avgWith30Random": 73.63166666666666,
+      "avgWith20Random": 23.631666666666668,
+      "avgWith10Random": 53.63166666666667,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-07",
@@ -1668,9 +2060,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 42.6175,
-      "weightedPerc": 49.04666666666666,
-      "compareToPast": 40
+      "avgPerc": 42.094,
+      "weightedPerc": 46.475,
+      "compareToPast": 40,
+      "avgWith30Random": 72.094,
+      "avgWith20Random": 22.094,
+      "avgWith10Random": 32.094,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-04",
@@ -1685,9 +2081,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 73.99555555555555,
-      "weightedPerc": 88.63138888888889,
-      "compareToPast": 40
+      "avgPerc": 70.42,
+      "weightedPerc": 85.70422222222221,
+      "compareToPast": 40,
+      "avgWith30Random": 40.42,
+      "avgWith20Random": 90.42,
+      "avgWith10Random": 80.42,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-03",
@@ -1702,9 +2102,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 87.80250000000001,
-      "weightedPerc": 97.38071428571428,
-      "compareToPast": 40
+      "avgPerc": 84.10777777777778,
+      "weightedPerc": 95.25222222222222,
+      "compareToPast": 40,
+      "avgWith30Random": 114.10777777777778,
+      "avgWith20Random": 104.10777777777778,
+      "avgWith10Random": 74.10777777777778,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-08-02",
@@ -1719,9 +2123,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 32.998000000000005,
-      "weightedPerc": 31.663999999999994,
-      "compareToPast": 40
+      "avgPerc": 34.06333333333333,
+      "weightedPerc": 32.10866666666666,
+      "compareToPast": 40,
+      "avgWith30Random": 64.06333333333333,
+      "avgWith20Random": 14.063333333333333,
+      "avgWith10Random": 24.063333333333333,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-08-01",
@@ -1736,9 +2144,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 79.09166666666667,
-      "weightedPerc": 94.66666666666667,
-      "compareToPast": 50
+      "avgPerc": 75.58571428571429,
+      "weightedPerc": 90.21666666666667,
+      "compareToPast": 50,
+      "avgWith30Random": 105.58571428571429,
+      "avgWith20Random": 55.58571428571429,
+      "avgWith10Random": 65.58571428571429,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-31",
@@ -1753,9 +2165,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 40.910000000000004,
-      "weightedPerc": 42.5,
-      "compareToPast": 50
+      "avgPerc": 43.46666666666667,
+      "weightedPerc": 41.97,
+      "compareToPast": 50,
+      "avgWith30Random": 13.466666666666669,
+      "avgWith20Random": 63.46666666666667,
+      "avgWith10Random": 33.46666666666667,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-28",
@@ -1770,9 +2186,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 52.2225,
-      "weightedPerc": 45.92499999999999,
-      "compareToPast": 75
+      "avgPerc": 53.028,
+      "weightedPerc": 48.443999999999996,
+      "compareToPast": 75,
+      "avgWith30Random": 83.02799999999999,
+      "avgWith20Random": 73.02799999999999,
+      "avgWith10Random": 63.028,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-07-27",
@@ -1787,9 +2207,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 71.268,
-      "weightedPerc": 84.444,
-      "compareToPast": 75
+      "avgPerc": 69.06666666666666,
+      "weightedPerc": 80.05199999999999,
+      "compareToPast": 75,
+      "avgWith30Random": 99.06666666666666,
+      "avgWith20Random": 89.06666666666666,
+      "avgWith10Random": 59.06666666666666,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-07-26",
@@ -1804,9 +2228,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 34.845,
-      "weightedPerc": 33.33,
-      "compareToPast": 75
+      "avgPerc": 36.36,
+      "weightedPerc": 34.339999999999996,
+      "compareToPast": 75,
+      "avgWith30Random": 6.359999999999999,
+      "avgWith20Random": 16.36,
+      "avgWith10Random": 46.36,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-25",
@@ -1821,9 +2249,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 28.94666666666667,
-      "weightedPerc": 25,
-      "compareToPast": 75
+      "avgPerc": 31.085,
+      "weightedPerc": 26.973333333333333,
+      "compareToPast": 75,
+      "avgWith30Random": 1.0850000000000009,
+      "avgWith20Random": 51.085,
+      "avgWith10Random": 41.085,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-24",
@@ -1838,9 +2270,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 63.89,
-      "weightedPerc": 75,
-      "compareToPast": 75
+      "avgPerc": 62.724000000000004,
+      "weightedPerc": 70.556,
+      "compareToPast": 75,
+      "avgWith30Random": 92.724,
+      "avgWith20Random": 42.724000000000004,
+      "avgWith10Random": 52.724000000000004,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-07-21",
@@ -1855,9 +2291,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 70.4175,
-      "weightedPerc": 80.55666666666667,
-      "compareToPast": 65
+      "avgPerc": 68.334,
+      "weightedPerc": 76.501,
+      "compareToPast": 65,
+      "avgWith30Random": 98.334,
+      "avgWith20Random": 48.334,
+      "avgWith10Random": 78.334,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-07-20",
@@ -1872,9 +2312,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 46.666666666666664,
-      "weightedPerc": 50,
-      "compareToPast": 65
+      "avgPerc": 44.6775,
+      "weightedPerc": 48.333333333333336,
+      "compareToPast": 65,
+      "avgWith30Random": 74.67750000000001,
+      "avgWith20Random": 24.677500000000002,
+      "avgWith10Random": 54.6775,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-07-19",
@@ -1889,9 +2333,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 45,
-      "weightedPerc": 50,
-      "compareToPast": 65
+      "avgPerc": 42.903333333333336,
+      "weightedPerc": 46.666666666666664,
+      "compareToPast": 65,
+      "avgWith30Random": 72.90333333333334,
+      "avgWith20Random": 22.903333333333336,
+      "avgWith10Random": 52.903333333333336,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-18",
@@ -1906,9 +2354,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 34.9975,
-      "weightedPerc": 33.32999999999999,
-      "compareToPast": 65
+      "avgPerc": 35.331999999999994,
+      "weightedPerc": 33.99699999999999,
+      "compareToPast": 65,
+      "avgWith30Random": 65.332,
+      "avgWith20Random": 55.331999999999994,
+      "avgWith10Random": 45.331999999999994,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-17",
@@ -1923,9 +2375,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 58.055,
-      "weightedPerc": 76.33333333333333,
-      "compareToPast": 65
+      "avgPerc": 55,
+      "weightedPerc": 71.11095238095238,
+      "compareToPast": 65,
+      "avgWith30Random": 25,
+      "avgWith20Random": 75,
+      "avgWith10Random": 45,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-14",
@@ -1940,9 +2396,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 50.2975,
-      "weightedPerc": 57.34333333333334,
-      "compareToPast": 65
+      "avgPerc": 47.134,
+      "weightedPerc": 54.52500000000001,
+      "compareToPast": 65,
+      "avgWith30Random": 17.134,
+      "avgWith20Random": 27.134,
+      "avgWith10Random": 57.134,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-07-13",
@@ -1957,9 +2417,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 77,
-      "weightedPerc": 88,
-      "compareToPast": 50
+      "avgPerc": 73.93666666666667,
+      "weightedPerc": 84.33333333333333,
+      "compareToPast": 50,
+      "avgWith30Random": 43.93666666666667,
+      "avgWith20Random": 53.93666666666667,
+      "avgWith10Random": 63.93666666666667,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-07-12",
@@ -1974,9 +2438,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 64.394,
-      "weightedPerc": 78.864,
-      "compareToPast": 50
+      "avgPerc": 59.61333333333334,
+      "weightedPerc": 74.04066666666668,
+      "compareToPast": 50,
+      "avgWith30Random": 29.613333333333337,
+      "avgWith20Random": 39.61333333333334,
+      "avgWith10Random": 49.61333333333334,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-11",
@@ -1991,9 +2459,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 62.18,
-      "weightedPerc": 60.92666666666667,
-      "compareToPast": 50
+      "avgPerc": 61.172000000000004,
+      "weightedPerc": 61.428,
+      "compareToPast": 50,
+      "avgWith30Random": 31.172000000000004,
+      "avgWith20Random": 81.172,
+      "avgWith10Random": 71.172,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-10",
@@ -2008,9 +2480,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 32.39666666666667,
-      "weightedPerc": 31.74333333333333,
-      "compareToPast": 60
+      "avgPerc": 33.557500000000005,
+      "weightedPerc": 32.07,
+      "compareToPast": 60,
+      "avgWith30Random": 63.557500000000005,
+      "avgWith20Random": 53.557500000000005,
+      "avgWith10Random": 23.557500000000005,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-07-07",
@@ -2025,9 +2501,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 42.06333333333333,
-      "weightedPerc": 36.50666666666667,
-      "compareToPast": 60
+      "avgPerc": 45.832499999999996,
+      "weightedPerc": 39.285,
+      "compareToPast": 60,
+      "avgWith30Random": 15.832499999999996,
+      "avgWith20Random": 25.832499999999996,
+      "avgWith10Random": 55.832499999999996,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-06",
@@ -2042,9 +2522,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 54.285,
-      "weightedPerc": 46.188333333333325,
-      "compareToPast": 60
+      "avgPerc": 55.279999999999994,
+      "weightedPerc": 49.42699999999999,
+      "compareToPast": 60,
+      "avgWith30Random": 85.28,
+      "avgWith20Random": 75.28,
+      "avgWith10Random": 45.279999999999994,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-05",
@@ -2059,9 +2543,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 44.0175,
-      "weightedPerc": 49.76166666666666,
-      "compareToPast": 60
+      "avgPerc": 42.622,
+      "weightedPerc": 47.464,
+      "compareToPast": 60,
+      "avgWith30Random": 12.622,
+      "avgWith20Random": 62.622,
+      "avgWith10Random": 32.622,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-07-03",
@@ -2076,9 +2564,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 50.489999999999995,
-      "weightedPerc": 56.668333333333344,
-      "compareToPast": 60
+      "avgPerc": 47.315999999999995,
+      "weightedPerc": 54.197,
+      "compareToPast": 60,
+      "avgWith30Random": 77.316,
+      "avgWith20Random": 27.315999999999995,
+      "avgWith10Random": 37.315999999999995,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-30",
@@ -2093,9 +2585,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 65.08999999999999,
-      "weightedPerc": 68.52,
-      "compareToPast": 60
+      "avgPerc": 63.239999999999995,
+      "weightedPerc": 66.80499999999999,
+      "compareToPast": 60,
+      "avgWith30Random": 93.24,
+      "avgWith20Random": 83.24,
+      "avgWith10Random": 73.24,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-29",
@@ -2110,9 +2606,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 54.166,
-      "weightedPerc": 68.333,
-      "compareToPast": 60
+      "avgPerc": 51.13833333333333,
+      "weightedPerc": 63.61066666666667,
+      "compareToPast": 60,
+      "avgWith30Random": 81.13833333333332,
+      "avgWith20Random": 31.13833333333333,
+      "avgWith10Random": 61.13833333333333,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-06-28",
@@ -2127,9 +2627,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 48.215,
-      "weightedPerc": 52.778333333333336,
-      "compareToPast": 60
+      "avgPerc": 50.11,
+      "weightedPerc": 50.953,
+      "compareToPast": 60,
+      "avgWith30Random": 20.11,
+      "avgWith20Random": 70.11,
+      "avgWith10Random": 60.11,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-27",
@@ -2144,9 +2648,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 63.052499999999995,
-      "weightedPerc": 60.416666666666664,
-      "compareToPast": 75
+      "avgPerc": 62.44199999999999,
+      "weightedPerc": 61.471000000000004,
+      "compareToPast": 75,
+      "avgWith30Random": 92.442,
+      "avgWith20Random": 82.442,
+      "avgWith10Random": 52.44199999999999,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-06-26",
@@ -2161,9 +2669,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 68.33500000000001,
-      "weightedPerc": 83.335,
-      "compareToPast": 75
+      "avgPerc": 62.168000000000006,
+      "weightedPerc": 77.33500000000001,
+      "compareToPast": 75,
+      "avgWith30Random": 32.168000000000006,
+      "avgWith20Random": 82.168,
+      "avgWith10Random": 72.168,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-23",
@@ -2178,9 +2690,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 54.166666666666664,
-      "weightedPerc": 50,
-      "compareToPast": 75
+      "avgPerc": 55.207499999999996,
+      "weightedPerc": 52.083333333333336,
+      "compareToPast": 75,
+      "avgWith30Random": 25.207499999999996,
+      "avgWith20Random": 35.207499999999996,
+      "avgWith10Random": 45.207499999999996,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-06-22",
@@ -2195,9 +2711,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 35.415,
-      "weightedPerc": 33.33,
-      "compareToPast": 75
+      "avgPerc": 36.11,
+      "weightedPerc": 34.72,
+      "compareToPast": 75,
+      "avgWith30Random": 6.109999999999999,
+      "avgWith20Random": 56.11,
+      "avgWith10Random": 46.11,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-21",
@@ -2212,9 +2732,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 37.5,
-      "weightedPerc": null,
-      "compareToPast": 75
+      "avgPerc": 36.14,
+      "weightedPerc": 37.5,
+      "compareToPast": 75,
+      "avgWith30Random": 6.140000000000001,
+      "avgWith20Random": 16.14,
+      "avgWith10Random": 46.14,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-06-20",
@@ -2229,9 +2753,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 35.71333333333333,
-      "weightedPerc": 42.85666666666666,
-      "compareToPast": 75
+      "avgPerc": 35.480000000000004,
+      "weightedPerc": 39.285000000000004,
+      "compareToPast": 75,
+      "avgWith30Random": 65.48,
+      "avgWith20Random": 15.480000000000004,
+      "avgWith10Random": 25.480000000000004,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-06-19",
@@ -2246,9 +2774,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 49.403333333333336,
-      "weightedPerc": 54.166666666666664,
-      "compareToPast": 60
+      "avgPerc": 45.0075,
+      "weightedPerc": 51.785000000000004,
+      "compareToPast": 60,
+      "avgWith30Random": 75.0075,
+      "avgWith20Random": 25.0075,
+      "avgWith10Random": 55.0075,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-16",
@@ -2263,9 +2795,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 62.5,
-      "weightedPerc": 73.33333333333333,
-      "compareToPast": 60
+      "avgPerc": 61.303999999999995,
+      "weightedPerc": 69,
+      "compareToPast": 60,
+      "avgWith30Random": 31.303999999999995,
+      "avgWith20Random": 41.303999999999995,
+      "avgWith10Random": 51.303999999999995,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-15",
@@ -2280,9 +2816,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 33.33,
+      "avgPerc": 32.82666666666667,
       "weightedPerc": 33.33,
-      "compareToPast": 60
+      "compareToPast": 60,
+      "avgWith30Random": 2.826666666666668,
+      "avgWith20Random": 52.82666666666667,
+      "avgWith10Random": 42.82666666666667,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-14",
@@ -2297,9 +2837,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 25.384999999999998,
-      "weightedPerc": 20,
-      "compareToPast": 60
+      "avgPerc": 26.44666666666667,
+      "weightedPerc": 23.59,
+      "compareToPast": 60,
+      "avgWith30Random": -3.553333333333331,
+      "avgWith20Random": 6.446666666666669,
+      "avgWith10Random": 16.44666666666667,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-06-13",
@@ -2314,9 +2858,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 73.572,
-      "weightedPerc": 92.5,
-      "compareToPast": 50
+      "avgPerc": 70.73,
+      "weightedPerc": 86.19066666666667,
+      "compareToPast": 50,
+      "avgWith30Random": 100.73,
+      "avgWith20Random": 50.730000000000004,
+      "avgWith10Random": 80.73,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-12",
@@ -2331,9 +2879,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 36.50666666666667,
-      "weightedPerc": 33.33,
-      "compareToPast": 50
+      "avgPerc": 42.1525,
+      "weightedPerc": 34.91833333333333,
+      "compareToPast": 50,
+      "avgWith30Random": 72.1525,
+      "avgWith20Random": 22.152500000000003,
+      "avgWith10Random": 32.1525,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-09",
@@ -2348,9 +2900,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 71.334,
-      "weightedPerc": 87.334,
-      "compareToPast": 50
+      "avgPerc": 69.29333333333334,
+      "weightedPerc": 82.00066666666666,
+      "compareToPast": 50,
+      "avgWith30Random": 99.29333333333334,
+      "avgWith20Random": 89.29333333333334,
+      "avgWith10Random": 59.29333333333334,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-08",
@@ -2365,9 +2921,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 67.26333333333334,
-      "weightedPerc": 70.83333333333333,
-      "compareToPast": 50
+      "avgPerc": 65.9225,
+      "weightedPerc": 69.04833333333333,
+      "compareToPast": 50,
+      "avgWith30Random": 35.9225,
+      "avgWith20Random": 85.9225,
+      "avgWith10Random": 55.9225,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-06-07",
@@ -2382,9 +2942,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 50.832499999999996,
-      "weightedPerc": 70,
-      "compareToPast": 50
+      "avgPerc": 46.666,
+      "weightedPerc": 62.33299999999999,
+      "compareToPast": 50,
+      "avgWith30Random": 76.666,
+      "avgWith20Random": 26.665999999999997,
+      "avgWith10Random": 56.666,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-06",
@@ -2399,9 +2963,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 43.333333333333336,
-      "weightedPerc": 46.666666666666664,
-      "compareToPast": 50
+      "avgPerc": 47.975,
+      "weightedPerc": 45,
+      "compareToPast": 50,
+      "avgWith30Random": 17.975,
+      "avgWith20Random": 67.975,
+      "avgWith10Random": 37.975,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-05",
@@ -2416,9 +2984,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 80.22000000000001,
-      "weightedPerc": 90.47666666666667,
-      "compareToPast": 50
+      "avgPerc": 76.415,
+      "weightedPerc": 85.34833333333334,
+      "compareToPast": 50,
+      "avgWith30Random": 46.415000000000006,
+      "avgWith20Random": 56.415000000000006,
+      "avgWith10Random": 66.415,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-06-02",
@@ -2433,9 +3005,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 53.78666666666667,
-      "weightedPerc": 75,
-      "compareToPast": 65
+      "avgPerc": 48.235,
+      "weightedPerc": 64.39333333333333,
+      "compareToPast": 65,
+      "avgWith30Random": 78.235,
+      "avgWith20Random": 68.235,
+      "avgWith10Random": 38.235,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-06-01",
@@ -2450,9 +3026,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 25,
+      "avgPerc": 38.333333333333336,
       "weightedPerc": 25,
-      "compareToPast": 65
+      "compareToPast": 65,
+      "avgWith30Random": 8.333333333333336,
+      "avgWith20Random": 18.333333333333336,
+      "avgWith10Random": 48.333333333333336,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-31",
@@ -2467,9 +3047,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 91.66666666666667,
-      "weightedPerc": 98.61111111111111,
-      "compareToPast": 65
+      "avgPerc": 89.34200000000001,
+      "weightedPerc": 97.22222222222223,
+      "compareToPast": 65,
+      "avgWith30Random": 119.34200000000001,
+      "avgWith20Random": 109.34200000000001,
+      "avgWith10Random": 79.34200000000001,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-30",
@@ -2485,8 +3069,12 @@
     "wentUpFollowingDay": false,
     "strategies": {
       "avgPerc": 33.33,
-      "weightedPerc": null,
-      "compareToPast": 65
+      "weightedPerc": 33.33,
+      "compareToPast": 65,
+      "avgWith30Random": 63.33,
+      "avgWith20Random": 13.329999999999998,
+      "avgWith10Random": 23.33,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-26",
@@ -2501,9 +3089,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 58.09428571428571,
-      "weightedPerc": 80.31666666666668,
-      "compareToPast": 65
+      "avgPerc": 54.99875,
+      "weightedPerc": 74.76107142857143,
+      "compareToPast": 65,
+      "avgWith30Random": 24.99875,
+      "avgWith20Random": 74.99875,
+      "avgWith10Random": 64.99875,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-25",
@@ -2518,9 +3110,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 55.428,
-      "weightedPerc": 68.714,
-      "compareToPast": 65
+      "avgPerc": 51.09166666666667,
+      "weightedPerc": 64.28533333333333,
+      "compareToPast": 65,
+      "avgWith30Random": 21.09166666666667,
+      "avgWith20Random": 71.09166666666667,
+      "avgWith10Random": 41.09166666666667,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-05-24",
@@ -2535,9 +3131,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 73.83200000000001,
-      "weightedPerc": 72.143,
-      "compareToPast": 50
+      "avgPerc": 72.63833333333334,
+      "weightedPerc": 72.706,
+      "compareToPast": 50,
+      "avgWith30Random": 102.63833333333334,
+      "avgWith20Random": 52.638333333333335,
+      "avgWith10Random": 82.63833333333334,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-05-23",
@@ -2552,9 +3152,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 45.71333333333333,
-      "weightedPerc": 52.379999999999995,
-      "compareToPast": 65
+      "avgPerc": 42.0975,
+      "weightedPerc": 49.04666666666666,
+      "compareToPast": 65,
+      "avgWith30Random": 72.0975,
+      "avgWith20Random": 22.097499999999997,
+      "avgWith10Random": 52.0975,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-22",
@@ -2569,9 +3173,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 68.69,
-      "weightedPerc": 66.67,
-      "compareToPast": 55
+      "avgPerc": 67.69500000000001,
+      "weightedPerc": 67.68,
+      "compareToPast": 55,
+      "avgWith30Random": 37.69500000000001,
+      "avgWith20Random": 87.69500000000001,
+      "avgWith10Random": 77.69500000000001,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-19",
@@ -2586,9 +3194,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 66.66666666666667,
-      "weightedPerc": 88.89,
-      "compareToPast": 65
+      "avgPerc": 58.332499999999996,
+      "weightedPerc": 77.77833333333334,
+      "compareToPast": 65,
+      "avgWith30Random": 28.332499999999996,
+      "avgWith20Random": 78.3325,
+      "avgWith10Random": 48.332499999999996,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-05-18",
@@ -2603,9 +3215,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 45.553333333333335,
-      "weightedPerc": 33.33,
-      "compareToPast": 55
+      "avgPerc": 49.78999999999999,
+      "weightedPerc": 39.44166666666666,
+      "compareToPast": 55,
+      "avgWith30Random": 79.78999999999999,
+      "avgWith20Random": 69.78999999999999,
+      "avgWith10Random": 39.78999999999999,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-05-17",
@@ -2620,9 +3236,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 25,
+      "avgPerc": 27.776666666666667,
       "weightedPerc": 25,
-      "compareToPast": 65
+      "compareToPast": 65,
+      "avgWith30Random": 57.77666666666667,
+      "avgWith20Random": 47.77666666666667,
+      "avgWith10Random": 37.77666666666667,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-16",
@@ -2637,9 +3257,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 25,
-      "weightedPerc": null,
-      "compareToPast": 65
+      "avgPerc": 26.785,
+      "weightedPerc": 25,
+      "compareToPast": 65,
+      "avgWith30Random": -3.215,
+      "avgWith20Random": 46.785,
+      "avgWith10Random": 16.785,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-15",
@@ -2654,9 +3278,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 62.5,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 92.5,
+      "avgWith20Random": 82.5,
+      "avgWith10Random": 72.5,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-05-12",
@@ -2671,9 +3299,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 84.89,
-      "weightedPerc": 91.334,
-      "compareToPast": 55
+      "avgPerc": 81.85333333333334,
+      "weightedPerc": 89.18599999999999,
+      "compareToPast": 55,
+      "avgWith30Random": 51.85333333333334,
+      "avgWith20Random": 101.85333333333334,
+      "avgWith10Random": 71.85333333333334,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-11",
@@ -2688,9 +3320,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 61.31,
-      "weightedPerc": 77.77833333333334,
-      "compareToPast": 55
+      "avgPerc": 55.202,
+      "weightedPerc": 71.191,
+      "compareToPast": 55,
+      "avgWith30Random": 85.202,
+      "avgWith20Random": 35.202,
+      "avgWith10Random": 65.202,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-10",
@@ -2705,9 +3341,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 76.945,
-      "weightedPerc": 80,
-      "compareToPast": 40
+      "avgPerc": 74.414,
+      "weightedPerc": 78.77799999999999,
+      "compareToPast": 40,
+      "avgWith30Random": 104.414,
+      "avgWith20Random": 94.414,
+      "avgWith10Random": 64.414,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-09",
@@ -2722,9 +3362,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 75.048,
-      "weightedPerc": 91.334,
-      "compareToPast": 40
+      "avgPerc": 68.095,
+      "weightedPerc": 85.90533333333333,
+      "compareToPast": 40,
+      "avgWith30Random": 98.095,
+      "avgWith20Random": 48.095,
+      "avgWith10Random": 78.095,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-08",
@@ -2739,9 +3383,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 87.5,
-      "weightedPerc": 95.83333333333333,
-      "compareToPast": 40
+      "avgPerc": 82.30799999999999,
+      "weightedPerc": 92.5,
+      "compareToPast": 40,
+      "avgWith30Random": 112.30799999999999,
+      "avgWith20Random": 102.30799999999999,
+      "avgWith10Random": 72.30799999999999,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-05",
@@ -2756,9 +3404,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 33.33,
-      "weightedPerc": null,
-      "compareToPast": 40
+      "avgPerc": 34.845,
+      "weightedPerc": 33.33,
+      "compareToPast": 40,
+      "avgWith30Random": 64.845,
+      "avgWith20Random": 54.845,
+      "avgWith10Random": 24.845,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-05-04",
@@ -2773,9 +3425,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 58.33,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 28.33,
+      "avgWith20Random": 78.33,
+      "avgWith10Random": 48.33,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-05-03",
@@ -2790,9 +3446,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 58.33,
       "weightedPerc": null,
-      "compareToPast": 55
+      "compareToPast": 55,
+      "avgWith30Random": 28.33,
+      "avgWith20Random": 78.33,
+      "avgWith10Random": 68.33,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-02",
@@ -2807,9 +3467,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 58.927499999999995,
-      "weightedPerc": 50,
-      "compareToPast": 55
+      "avgPerc": 59.870000000000005,
+      "weightedPerc": 53.571000000000005,
+      "compareToPast": 55,
+      "avgWith30Random": 89.87,
+      "avgWith20Random": 79.87,
+      "avgWith10Random": 49.870000000000005,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-05-01",
@@ -2824,9 +3488,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 41.665,
-      "weightedPerc": 47.221666666666664,
-      "compareToPast": 55
+      "avgPerc": 40.604,
+      "weightedPerc": 44.999,
+      "compareToPast": 55,
+      "avgWith30Random": 70.604,
+      "avgWith20Random": 20.604,
+      "avgWith10Random": 30.604,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-04-28",
@@ -2841,9 +3509,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 79.76142857142857,
-      "weightedPerc": 94.04761904761905,
-      "compareToPast": 55
+      "avgPerc": 73.54124999999999,
+      "weightedPerc": 90.47607142857143,
+      "compareToPast": 55,
+      "avgWith30Random": 43.54124999999999,
+      "avgWith20Random": 53.54124999999999,
+      "avgWith10Random": 63.54124999999999,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-27",
@@ -2858,9 +3530,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 91.66666666666667,
-      "weightedPerc": 97.778,
-      "compareToPast": 55
+      "avgPerc": 87.14285714285714,
+      "weightedPerc": 96.03190476190477,
+      "compareToPast": 55,
+      "avgWith30Random": 57.14285714285714,
+      "avgWith20Random": 107.14285714285714,
+      "avgWith10Random": 77.14285714285714,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-26",
@@ -2875,9 +3551,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 40,
-      "weightedPerc": null,
-      "compareToPast": 55
+      "avgPerc": 36.665,
+      "weightedPerc": 40,
+      "compareToPast": 55,
+      "avgWith30Random": 66.66499999999999,
+      "avgWith20Random": 56.665,
+      "avgWith10Random": 46.665,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-25",
@@ -2892,9 +3572,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 100,
+      "avgPerc": 86.66666666666667,
       "weightedPerc": 100,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 56.66666666666667,
+      "avgWith20Random": 66.66666666666667,
+      "avgWith10Random": 96.66666666666667,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-24",
@@ -2909,9 +3593,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 66.67,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 96.67,
+      "avgWith20Random": 86.67,
+      "avgWith10Random": 56.67,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-21",
@@ -2926,9 +3614,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 66.67,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 36.67,
+      "avgWith20Random": 46.67,
+      "avgWith10Random": 56.67,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-20",
@@ -2943,9 +3635,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 100,
+      "avgPerc": 95,
       "weightedPerc": 100,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 125,
+      "avgWith20Random": 75,
+      "avgWith10Random": 105,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-19",
@@ -2960,9 +3656,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 75,
-      "weightedPerc": 91.66666666666667,
-      "compareToPast": 40
+      "avgPerc": 66.666,
+      "weightedPerc": 85,
+      "compareToPast": 40,
+      "avgWith30Random": 36.666,
+      "avgWith20Random": 86.666,
+      "avgWith10Random": 76.666,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-04-18",
@@ -2977,9 +3677,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 53.335,
-      "weightedPerc": 66.67,
-      "compareToPast": 40
+      "avgPerc": 43.89000000000001,
+      "weightedPerc": 57.78,
+      "compareToPast": 40,
+      "avgWith30Random": 13.890000000000008,
+      "avgWith20Random": 63.89000000000001,
+      "avgWith10Random": 33.89000000000001,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-04-17",
@@ -2994,9 +3698,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 75,
-      "weightedPerc": 50,
-      "compareToPast": 40
+      "avgPerc": 73.81,
+      "weightedPerc": 66.66666666666667,
+      "compareToPast": 40,
+      "avgWith30Random": 103.81,
+      "avgWith20Random": 53.81,
+      "avgWith10Random": 63.81,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-13",
@@ -3011,9 +3719,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 50,
-      "weightedPerc": null,
-      "compareToPast": 40
+      "avgPerc": 39.285,
+      "weightedPerc": 50,
+      "compareToPast": 40,
+      "avgWith30Random": 69.285,
+      "avgWith20Random": 19.284999999999997,
+      "avgWith10Random": 49.285,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-12",
@@ -3028,9 +3740,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 71.43,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 101.43,
+      "avgWith20Random": 51.43000000000001,
+      "avgWith10Random": 81.43,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-04-11",
@@ -3045,9 +3761,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 83.33,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 53.33,
+      "avgWith20Random": 63.33,
+      "avgWith10Random": 73.33,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-10",
@@ -3062,9 +3782,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 83.33,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 113.33,
+      "avgWith20Random": 103.33,
+      "avgWith10Random": 73.33,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-04-07",
@@ -3081,7 +3805,11 @@
     "strategies": {
       "avgPerc": 100,
       "weightedPerc": 100,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 130,
+      "avgWith20Random": 80,
+      "avgWith10Random": 110,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-04-06",
@@ -3096,9 +3824,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 77.78,
-      "weightedPerc": 88.89,
-      "compareToPast": 55
+      "avgPerc": 66.6675,
+      "weightedPerc": 83.335,
+      "compareToPast": 55,
+      "avgWith30Random": 36.667500000000004,
+      "avgWith20Random": 86.6675,
+      "avgWith10Random": 76.6675,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-04-05",
@@ -3115,7 +3847,11 @@
     "strategies": {
       "avgPerc": 100,
       "weightedPerc": 100,
-      "compareToPast": 55
+      "compareToPast": 55,
+      "avgWith30Random": 130,
+      "avgWith20Random": 80,
+      "avgWith10Random": 110,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-04-04",
@@ -3130,9 +3866,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 100,
+      "avgPerc": 83.3325,
       "weightedPerc": 100,
-      "compareToPast": 55
+      "compareToPast": 55,
+      "avgWith30Random": 53.332499999999996,
+      "avgWith20Random": 103.3325,
+      "avgWith10Random": 93.3325,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-04-03",
@@ -3147,9 +3887,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": 50,
+      "avgPerc": 40,
       "weightedPerc": 50,
-      "compareToPast": 55
+      "compareToPast": 55,
+      "avgWith30Random": 70,
+      "avgWith20Random": 60,
+      "avgWith10Random": 50,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-03-31",
@@ -3165,8 +3909,12 @@
     "wentUpFollowingDay": true,
     "strategies": {
       "avgPerc": 100,
-      "weightedPerc": null,
-      "compareToPast": 55
+      "weightedPerc": 100,
+      "compareToPast": 55,
+      "avgWith30Random": 130,
+      "avgWith20Random": 120,
+      "avgWith10Random": 90,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-03-30",
@@ -3181,9 +3929,13 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": 100,
-      "weightedPerc": null,
-      "compareToPast": 40
+      "avgPerc": 62.5,
+      "weightedPerc": 100,
+      "compareToPast": 40,
+      "avgWith30Random": 92.5,
+      "avgWith20Random": 82.5,
+      "avgWith10Random": 72.5,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-03-29",
@@ -3198,9 +3950,13 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": null,
+      "avgPerc": 25,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": -5,
+      "avgWith20Random": 5,
+      "avgWith10Random": 35,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-03-28",
@@ -3217,7 +3973,11 @@
     "strategies": {
       "avgPerc": null,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": null,
+      "avgWith20Random": null,
+      "avgWith10Random": null,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-03-27",
@@ -3234,7 +3994,11 @@
     "strategies": {
       "avgPerc": 100,
       "weightedPerc": 100,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": 130,
+      "avgWith20Random": 120,
+      "avgWith10Random": 110,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-03-24",
@@ -3251,7 +4015,11 @@
     "strategies": {
       "avgPerc": null,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": null,
+      "avgWith20Random": null,
+      "avgWith10Random": null,
+      "closeYesterdayLessThanOpenToday": 70
     },
     "rawData": {
       "Date": "2017-03-23",
@@ -3267,8 +4035,12 @@
     "wentUpFollowingDay": true,
     "strategies": {
       "avgPerc": 100,
-      "weightedPerc": null,
-      "compareToPast": 40
+      "weightedPerc": 100,
+      "compareToPast": 40,
+      "avgWith30Random": 70,
+      "avgWith20Random": 120,
+      "avgWith10Random": 90,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-03-22",
@@ -3285,7 +4057,11 @@
     "strategies": {
       "avgPerc": null,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": null,
+      "avgWith20Random": null,
+      "avgWith10Random": null,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-03-21",
@@ -3302,7 +4078,11 @@
     "strategies": {
       "avgPerc": null,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": null,
+      "avgWith20Random": null,
+      "avgWith10Random": null,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-03-20",
@@ -3319,7 +4099,11 @@
     "strategies": {
       "avgPerc": null,
       "weightedPerc": null,
-      "compareToPast": 40
+      "compareToPast": 40,
+      "avgWith30Random": null,
+      "avgWith20Random": null,
+      "avgWith10Random": null,
+      "closeYesterdayLessThanOpenToday": 30
     },
     "rawData": {
       "Date": "2017-03-17",

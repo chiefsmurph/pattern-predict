@@ -3,9 +3,10 @@ const arrayAvg = require('../utils/arrayAvg');
 // takes in todaysPerms and generates final calls
 
 module.exports = (todaysPerms, { dayArray, index }) => {
+  const avgPerc = arrayAvg(todaysPerms.map(perm => perm.perc));
   return {
 
-    avgPerc: arrayAvg(todaysPerms.map(perm => perm.perc)),
+    avgPerc,
 
     weightedPerc: (() => {
       let percentages = [];
@@ -19,15 +20,7 @@ module.exports = (todaysPerms, { dayArray, index }) => {
 
     compareToPast: (() => {
       let returnPerc = 40;
-      try {
-        var curClose = dayArray[index].Close;
-      }
-      catch (e) {
-        console.log('error', e);
-        console.log(dayArray)
-        console.log('index,', index);
-        console.log();
-      }
+      const curClose = dayArray[index].Close;
       const dayComparisons = {
         5: 15,  // if trending upward in last 5 days...increase returnPerc by 15
         30: 10,
@@ -40,7 +33,25 @@ module.exports = (todaysPerms, { dayArray, index }) => {
         }
       });
       return returnPerc;
-    })()
+    })(),
+
+    avgWith30Random: (() => {
+      return avgPerc + (Math.random() > 0.5 ? 30 : -30)
+    })(),
+
+    avgWith20Random: (() => {
+      return avgPerc + (Math.random() > 0.5 ? 20 : -20)
+    })(),
+
+    avgWith10Random: (() => {
+      return avgPerc + (Math.random() > 0.5 ? 10 : -10)
+    })(),
+
+    closeYesterdayLessThanOpenToday: (() => {
+      const closeYesterday = (dayArray[index - 1] || {}).Close;
+      const openToday = dayArray[index].Open;
+      return (closeYesterday && closeYesterday < openToday) ? 70 : 30;
+    })(),
 
   };
 };

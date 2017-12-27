@@ -7,15 +7,17 @@ const strategies = require('./strategies');
 
 const createPredictions = (upDownString, permsExecuted, additionalData) => {
 
+  const last2YearsUpDown = upDownString.slice(0 - 365 * 2);
+
   if (!permsExecuted) {
-    permsExecuted = executePerms(upDownString, MAX_DIGITS);
+    permsExecuted = executePerms(last2YearsUpDown, MAX_DIGITS);
   }
 
   const getPerm = perm => {
     return permsExecuted.find(obj => obj.perm === perm);
   };
 
-  const todaysPerms = getTodaysPerms(upDownString, MAX_DIGITS)
+  const todaysPerms = getTodaysPerms(last2YearsUpDown, MAX_DIGITS)
     .map(perm => getPerm(perm))
     .filter(perm => perm && perm.perc && perm.count);
 

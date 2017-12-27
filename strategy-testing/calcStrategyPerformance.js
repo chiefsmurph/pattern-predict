@@ -1,25 +1,29 @@
 const timeBreakdowns = require('./timeBreakdowns');
 const percBreakdowns = require('./percBreakdowns');
 
-const calcStrategyPerformance = testResults => {
+const calcStrategyPerformanceOfSinglePercBreakdown = (testResults, percFilter) => {
+  const strategies = Object.keys(testResults[0].strategies);
+  return strategies.reduce((acc, strategyKey) => {
+    const testsThatMeetFilter = testResults.filter(test => percFilter(test.strategies[strategyKey]));
+    const percUp = testsThatMeetFilter.filter(test => test.wentUpFollowingDay).length * 10000 / (testsThatMeetFilter.length * 100);
+    acc[strategyKey] = {
+      percUp,
+      count: testsThatMeetFilter.length
+    };
+    return acc;
+  }, {});
+};
+
+const calcStrategyPerformanceOverall = testResults => {
 
   const calcStrategyPerformanceOfSingleTimeBreakdown = testResults => {
     // console.log('------------------------------');
     // console.log(tests);
     return Object.keys(percBreakdowns).map(breakdownName => {
       const percFilter = percBreakdowns[breakdownName];
-      const strategies = Object.keys(testResults[0].strategies);
       return {
         breakdownName,
-        strategyPerformance: strategies.reduce((acc, strategyKey) => {
-          const testsThatMeetFilter = testResults.filter(test => percFilter(test.strategies[strategyKey]));
-          const percUp = testsThatMeetFilter.filter(test => test.wentUpFollowingDay).length * 10000 / (testsThatMeetFilter.length * 100);
-          acc[strategyKey] = {
-            percUp,
-            count: testsThatMeetFilter.length
-          };
-          return acc;
-        }, {})
+        strategyPerformance: calcStrategyPerformanceOfSinglePercBreakdown(testResults, percFilter)
       };
     });
   };
@@ -34,4 +38,7 @@ const calcStrategyPerformance = testResults => {
   return overallStrategyPerformance;
 };
 
-module.exports = calcStrategyPerformance;
+module.exports = {
+  single: calcStrategyPerformanceOfSinglePercBreakdown,
+  overall: calcStrategyPerformanceOverall
+};

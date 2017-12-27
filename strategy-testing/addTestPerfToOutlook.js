@@ -1,5 +1,5 @@
 const percBreakdowns = require('./percBreakdowns');
-const calcStrategyPerformance = require('./calcStrategyPerformance');
+const { calcStrategyPerformanceOverall } = require('./calcStrategyPerformance');
 
 module.exports = (todaysOutlook, testResults) => {
 
