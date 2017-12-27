@@ -30,7 +30,10 @@ const getTodaysOutlook = async stockTicker => {
   // console.log('\n');
 
   const permsExecuted = executePerms(upDownString, MAX_DIGITS);
-  let todaysOutlook = createPredictions(upDownString, permsExecuted);
+  let todaysOutlook = createPredictions(upDownString, permsExecuted, {
+    dayArray,
+    index: dayArray.length - 1
+  });
 
   try {
     const testResultsFile = './stock-test-results/' + stockTicker + '.json';
@@ -65,7 +68,7 @@ const getOutlookForMultiple = async arrStockTickers => {
     const importantMetrics = (obj => {
       const impMetrics = [];
       Object.keys(obj.todaysOutlook.strategies).forEach(stratKey => {
-        const stratVal = obj.todaysOutlook.strategies[stratKey].val || obj.todaysOutlook.strategies[stratKey];
+        const stratVal = obj.todaysOutlook.strategies[stratKey].val;
         stratVal && impMetrics.push(stratVal);
         // console.log('here', importantMetrics);
         if (obj.todaysOutlook.strategies[stratKey].testPerformance) {

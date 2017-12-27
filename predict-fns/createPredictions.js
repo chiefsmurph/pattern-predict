@@ -5,7 +5,7 @@ const getTodaysPerms = require('./getTodaysPerms');
 
 const strategies = require('./strategies');
 
-const createPredictions = (upDownString, permsExecuted) => {
+const createPredictions = (upDownString, permsExecuted, additionalData) => {
 
   if (!permsExecuted) {
     permsExecuted = executePerms(upDownString, MAX_DIGITS);
@@ -21,7 +21,7 @@ const createPredictions = (upDownString, permsExecuted) => {
 
   return {
     perms: todaysPerms,
-    strategies: strategies(todaysPerms)
+    strategies: strategies(todaysPerms, additionalData)
   };
 };
 

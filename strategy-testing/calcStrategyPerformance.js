@@ -12,7 +12,7 @@ const calcStrategyPerformance = testResults => {
       return {
         breakdownName,
         strategyPerformance: strategies.reduce((acc, strategyKey) => {
-          const testsThatMeetFilter = testResults.filter(test => percFilter(test.strategies[strategyKey].val));
+          const testsThatMeetFilter = testResults.filter(test => percFilter(test.strategies[strategyKey]));
           const percUp = testsThatMeetFilter.filter(test => test.wentUpFollowingDay).length * 10000 / (testsThatMeetFilter.length * 100);
           acc[strategyKey] = {
             percUp,

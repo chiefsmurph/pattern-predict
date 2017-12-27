@@ -3,10 +3,10 @@ const arrayAvg = require('../utils/arrayAvg');
 const createPredictions = require('../predict-fns/createPredictions');
 const executePerms = require('../predict-fns/executePerms');
 
-const testStrategies = (upDownString, numDaysToTest, permsExecuted, rawData, ticker) => {
+const testStrategies = (upDownString, numDaysToTest, permsExecuted, dayArray, ticker) => {
 
   const testResults = [];
-  for (var i = 1; i <= numDaysToTest; i++) {
+  for (var i = 1; i <= Math.min(numDaysToTest, upDownString.length - 1); i++) {
     // console.log('testing for today - ' + i + ' days');
 
     let goBackRandomDays = i;
@@ -15,22 +15,18 @@ const testStrategies = (upDownString, numDaysToTest, permsExecuted, rawData, tic
     // console.log('going back ', goBackRandomDays, ' days');
     const todaysUpDownString = upDownString.slice(0, 0 - goBackRandomDays);
     const todaysExecutePerms = permsExecuted || executePerms(todaysUpDownString);
-    const prediction = createPredictions(todaysUpDownString, todaysExecutePerms);
+    const prediction = createPredictions(todaysUpDownString, todaysExecutePerms, {
+      dayArray,
+      index: upDownString.length - i - 1
+    });
     const followingDay = upDownString.substring(upDownString.length - i, upDownString.length - i + 1);
     // console.log('prediction', prediction);
     const wentUpFollowingDay = followingDay === '1';
     // console.log('wentUpFollowingDay', wentUpFollowingDay);
     const resultObj = {
       wentUpFollowingDay,
-      strategies: Object.keys(prediction.strategies).reduce((acc, strategyKey) => {
-        const curVal = prediction.strategies[strategyKey];
-        acc[strategyKey] = {
-          val: curVal,
-          correct: wentUpFollowingDay === (curVal > 50)
-        };
-        return acc;
-      }, {}),
-      rawData: rawData[upDownString.length - i - 1]
+      strategies: prediction.strategies,
+      rawData: dayArray[upDownString.length - i - 1]
     };
     // console.log(resultObj);
     testResults.push(resultObj);

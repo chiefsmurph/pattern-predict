@@ -2,14 +2,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 63.5925,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 74.83863636363637,
-        "correct": true
-      }
+      "avgPerc": 63.5925,
+      "weightedPerc": 74.83863636363637,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-22",
@@ -24,14 +19,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 39.474444444444444,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 37.92777777777776,
-        "correct": true
-      }
+      "avgPerc": 39.474444444444444,
+      "weightedPerc": 37.92777777777776,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-21",
@@ -46,14 +36,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.70899999999999,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 34.3051111111111,
-        "correct": true
-      }
+      "avgPerc": 37.70899999999999,
+      "weightedPerc": 34.3051111111111,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-12-20",
@@ -68,14 +53,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 60.65615384615384,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 74.2348717948718,
-        "correct": false
-      }
+      "avgPerc": 60.65615384615384,
+      "weightedPerc": 74.2348717948718,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-19",
@@ -90,14 +70,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 34.1475,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 29.049999999999986,
-        "correct": true
-      }
+      "avgPerc": 34.1475,
+      "weightedPerc": 29.049999999999986,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-18",
@@ -112,14 +87,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 68.30333333333333,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 79.44560606060607,
-        "correct": true
-      }
+      "avgPerc": 68.30333333333333,
+      "weightedPerc": 79.44560606060607,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-15",
@@ -134,14 +104,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 64.46272727272728,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 74.85018181818184,
-        "correct": true
-      }
+      "avgPerc": 64.46272727272728,
+      "weightedPerc": 74.85018181818184,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-14",
@@ -156,14 +121,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 52.614,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 54.10000000000002,
-        "correct": false
-      }
+      "avgPerc": 52.614,
+      "weightedPerc": 54.10000000000002,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-13",
@@ -178,14 +138,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.75,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 46.8636111111111,
-        "correct": true
-      }
+      "avgPerc": 45.75,
+      "weightedPerc": 46.8636111111111,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-12",
@@ -200,14 +155,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.93125,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 48.40357142857142,
-        "correct": false
-      }
+      "avgPerc": 44.93125,
+      "weightedPerc": 48.40357142857142,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-11",
@@ -222,14 +172,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 54.37571428571429,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 56.02571428571429,
-        "correct": true
-      }
+      "avgPerc": 54.37571428571429,
+      "weightedPerc": 56.02571428571429,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-08",
@@ -244,14 +189,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.22428571428571,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 44.64809523809524,
-        "correct": false
-      }
+      "avgPerc": 44.22428571428571,
+      "weightedPerc": 44.64809523809524,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-12-07",
@@ -266,14 +206,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 68.04222222222221,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 81.65694444444443,
-        "correct": false
-      }
+      "avgPerc": 68.04222222222221,
+      "weightedPerc": 81.65694444444443,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-12-06",
@@ -288,14 +223,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.548571428571435,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 43.52285714285714,
-        "correct": true
-      }
+      "avgPerc": 42.548571428571435,
+      "weightedPerc": 43.52285714285714,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-12-05",
@@ -310,14 +240,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 62.157500000000006,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 72.65964285714287,
-        "correct": false
-      }
+      "avgPerc": 62.157500000000006,
+      "weightedPerc": 72.65964285714287,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-12-04",
@@ -332,14 +257,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 54.856249999999996,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 62.25749999999999,
-        "correct": false
-      }
+      "avgPerc": 54.856249999999996,
+      "weightedPerc": 62.25749999999999,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-12-01",
@@ -354,14 +274,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 66.24,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 78.5325,
-        "correct": false
-      }
+      "avgPerc": 66.24,
+      "weightedPerc": 78.5325,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-11-30",
@@ -376,14 +291,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 40.47571428571428,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 37.91,
-        "correct": false
-      }
+      "avgPerc": 40.47571428571428,
+      "weightedPerc": 37.91,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-11-29",
@@ -398,14 +308,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 36.488749999999996,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 33.07535714285715,
-        "correct": false
-      }
+      "avgPerc": 36.488749999999996,
+      "weightedPerc": 33.07535714285715,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-11-28",
@@ -420,14 +325,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.419,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 40.02755555555554,
-        "correct": false
-      }
+      "avgPerc": 44.419,
+      "weightedPerc": 40.02755555555554,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-11-27",
@@ -442,14 +342,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 43.801,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 40.84066666666664,
-        "correct": false
-      }
+      "avgPerc": 43.801,
+      "weightedPerc": 40.84066666666664,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-11-24",
@@ -464,14 +359,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 56.59307692307693,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 69.94474358974358,
-        "correct": false
-      }
+      "avgPerc": 56.59307692307693,
+      "weightedPerc": 69.94474358974358,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-11-22",
@@ -486,14 +376,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 40.510999999999996,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 38.630666666666656,
-        "correct": true
-      }
+      "avgPerc": 40.510999999999996,
+      "weightedPerc": 38.630666666666656,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-11-21",
@@ -508,14 +393,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.736666666666665,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 41.57444444444445,
-        "correct": true
-      }
+      "avgPerc": 42.736666666666665,
+      "weightedPerc": 41.57444444444445,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-11-20",
@@ -530,14 +410,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.747499999999995,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 44.46821428571428,
-        "correct": true
-      }
+      "avgPerc": 47.747499999999995,
+      "weightedPerc": 44.46821428571428,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-11-17",
@@ -552,14 +427,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 49.848,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 53.75577777777778,
-        "correct": true
-      }
+      "avgPerc": 49.848,
+      "weightedPerc": 53.75577777777778,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-11-16",
@@ -574,14 +444,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 43.18571428571429,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 45.02,
-        "correct": true
-      }
+      "avgPerc": 43.18571428571429,
+      "weightedPerc": 45.02,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-11-15",
@@ -596,14 +461,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.55222222222222,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 61.701388888888886,
-        "correct": false
-      }
+      "avgPerc": 53.55222222222222,
+      "weightedPerc": 61.701388888888886,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-11-14",
@@ -618,14 +478,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 71.69846153846153,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 86.17294871794871,
-        "correct": false
-      }
+      "avgPerc": 71.69846153846153,
+      "weightedPerc": 86.17294871794871,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-11-13",
@@ -640,14 +495,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.38769230769231,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 45.17499999999999,
-        "correct": true
-      }
+      "avgPerc": 47.38769230769231,
+      "weightedPerc": 45.17499999999999,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-11-10",
@@ -662,14 +512,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 62.76692307692308,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 76.79038461538462,
-        "correct": true
-      }
+      "avgPerc": 62.76692307692308,
+      "weightedPerc": 76.79038461538462,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-11-09",
@@ -684,14 +529,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.49625,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 31.53035714285715,
-        "correct": true
-      }
+      "avgPerc": 37.49625,
+      "weightedPerc": 31.53035714285715,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-11-08",
@@ -706,14 +546,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 41.41444444444445,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 37.8875,
-        "correct": true
-      }
+      "avgPerc": 41.41444444444445,
+      "weightedPerc": 37.8875,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-11-07",
@@ -728,14 +563,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.559999999999995,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 41.82666666666663,
-        "correct": true
-      }
+      "avgPerc": 45.559999999999995,
+      "weightedPerc": 41.82666666666663,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-11-06",
@@ -750,14 +580,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 50.53692307692308,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 60.09012820512822,
-        "correct": true
-      }
+      "avgPerc": 50.53692307692308,
+      "weightedPerc": 60.09012820512822,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-11-03",
@@ -772,14 +597,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 43.53363636363637,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 45.378545454545474,
-        "correct": true
-      }
+      "avgPerc": 43.53363636363637,
+      "weightedPerc": 45.378545454545474,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-11-02",
@@ -794,14 +614,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.79454545454545,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 34.02218181818183,
-        "correct": true
-      }
+      "avgPerc": 36.79454545454545,
+      "weightedPerc": 34.02218181818183,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-11-01",
@@ -816,14 +631,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.605714285714285,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 33.30857142857145,
-        "correct": true
-      }
+      "avgPerc": 36.605714285714285,
+      "weightedPerc": 33.30857142857145,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-10-31",
@@ -838,14 +648,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 53.659000000000006,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 54.62066666666667,
-        "correct": true
-      }
+      "avgPerc": 53.659000000000006,
+      "weightedPerc": 54.62066666666667,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-10-30",
@@ -860,14 +665,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 42.46888888888889,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 44.364722222222234,
-        "correct": false
-      }
+      "avgPerc": 42.46888888888889,
+      "weightedPerc": 44.364722222222234,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-10-27",
@@ -882,14 +682,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.32749999999999,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 33.452857142857155,
-        "correct": true
-      }
+      "avgPerc": 37.32749999999999,
+      "weightedPerc": 33.452857142857155,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-10-26",
@@ -904,14 +699,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.1375,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 49.79357142857144,
-        "correct": true
-      }
+      "avgPerc": 47.1375,
+      "weightedPerc": 49.79357142857144,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-10-25",
@@ -926,14 +716,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 60.64444444444444,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 71.03888888888889,
-        "correct": false
-      }
+      "avgPerc": 60.64444444444444,
+      "weightedPerc": 71.03888888888889,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-10-24",
@@ -948,14 +733,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 34.835,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 28.435357142857146,
-        "correct": false
-      }
+      "avgPerc": 34.835,
+      "weightedPerc": 28.435357142857146,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-10-23",
@@ -970,14 +750,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 55.11727272727273,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 67.36200000000001,
-        "correct": false
-      }
+      "avgPerc": 55.11727272727273,
+      "weightedPerc": 67.36200000000001,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-10-20",
@@ -992,14 +767,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 58.298,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 66.02955555555558,
-        "correct": true
-      }
+      "avgPerc": 58.298,
+      "weightedPerc": 66.02955555555558,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-10-19",
@@ -1014,14 +784,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 40.492222222222225,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 40.20416666666664,
-        "correct": false
-      }
+      "avgPerc": 40.492222222222225,
+      "weightedPerc": 40.20416666666664,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-10-18",
@@ -1036,14 +801,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.308888888888895,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 31.48999999999999,
-        "correct": true
-      }
+      "avgPerc": 36.308888888888895,
+      "weightedPerc": 31.48999999999999,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-10-17",
@@ -1058,14 +818,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 43.29857142857143,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 43.0204761904762,
-        "correct": true
-      }
+      "avgPerc": 43.29857142857143,
+      "weightedPerc": 43.0204761904762,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-10-16",
@@ -1080,14 +835,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.674,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.825111111111134,
-        "correct": false
-      }
+      "avgPerc": 51.674,
+      "weightedPerc": 56.825111111111134,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-10-13",
@@ -1102,14 +852,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 54.157999999999994,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 61.93355555555557,
-        "correct": true
-      }
+      "avgPerc": 54.157999999999994,
+      "weightedPerc": 61.93355555555557,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-10-12",
@@ -1124,14 +869,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 38.157777777777774,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 35.95694444444443,
-        "correct": false
-      }
+      "avgPerc": 38.157777777777774,
+      "weightedPerc": 35.95694444444443,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-10-11",
@@ -1146,14 +886,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.4075,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 30.29285714285714,
-        "correct": true
-      }
+      "avgPerc": 37.4075,
+      "weightedPerc": 30.29285714285714,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-10-10",
@@ -1168,14 +903,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 49.81000000000001,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 54.42642857142858,
-        "correct": true
-      }
+      "avgPerc": 49.81000000000001,
+      "weightedPerc": 54.42642857142858,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-10-09",
@@ -1190,14 +920,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 64.786,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 77.53666666666666,
-        "correct": false
-      }
+      "avgPerc": 64.786,
+      "weightedPerc": 77.53666666666666,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-10-06",
@@ -1212,14 +937,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 48.402857142857144,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 50.37380952380952,
-        "correct": false
-      }
+      "avgPerc": 48.402857142857144,
+      "weightedPerc": 50.37380952380952,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-10-05",
@@ -1234,14 +954,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 38.40375,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 35.677142857142876,
-        "correct": false
-      }
+      "avgPerc": 38.40375,
+      "weightedPerc": 35.677142857142876,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-10-04",
@@ -1256,14 +971,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 72.78750000000001,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 85.09590909090909,
-        "correct": false
-      }
+      "avgPerc": 72.78750000000001,
+      "weightedPerc": 85.09590909090909,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-10-03",
@@ -1278,14 +988,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 57.15090909090909,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 62.547272727272734,
-        "correct": true
-      }
+      "avgPerc": 57.15090909090909,
+      "weightedPerc": 62.547272727272734,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-10-02",
@@ -1300,14 +1005,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 60.76272727272727,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 67.93,
-        "correct": false
-      }
+      "avgPerc": 60.76272727272727,
+      "weightedPerc": 67.93,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-09-29",
@@ -1322,14 +1022,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 41.50285714285714,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 39.46476190476191,
-        "correct": true
-      }
+      "avgPerc": 41.50285714285714,
+      "weightedPerc": 39.46476190476191,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-09-28",
@@ -1344,14 +1039,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 35.806666666666665,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 32.39750000000001,
-        "correct": false
-      }
+      "avgPerc": 35.806666666666665,
+      "weightedPerc": 32.39750000000001,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-09-27",
@@ -1366,14 +1056,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 50.605555555555554,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 49.96166666666662,
-        "correct": false
-      }
+      "avgPerc": 50.605555555555554,
+      "weightedPerc": 49.96166666666662,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-09-26",
@@ -1388,14 +1073,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 60.888888888888886,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 71.07499999999999,
-        "correct": true
-      }
+      "avgPerc": 60.888888888888886,
+      "weightedPerc": 71.07499999999999,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-09-25",
@@ -1410,14 +1090,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 65.14923076923077,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 80.66089743589744,
-        "correct": false
-      }
+      "avgPerc": 65.14923076923077,
+      "weightedPerc": 80.66089743589744,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-09-22",
@@ -1432,14 +1107,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 39.30222222222222,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 37.93694444444446,
-        "correct": true
-      }
+      "avgPerc": 39.30222222222222,
+      "weightedPerc": 37.93694444444446,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-21",
@@ -1454,14 +1124,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.528,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 46.410222222222224,
-        "correct": true
-      }
+      "avgPerc": 45.528,
+      "weightedPerc": 46.410222222222224,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-20",
@@ -1476,14 +1141,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 48.91333333333333,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 47.11444444444441,
-        "correct": true
-      }
+      "avgPerc": 48.91333333333333,
+      "weightedPerc": 47.11444444444441,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-19",
@@ -1498,14 +1158,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 46.78,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 52.60654545454545,
-        "correct": true
-      }
+      "avgPerc": 46.78,
+      "weightedPerc": 52.60654545454545,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-18",
@@ -1520,14 +1175,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 40.839,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 41.334444444444436,
-        "correct": true
-      }
+      "avgPerc": 40.839,
+      "weightedPerc": 41.334444444444436,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-15",
@@ -1542,14 +1192,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 52.64666666666667,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 53.23222222222224,
-        "correct": true
-      }
+      "avgPerc": 52.64666666666667,
+      "weightedPerc": 53.23222222222224,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-14",
@@ -1564,14 +1209,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 53.06555555555556,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 62.25861111111112,
-        "correct": true
-      }
+      "avgPerc": 53.06555555555556,
+      "weightedPerc": 62.25861111111112,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-13",
@@ -1586,14 +1226,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 40.332857142857144,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 37.823333333333345,
-        "correct": true
-      }
+      "avgPerc": 40.332857142857144,
+      "weightedPerc": 37.823333333333345,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-12",
@@ -1608,14 +1243,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 40.872857142857136,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 41.47095238095238,
-        "correct": true
-      }
+      "avgPerc": 40.872857142857136,
+      "weightedPerc": 41.47095238095238,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-11",
@@ -1630,14 +1260,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 39.51500000000001,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 33.618,
-        "correct": false
-      }
+      "avgPerc": 39.51500000000001,
+      "weightedPerc": 33.618,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-08",
@@ -1652,14 +1277,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 34.435,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 27.384642857142865,
-        "correct": false
-      }
+      "avgPerc": 34.435,
+      "weightedPerc": 27.384642857142865,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-07",
@@ -1674,14 +1294,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 48.79555555555556,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 49.63361111111111,
-        "correct": true
-      }
+      "avgPerc": 48.79555555555556,
+      "weightedPerc": 49.63361111111111,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-06",
@@ -1696,14 +1311,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 42.386250000000004,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 42.7575,
-        "correct": false
-      }
+      "avgPerc": 42.386250000000004,
+      "weightedPerc": 42.7575,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-09-05",
@@ -1718,14 +1328,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 49.01000000000001,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 54.20036363636366,
-        "correct": false
-      }
+      "avgPerc": 49.01000000000001,
+      "weightedPerc": 54.20036363636366,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-09-01",
@@ -1740,14 +1345,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 58.523,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 69.28777777777779,
-        "correct": true
-      }
+      "avgPerc": 58.523,
+      "weightedPerc": 69.28777777777779,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-31",
@@ -1762,14 +1362,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 49.11666666666666,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 50.955000000000005,
-        "correct": true
-      }
+      "avgPerc": 49.11666666666666,
+      "weightedPerc": 50.955000000000005,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-30",
@@ -1784,14 +1379,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.23,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 29.763214285714298,
-        "correct": true
-      }
+      "avgPerc": 36.23,
+      "weightedPerc": 29.763214285714298,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-29",
@@ -1806,14 +1396,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 50.315999999999995,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 56.59955555555557,
-        "correct": true
-      }
+      "avgPerc": 50.315999999999995,
+      "weightedPerc": 56.59955555555557,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-28",
@@ -1828,14 +1413,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 49.765,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 49.41821428571426,
-        "correct": true
-      }
+      "avgPerc": 49.765,
+      "weightedPerc": 49.41821428571426,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-25",
@@ -1850,14 +1430,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 34.915,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 29.15392857142856,
-        "correct": false
-      }
+      "avgPerc": 34.915,
+      "weightedPerc": 29.15392857142856,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-24",
@@ -1872,14 +1447,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.88428571428572,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 35.11523809523809,
-        "correct": true
-      }
+      "avgPerc": 37.88428571428572,
+      "weightedPerc": 35.11523809523809,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-23",
@@ -1894,14 +1464,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 50.087777777777774,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 49.10694444444443,
-        "correct": false
-      }
+      "avgPerc": 50.087777777777774,
+      "weightedPerc": 49.10694444444443,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-22",
@@ -1916,14 +1481,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.812222222222225,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 55.44750000000001,
-        "correct": true
-      }
+      "avgPerc": 47.812222222222225,
+      "weightedPerc": 55.44750000000001,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-08-21",
@@ -1938,14 +1498,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.52777777777778,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 53.34916666666667,
-        "correct": false
-      }
+      "avgPerc": 47.52777777777778,
+      "weightedPerc": 53.34916666666667,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-18",
@@ -1960,14 +1515,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 57.968,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 69.18555555555557,
-        "correct": false
-      }
+      "avgPerc": 57.968,
+      "weightedPerc": 69.18555555555557,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-08-17",
@@ -1982,14 +1532,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 54.81333333333333,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.66166666666667,
-        "correct": false
-      }
+      "avgPerc": 54.81333333333333,
+      "weightedPerc": 56.66166666666667,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-08-16",
@@ -2004,14 +1549,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 36.32749999999999,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 32.39642857142858,
-        "correct": false
-      }
+      "avgPerc": 36.32749999999999,
+      "weightedPerc": 32.39642857142858,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-08-15",
@@ -2026,14 +1566,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 54.61818181818182,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 65.44854545454547,
-        "correct": false
-      }
+      "avgPerc": 54.61818181818182,
+      "weightedPerc": 65.44854545454547,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-14",
@@ -2048,14 +1583,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 48.471999999999994,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 46.64399999999999,
-        "correct": false
-      }
+      "avgPerc": 48.471999999999994,
+      "weightedPerc": 46.64399999999999,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-11",
@@ -2070,14 +1600,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.63444444444445,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 52.40250000000002,
-        "correct": true
-      }
+      "avgPerc": 47.63444444444445,
+      "weightedPerc": 52.40250000000002,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-10",
@@ -2092,14 +1617,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 40.4975,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 39.058928571428574,
-        "correct": true
-      }
+      "avgPerc": 40.4975,
+      "weightedPerc": 39.058928571428574,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-09",
@@ -2114,14 +1634,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 58.295,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 71.7791111111111,
-        "correct": false
-      }
+      "avgPerc": 58.295,
+      "weightedPerc": 71.7791111111111,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-08",
@@ -2136,14 +1651,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 39.717777777777776,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 36.179722222222225,
-        "correct": false
-      }
+      "avgPerc": 39.717777777777776,
+      "weightedPerc": 36.179722222222225,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-07",
@@ -2158,14 +1668,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 63.63444444444445,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 76.85472222222224,
-        "correct": true
-      }
+      "avgPerc": 63.63444444444445,
+      "weightedPerc": 76.85472222222224,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-04",
@@ -2180,14 +1685,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.723333333333336,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 38.30800000000001,
-        "correct": true
-      }
+      "avgPerc": 42.723333333333336,
+      "weightedPerc": 38.30800000000001,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-03",
@@ -2202,14 +1702,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 39.14714285714286,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 33.0138095238095,
-        "correct": false
-      }
+      "avgPerc": 39.14714285714286,
+      "weightedPerc": 33.0138095238095,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-02",
@@ -2224,14 +1719,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 67.57076923076923,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 79.00320512820512,
-        "correct": false
-      }
+      "avgPerc": 67.57076923076923,
+      "weightedPerc": 79.00320512820512,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-08-01",
@@ -2246,14 +1736,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 76.41250000000001,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 90.82439393939394,
-        "correct": true
-      }
+      "avgPerc": 76.41250000000001,
+      "weightedPerc": 90.82439393939394,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-07-31",
@@ -2268,14 +1753,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 57.34,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 72.99563636363636,
-        "correct": true
-      }
+      "avgPerc": 57.34,
+      "weightedPerc": 72.99563636363636,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-07-28",
@@ -2290,14 +1770,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 45.20399999999999,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 47.98155555555556,
-        "correct": false
-      }
+      "avgPerc": 45.20399999999999,
+      "weightedPerc": 47.98155555555556,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-07-27",
@@ -2312,14 +1787,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 52.47888888888889,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 54.36833333333334,
-        "correct": true
-      }
+      "avgPerc": 52.47888888888889,
+      "weightedPerc": 54.36833333333334,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-07-26",
@@ -2334,14 +1804,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 61.63363636363636,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 71.94127272727275,
-        "correct": false
-      }
+      "avgPerc": 61.63363636363636,
+      "weightedPerc": 71.94127272727275,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-07-25",
@@ -2356,14 +1821,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 54.57899999999999,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 65.43200000000002,
-        "correct": true
-      }
+      "avgPerc": 54.57899999999999,
+      "weightedPerc": 65.43200000000002,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-07-24",
@@ -2378,14 +1838,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 52.93555555555555,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 53.48138888888889,
-        "correct": true
-      }
+      "avgPerc": 52.93555555555555,
+      "weightedPerc": 53.48138888888889,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-07-21",
@@ -2400,14 +1855,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 49.959090909090904,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 59.33454545454546,
-        "correct": true
-      }
+      "avgPerc": 49.959090909090904,
+      "weightedPerc": 59.33454545454546,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-07-20",
@@ -2422,14 +1872,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 35.881249999999994,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 31.349285714285713,
-        "correct": true
-      }
+      "avgPerc": 35.881249999999994,
+      "weightedPerc": 31.349285714285713,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-07-19",
@@ -2444,14 +1889,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 61.50555555555555,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 69.75083333333335,
-        "correct": true
-      }
+      "avgPerc": 61.50555555555555,
+      "weightedPerc": 69.75083333333335,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-07-18",
@@ -2466,14 +1906,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 50.631249999999994,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 51.90107142857143,
-        "correct": true
-      }
+      "avgPerc": 50.631249999999994,
+      "weightedPerc": 51.90107142857143,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-07-17",
@@ -2488,14 +1923,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 67.11727272727272,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 78.25909090909092,
-        "correct": false
-      }
+      "avgPerc": 67.11727272727272,
+      "weightedPerc": 78.25909090909092,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-07-14",
@@ -2510,14 +1940,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.72428571428571,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 41.27666666666668,
-        "correct": true
-      }
+      "avgPerc": 42.72428571428571,
+      "weightedPerc": 41.27666666666668,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-07-13",
@@ -2532,14 +1957,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 37.32444444444444,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 36.010277777777794,
-        "correct": false
-      }
+      "avgPerc": 37.32444444444444,
+      "weightedPerc": 36.010277777777794,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-07-12",
@@ -2554,14 +1974,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.762499999999996,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 45.14321428571425,
-        "correct": false
-      }
+      "avgPerc": 47.762499999999996,
+      "weightedPerc": 45.14321428571425,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-07-11",
@@ -2576,14 +1991,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 55.211111111111116,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 61.73138888888889,
-        "correct": true
-      }
+      "avgPerc": 55.211111111111116,
+      "weightedPerc": 61.73138888888889,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-07-10",
@@ -2598,14 +2008,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 59.58454545454546,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 73.57963636363637,
-        "correct": false
-      }
+      "avgPerc": 59.58454545454546,
+      "weightedPerc": 73.57963636363637,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-07-07",
@@ -2620,14 +2025,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 48.57625,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 52.41607142857144,
-        "correct": false
-      }
+      "avgPerc": 48.57625,
+      "weightedPerc": 52.41607142857144,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-07-06",
@@ -2642,14 +2042,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 65.43666666666667,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 77.84833333333333,
-        "correct": false
-      }
+      "avgPerc": 65.43666666666667,
+      "weightedPerc": 77.84833333333333,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-07-05",
@@ -2664,14 +2059,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.083333333333336,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 32.513333333333335,
-        "correct": true
-      }
+      "avgPerc": 37.083333333333336,
+      "weightedPerc": 32.513333333333335,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-07-03",
@@ -2686,14 +2076,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 49.752,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.58133333333335,
-        "correct": true
-      }
+      "avgPerc": 49.752,
+      "weightedPerc": 56.58133333333335,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-06-30",
@@ -2708,14 +2093,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 67.20583333333333,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 78.9539393939394,
-        "correct": false
-      }
+      "avgPerc": 67.20583333333333,
+      "weightedPerc": 78.9539393939394,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-06-29",
@@ -2730,14 +2110,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 56.43272727272727,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 67.81909090909092,
-        "correct": true
-      }
+      "avgPerc": 56.43272727272727,
+      "weightedPerc": 67.81909090909092,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-28",
@@ -2752,14 +2127,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 35.895,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 31.914999999999996,
-        "correct": true
-      }
+      "avgPerc": 35.895,
+      "weightedPerc": 31.914999999999996,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-27",
@@ -2774,14 +2144,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 41.892222222222216,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 35.45000000000002,
-        "correct": false
-      }
+      "avgPerc": 41.892222222222216,
+      "weightedPerc": 35.45000000000002,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-26",
@@ -2796,14 +2161,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 41.57222222222222,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 37.89722222222221,
-        "correct": false
-      }
+      "avgPerc": 41.57222222222222,
+      "weightedPerc": 37.89722222222221,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-23",
@@ -2818,14 +2178,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.52375,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 32.853214285714294,
-        "correct": true
-      }
+      "avgPerc": 36.52375,
+      "weightedPerc": 32.853214285714294,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-22",
@@ -2840,14 +2195,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 63.254999999999995,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 76.79222222222222,
-        "correct": false
-      }
+      "avgPerc": 63.254999999999995,
+      "weightedPerc": 76.79222222222222,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-21",
@@ -2862,14 +2212,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 50.41222222222222,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.0275,
-        "correct": false
-      }
+      "avgPerc": 50.41222222222222,
+      "weightedPerc": 56.0275,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-20",
@@ -2884,14 +2229,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 68.34727272727274,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 79.40890909090909,
-        "correct": false
-      }
+      "avgPerc": 68.34727272727274,
+      "weightedPerc": 79.40890909090909,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-19",
@@ -2906,14 +2246,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.318,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 45.624222222222215,
-        "correct": false
-      }
+      "avgPerc": 44.318,
+      "weightedPerc": 45.624222222222215,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-16",
@@ -2928,14 +2263,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.77555555555555,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 44.16555555555553,
-        "correct": true
-      }
+      "avgPerc": 45.77555555555555,
+      "weightedPerc": 44.16555555555553,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-06-15",
@@ -2950,14 +2280,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 44.23777777777778,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 46.827222222222225,
-        "correct": true
-      }
+      "avgPerc": 44.23777777777778,
+      "weightedPerc": 46.827222222222225,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-06-14",
@@ -2972,14 +2297,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.751666666666665,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 65.19787878787878,
-        "correct": false
-      }
+      "avgPerc": 53.751666666666665,
+      "weightedPerc": 65.19787878787878,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-06-13",
@@ -2994,14 +2314,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 44.64,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 45.93571428571429,
-        "correct": true
-      }
+      "avgPerc": 44.64,
+      "weightedPerc": 45.93571428571429,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-06-12",
@@ -3016,14 +2331,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 56.908,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 64.94466666666668,
-        "correct": false
-      }
+      "avgPerc": 56.908,
+      "weightedPerc": 64.94466666666668,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-06-09",
@@ -3038,14 +2348,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 43.712222222222216,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 43.39611111111112,
-        "correct": false
-      }
+      "avgPerc": 43.712222222222216,
+      "weightedPerc": 43.39611111111112,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-06-08",
@@ -3060,14 +2365,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.18222222222222,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 47.540555555555564,
-        "correct": false
-      }
+      "avgPerc": 44.18222222222222,
+      "weightedPerc": 47.540555555555564,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-07",
@@ -3082,14 +2382,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.94818181818182,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 63.970727272727274,
-        "correct": false
-      }
+      "avgPerc": 53.94818181818182,
+      "weightedPerc": 63.970727272727274,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-06",
@@ -3104,14 +2399,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 42.541000000000004,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 40.7691111111111,
-        "correct": false
-      }
+      "avgPerc": 42.541000000000004,
+      "weightedPerc": 40.7691111111111,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-05",
@@ -3126,14 +2416,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 40.69222222222222,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 40.201388888888886,
-        "correct": true
-      }
+      "avgPerc": 40.69222222222222,
+      "weightedPerc": 40.201388888888886,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-02",
@@ -3148,14 +2433,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.878,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.949555555555555,
-        "correct": false
-      }
+      "avgPerc": 51.878,
+      "weightedPerc": 56.949555555555555,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-06-01",
@@ -3170,14 +2450,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 36.614444444444445,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 30.65916666666666,
-        "correct": false
-      }
+      "avgPerc": 36.614444444444445,
+      "weightedPerc": 30.65916666666666,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-31",
@@ -3192,14 +2467,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 38.852222222222224,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 35.99722222222221,
-        "correct": true
-      }
+      "avgPerc": 38.852222222222224,
+      "weightedPerc": 35.99722222222221,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-30",
@@ -3214,14 +2484,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 54.54454545454546,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 55.4170909090909,
-        "correct": false
-      }
+      "avgPerc": 54.54454545454546,
+      "weightedPerc": 55.4170909090909,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-26",
@@ -3236,14 +2501,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 56.74916666666667,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 66.42863636363636,
-        "correct": true
-      }
+      "avgPerc": 56.74916666666667,
+      "weightedPerc": 66.42863636363636,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-05-25",
@@ -3258,14 +2518,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 39.66444444444445,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 39.11666666666667,
-        "correct": true
-      }
+      "avgPerc": 39.66444444444445,
+      "weightedPerc": 39.11666666666667,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-05-24",
@@ -3280,14 +2535,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.36555555555556,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 42.20027777777778,
-        "correct": true
-      }
+      "avgPerc": 42.36555555555556,
+      "weightedPerc": 42.20027777777778,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-05-23",
@@ -3302,14 +2552,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 46.436,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 52.57644444444445,
-        "correct": false
-      }
+      "avgPerc": 46.436,
+      "weightedPerc": 52.57644444444445,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-05-22",
@@ -3324,14 +2569,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 50.09400000000001,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 57.548222222222215,
-        "correct": false
-      }
+      "avgPerc": 50.09400000000001,
+      "weightedPerc": 57.548222222222215,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-05-19",
@@ -3346,14 +2586,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.70444444444445,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 45.540833333333325,
-        "correct": false
-      }
+      "avgPerc": 47.70444444444445,
+      "weightedPerc": 45.540833333333325,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-18",
@@ -3368,14 +2603,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.23181818181818,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 55.20072727272727,
-        "correct": true
-      }
+      "avgPerc": 47.23181818181818,
+      "weightedPerc": 55.20072727272727,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-17",
@@ -3390,14 +2620,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.45916666666667,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 62.61303030303031,
-        "correct": false
-      }
+      "avgPerc": 53.45916666666667,
+      "weightedPerc": 62.61303030303031,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-16",
@@ -3412,14 +2637,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.87,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 46.80400000000001,
-        "correct": true
-      }
+      "avgPerc": 45.87,
+      "weightedPerc": 46.80400000000001,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-15",
@@ -3434,14 +2654,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 49.908181818181816,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 52.07181818181817,
-        "correct": false
-      }
+      "avgPerc": 49.908181818181816,
+      "weightedPerc": 52.07181818181817,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2017-05-12",
@@ -3456,14 +2671,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 37.807,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 32.205777777777776,
-        "correct": false
-      }
+      "avgPerc": 37.807,
+      "weightedPerc": 32.205777777777776,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-11",
@@ -3478,14 +2688,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.131,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 32.74422222222221,
-        "correct": true
-      }
+      "avgPerc": 36.131,
+      "weightedPerc": 32.74422222222221,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-05-10",
@@ -3500,14 +2705,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 38.04555555555556,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 32.713888888888896,
-        "correct": true
-      }
+      "avgPerc": 38.04555555555556,
+      "weightedPerc": 32.713888888888896,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-05-09",
@@ -3522,14 +2722,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.434444444444445,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 48.38888888888888,
-        "correct": true
-      }
+      "avgPerc": 45.434444444444445,
+      "weightedPerc": 48.38888888888888,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-05-08",
@@ -3544,14 +2739,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 69.81636363636363,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 81.92309090909092,
-        "correct": false
-      }
+      "avgPerc": 69.81636363636363,
+      "weightedPerc": 81.92309090909092,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-05-05",
@@ -3566,14 +2756,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 45.385999999999996,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 46.51155555555557,
-        "correct": false
-      }
+      "avgPerc": 45.385999999999996,
+      "weightedPerc": 46.51155555555557,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2017-05-04",
@@ -3588,14 +2773,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.51666666666667,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 44.23833333333335,
-        "correct": true
-      }
+      "avgPerc": 42.51666666666667,
+      "weightedPerc": 44.23833333333335,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-05-03",
@@ -3610,14 +2790,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 49.43666666666667,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 55.50361111111111,
-        "correct": false
-      }
+      "avgPerc": 49.43666666666667,
+      "weightedPerc": 55.50361111111111,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-05-02",
@@ -3632,14 +2807,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 48.65111111111111,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 55.98194444444445,
-        "correct": false
-      }
+      "avgPerc": 48.65111111111111,
+      "weightedPerc": 55.98194444444445,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-05-01",
@@ -3654,14 +2824,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 64.955,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 79.82045454545455,
-        "correct": false
-      }
+      "avgPerc": 64.955,
+      "weightedPerc": 79.82045454545455,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-04-28",
@@ -3676,14 +2841,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 40.35181818181818,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 34.45781818181817,
-        "correct": false
-      }
+      "avgPerc": 40.35181818181818,
+      "weightedPerc": 34.45781818181817,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-04-27",
@@ -3698,14 +2858,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 49.587,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.44777777777779,
-        "correct": true
-      }
+      "avgPerc": 49.587,
+      "weightedPerc": 56.44777777777779,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-04-26",
@@ -3720,14 +2875,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 39.18375,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 33.64714285714284,
-        "correct": true
-      }
+      "avgPerc": 39.18375,
+      "weightedPerc": 33.64714285714284,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-04-25",
@@ -3742,14 +2892,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.28399999999999,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.56399999999998,
-        "correct": false
-      }
+      "avgPerc": 51.28399999999999,
+      "weightedPerc": 56.56399999999998,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-04-24",
@@ -3764,14 +2909,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 57.73,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 64.86644444444447,
-        "correct": false
-      }
+      "avgPerc": 57.73,
+      "weightedPerc": 64.86644444444447,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-04-21",
@@ -3786,14 +2926,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 36.67222222222222,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 32.856111111111105,
-        "correct": false
-      }
+      "avgPerc": 36.67222222222222,
+      "weightedPerc": 32.856111111111105,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-04-20",
@@ -3808,14 +2943,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 41.35777777777778,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 39.37861111111109,
-        "correct": true
-      }
+      "avgPerc": 41.35777777777778,
+      "weightedPerc": 39.37861111111109,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-04-19",
@@ -3830,14 +2960,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.895714285714284,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 32.237619047619056,
-        "correct": true
-      }
+      "avgPerc": 36.895714285714284,
+      "weightedPerc": 32.237619047619056,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-04-18",
@@ -3852,14 +2977,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 69.27230769230769,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 84.44179487179487,
-        "correct": false
-      }
+      "avgPerc": 69.27230769230769,
+      "weightedPerc": 84.44179487179487,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-04-17",
@@ -3874,14 +2994,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 66.42583333333333,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 78.99000000000001,
-        "correct": true
-      }
+      "avgPerc": 66.42583333333333,
+      "weightedPerc": 78.99000000000001,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-04-13",
@@ -3896,14 +3011,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 37.16363636363636,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 34.31745454545453,
-        "correct": false
-      }
+      "avgPerc": 37.16363636363636,
+      "weightedPerc": 34.31745454545453,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-04-12",
@@ -3918,14 +3028,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 34.27222222222222,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 28.59277777777777,
-        "correct": true
-      }
+      "avgPerc": 34.27222222222222,
+      "weightedPerc": 28.59277777777777,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-04-11",
@@ -3940,14 +3045,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.897777777777776,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 34.84722222222221,
-        "correct": true
-      }
+      "avgPerc": 37.897777777777776,
+      "weightedPerc": 34.84722222222221,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-04-10",
@@ -3962,14 +3062,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 49.28,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 49.695000000000014,
-        "correct": false
-      }
+      "avgPerc": 49.28,
+      "weightedPerc": 49.695000000000014,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-04-07",
@@ -3984,14 +3079,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 42.56875,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 44.82285714285716,
-        "correct": false
-      }
+      "avgPerc": 42.56875,
+      "weightedPerc": 44.82285714285716,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-04-06",
@@ -4006,14 +3096,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 65.10363636363637,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 79.40581818181818,
-        "correct": false
-      }
+      "avgPerc": 65.10363636363637,
+      "weightedPerc": 79.40581818181818,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-04-05",
@@ -4028,14 +3113,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 43.67714285714286,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 44.906666666666666,
-        "correct": true
-      }
+      "avgPerc": 43.67714285714286,
+      "weightedPerc": 44.906666666666666,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-04-04",
@@ -4050,14 +3130,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.138749999999995,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 48.34714285714285,
-        "correct": true
-      }
+      "avgPerc": 47.138749999999995,
+      "weightedPerc": 48.34714285714285,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-04-03",
@@ -4072,14 +3147,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 38.16285714285714,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 30.72809523809522,
-        "correct": false
-      }
+      "avgPerc": 38.16285714285714,
+      "weightedPerc": 30.72809523809522,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-31",
@@ -4094,14 +3164,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 45.09428571428572,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 44.60095238095239,
-        "correct": false
-      }
+      "avgPerc": 45.09428571428572,
+      "weightedPerc": 44.60095238095239,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-30",
@@ -4116,14 +3181,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 50.483000000000004,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 57.817777777777785,
-        "correct": false
-      }
+      "avgPerc": 50.483000000000004,
+      "weightedPerc": 57.817777777777785,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-29",
@@ -4138,14 +3198,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.778,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 59.57155555555554,
-        "correct": false
-      }
+      "avgPerc": 53.778,
+      "weightedPerc": 59.57155555555554,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-28",
@@ -4160,14 +3215,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 39.937777777777775,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 37.13472222222222,
-        "correct": false
-      }
+      "avgPerc": 39.937777777777775,
+      "weightedPerc": 37.13472222222222,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-27",
@@ -4182,14 +3232,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 66.58666666666666,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 80.55121212121212,
-        "correct": false
-      }
+      "avgPerc": 66.58666666666666,
+      "weightedPerc": 80.55121212121212,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-24",
@@ -4204,14 +3249,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 49.9725,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 48.785000000000004,
-        "correct": true
-      }
+      "avgPerc": 49.9725,
+      "weightedPerc": 48.785000000000004,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-23",
@@ -4226,14 +3266,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 49.485,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 54.06933333333333,
-        "correct": true
-      }
+      "avgPerc": 49.485,
+      "weightedPerc": 54.06933333333333,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-22",
@@ -4248,14 +3283,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.13125,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 48.572499999999984,
-        "correct": true
-      }
+      "avgPerc": 45.13125,
+      "weightedPerc": 48.572499999999984,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-21",
@@ -4270,14 +3300,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 70.42999999999999,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 84.62743589743589,
-        "correct": false
-      }
+      "avgPerc": 70.42999999999999,
+      "weightedPerc": 84.62743589743589,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-20",
@@ -4292,14 +3317,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.82333333333333,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 47.91939393939394,
-        "correct": true
-      }
+      "avgPerc": 45.82333333333333,
+      "weightedPerc": 47.91939393939394,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-17",
@@ -4314,14 +3334,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 52.525999999999996,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 52.014444444444436,
-        "correct": false
-      }
+      "avgPerc": 52.525999999999996,
+      "weightedPerc": 52.014444444444436,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-16",
@@ -4336,14 +3351,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.790000000000006,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 53.652666666666676,
-        "correct": true
-      }
+      "avgPerc": 47.790000000000006,
+      "weightedPerc": 53.652666666666676,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-15",
@@ -4358,14 +3368,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 31.96111111111111,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 26.43083333333334,
-        "correct": true
-      }
+      "avgPerc": 31.96111111111111,
+      "weightedPerc": 26.43083333333334,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-14",
@@ -4380,14 +3385,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 32.413333333333334,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 25.606,
-        "correct": true
-      }
+      "avgPerc": 32.413333333333334,
+      "weightedPerc": 25.606,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-13",
@@ -4402,14 +3402,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 41.49571428571429,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 38.32619047619048,
-        "correct": false
-      }
+      "avgPerc": 41.49571428571429,
+      "weightedPerc": 38.32619047619048,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-10",
@@ -4424,14 +3419,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 42.7525,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 37.44821428571429,
-        "correct": false
-      }
+      "avgPerc": 42.7525,
+      "weightedPerc": 37.44821428571429,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-09",
@@ -4446,14 +3436,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.08363636363636,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 45.97090909090908,
-        "correct": true
-      }
+      "avgPerc": 42.08363636363636,
+      "weightedPerc": 45.97090909090908,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-08",
@@ -4468,14 +3453,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 54.855,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 63.41866666666669,
-        "correct": true
-      }
+      "avgPerc": 54.855,
+      "weightedPerc": 63.41866666666669,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-07",
@@ -4490,14 +3470,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.57555555555555,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 48.07194444444445,
-        "correct": false
-      }
+      "avgPerc": 47.57555555555555,
+      "weightedPerc": 48.07194444444445,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-03-06",
@@ -4512,14 +3487,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 57.94777777777777,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 69.40972222222223,
-        "correct": true
-      }
+      "avgPerc": 57.94777777777777,
+      "weightedPerc": 69.40972222222223,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-03",
@@ -4534,14 +3504,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 61.701,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 73.80244444444443,
-        "correct": false
-      }
+      "avgPerc": 61.701,
+      "weightedPerc": 73.80244444444443,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-02",
@@ -4556,14 +3521,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 59.69625,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 64.52535714285717,
-        "correct": false
-      }
+      "avgPerc": 59.69625,
+      "weightedPerc": 64.52535714285717,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-03-01",
@@ -4578,14 +3538,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 38.802499999999995,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 35.70178571428572,
-        "correct": false
-      }
+      "avgPerc": 38.802499999999995,
+      "weightedPerc": 35.70178571428572,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-28",
@@ -4600,14 +3555,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 60.166,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 70.89911111111113,
-        "correct": false
-      }
+      "avgPerc": 60.166,
+      "weightedPerc": 70.89911111111113,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-27",
@@ -4622,14 +3572,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 49.95636363636363,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 59.03418181818182,
-        "correct": false
-      }
+      "avgPerc": 49.95636363636363,
+      "weightedPerc": 59.03418181818182,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-24",
@@ -4644,14 +3589,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 44.062,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 44.564666666666675,
-        "correct": true
-      }
+      "avgPerc": 44.062,
+      "weightedPerc": 44.564666666666675,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-23",
@@ -4666,14 +3606,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 44.80499999999999,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 48.809555555555555,
-        "correct": true
-      }
+      "avgPerc": 44.80499999999999,
+      "weightedPerc": 48.809555555555555,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-22",
@@ -4688,14 +3623,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.210909090909084,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 63.62836363636365,
-        "correct": false
-      }
+      "avgPerc": 53.210909090909084,
+      "weightedPerc": 63.62836363636365,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-02-21",
@@ -4710,14 +3640,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 69.47999999999999,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 82.26177777777777,
-        "correct": true
-      }
+      "avgPerc": 69.47999999999999,
+      "weightedPerc": 82.26177777777777,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-02-17",
@@ -4732,14 +3657,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 65.03222222222222,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 77.02805555555555,
-        "correct": true
-      }
+      "avgPerc": 65.03222222222222,
+      "weightedPerc": 77.02805555555555,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-02-16",
@@ -4754,14 +3674,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.49125,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 54.2325,
-        "correct": false
-      }
+      "avgPerc": 51.49125,
+      "weightedPerc": 54.2325,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-02-15",
@@ -4776,14 +3691,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 72.46300000000001,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 85.1328888888889,
-        "correct": false
-      }
+      "avgPerc": 72.46300000000001,
+      "weightedPerc": 85.1328888888889,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-02-14",
@@ -4798,14 +3708,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 56.05444444444444,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 65.52333333333334,
-        "correct": true
-      }
+      "avgPerc": 56.05444444444444,
+      "weightedPerc": 65.52333333333334,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-02-13",
@@ -4820,14 +3725,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.1875,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 46.341071428571425,
-        "correct": false
-      }
+      "avgPerc": 44.1875,
+      "weightedPerc": 46.341071428571425,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-02-10",
@@ -4842,14 +3742,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 55.6,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 62.678030303030305,
-        "correct": true
-      }
+      "avgPerc": 55.6,
+      "weightedPerc": 62.678030303030305,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-09",
@@ -4864,14 +3759,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 46.054545454545455,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 49.41472727272728,
-        "correct": false
-      }
+      "avgPerc": 46.054545454545455,
+      "weightedPerc": 49.41472727272728,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-08",
@@ -4886,14 +3776,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 55.50416666666666,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 62.79590909090907,
-        "correct": false
-      }
+      "avgPerc": 55.50416666666666,
+      "weightedPerc": 62.79590909090907,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-07",
@@ -4908,14 +3793,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 54.15,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 62.583484848484865,
-        "correct": false
-      }
+      "avgPerc": 54.15,
+      "weightedPerc": 62.583484848484865,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-02-06",
@@ -4930,14 +3810,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 43.198750000000004,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 36.84071428571428,
-        "correct": true
-      }
+      "avgPerc": 43.198750000000004,
+      "weightedPerc": 36.84071428571428,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-02-03",
@@ -4952,14 +3827,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.66799999999999,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 46.344222222222214,
-        "correct": false
-      }
+      "avgPerc": 44.66799999999999,
+      "weightedPerc": 46.344222222222214,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-02",
@@ -4974,14 +3844,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.80444444444444,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 41.336666666666645,
-        "correct": true
-      }
+      "avgPerc": 42.80444444444444,
+      "weightedPerc": 41.336666666666645,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-02-01",
@@ -4996,14 +3861,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.1,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 60.36533333333333,
-        "correct": false
-      }
+      "avgPerc": 51.1,
+      "weightedPerc": 60.36533333333333,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-01-31",
@@ -5018,14 +3878,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 48.43333333333333,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 45.933888888888895,
-        "correct": false
-      }
+      "avgPerc": 48.43333333333333,
+      "weightedPerc": 45.933888888888895,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-01-30",
@@ -5040,14 +3895,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 66.70333333333332,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 80.38055555555555,
-        "correct": true
-      }
+      "avgPerc": 66.70333333333332,
+      "weightedPerc": 80.38055555555555,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2017-01-27",
@@ -5062,14 +3912,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 58.851,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 71.72755555555555,
-        "correct": false
-      }
+      "avgPerc": 58.851,
+      "weightedPerc": 71.72755555555555,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-26",
@@ -5084,14 +3929,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.41875,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 52.361428571428554,
-        "correct": false
-      }
+      "avgPerc": 51.41875,
+      "weightedPerc": 52.361428571428554,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-01-25",
@@ -5106,14 +3946,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.64714285714285,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 44.34809523809523,
-        "correct": true
-      }
+      "avgPerc": 45.64714285714285,
+      "weightedPerc": 44.34809523809523,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-01-24",
@@ -5128,14 +3963,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 62.847500000000004,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 72.01642857142858,
-        "correct": false
-      }
+      "avgPerc": 62.847500000000004,
+      "weightedPerc": 72.01642857142858,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-01-23",
@@ -5150,14 +3980,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 41.847142857142856,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 38.8757142857143,
-        "correct": false
-      }
+      "avgPerc": 41.847142857142856,
+      "weightedPerc": 38.8757142857143,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2017-01-20",
@@ -5172,14 +3997,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 39.505,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 37.475333333333325,
-        "correct": false
-      }
+      "avgPerc": 39.505,
+      "weightedPerc": 37.475333333333325,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-19",
@@ -5194,14 +4014,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 35.33857142857143,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 27.81904761904762,
-        "correct": false
-      }
+      "avgPerc": 35.33857142857143,
+      "weightedPerc": 27.81904761904762,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-18",
@@ -5216,14 +4031,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 41.42625,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 40.204285714285724,
-        "correct": false
-      }
+      "avgPerc": 41.42625,
+      "weightedPerc": 40.204285714285724,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-01-17",
@@ -5238,14 +4048,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 58.97222222222222,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 63.276388888888896,
-        "correct": false
-      }
+      "avgPerc": 58.97222222222222,
+      "weightedPerc": 63.276388888888896,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-01-13",
@@ -5260,14 +4065,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 52.4575,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 63.23727272727274,
-        "correct": true
-      }
+      "avgPerc": 52.4575,
+      "weightedPerc": 63.23727272727274,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-01-12",
@@ -5282,14 +4082,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 38.35375,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 34.60142857142857,
-        "correct": true
-      }
+      "avgPerc": 38.35375,
+      "weightedPerc": 34.60142857142857,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-11",
@@ -5304,14 +4099,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 62.63399999999999,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 72.04577777777777,
-        "correct": true
-      }
+      "avgPerc": 62.63399999999999,
+      "weightedPerc": 72.04577777777777,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-10",
@@ -5326,14 +4116,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.04555555555556,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 45.943333333333314,
-        "correct": false
-      }
+      "avgPerc": 47.04555555555556,
+      "weightedPerc": 45.943333333333314,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-09",
@@ -5348,14 +4133,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 72.44833333333334,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 85.05484848484849,
-        "correct": false
-      }
+      "avgPerc": 72.44833333333334,
+      "weightedPerc": 85.05484848484849,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-06",
@@ -5370,14 +4150,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 50.20454545454545,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 52.90581818181819,
-        "correct": false
-      }
+      "avgPerc": 50.20454545454545,
+      "weightedPerc": 52.90581818181819,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-05",
@@ -5392,14 +4167,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.486000000000004,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 46.524444444444455,
-        "correct": false
-      }
+      "avgPerc": 44.486000000000004,
+      "weightedPerc": 46.524444444444455,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2017-01-04",
@@ -5414,14 +4184,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 66.19800000000001,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 76.08333333333336,
-        "correct": true
-      }
+      "avgPerc": 66.19800000000001,
+      "weightedPerc": 76.08333333333336,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2017-01-03",
@@ -5436,14 +4201,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 39.07444444444444,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 37.25527777777778,
-        "correct": false
-      }
+      "avgPerc": 39.07444444444444,
+      "weightedPerc": 37.25527777777778,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-12-30",
@@ -5458,14 +4218,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 59.846666666666664,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 69.89318181818183,
-        "correct": false
-      }
+      "avgPerc": 59.846666666666664,
+      "weightedPerc": 69.89318181818183,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-12-29",
@@ -5480,14 +4235,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 41.065000000000005,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 40.81377777777777,
-        "correct": true
-      }
+      "avgPerc": 41.065000000000005,
+      "weightedPerc": 40.81377777777777,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-12-28",
@@ -5502,14 +4252,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 57.47846153846154,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 69.41756410256411,
-        "correct": false
-      }
+      "avgPerc": 57.47846153846154,
+      "weightedPerc": 69.41756410256411,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-12-27",
@@ -5524,14 +4269,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 43.735,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 43.497857142857136,
-        "correct": true
-      }
+      "avgPerc": 43.735,
+      "weightedPerc": 43.497857142857136,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-12-23",
@@ -5546,14 +4286,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.53125,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 34.04785714285715,
-        "correct": true
-      }
+      "avgPerc": 37.53125,
+      "weightedPerc": 34.04785714285715,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-12-22",
@@ -5568,14 +4303,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 66.82181818181817,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 80.71618181818181,
-        "correct": true
-      }
+      "avgPerc": 66.82181818181817,
+      "weightedPerc": 80.71618181818181,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-21",
@@ -5590,14 +4320,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.106,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 43.748444444444445,
-        "correct": false
-      }
+      "avgPerc": 44.106,
+      "weightedPerc": 43.748444444444445,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-12-20",
@@ -5612,14 +4337,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 52.843333333333334,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 55.60833333333332,
-        "correct": false
-      }
+      "avgPerc": 52.843333333333334,
+      "weightedPerc": 55.60833333333332,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-12-19",
@@ -5634,14 +4354,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 48.728750000000005,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 51.64678571428573,
-        "correct": true
-      }
+      "avgPerc": 48.728750000000005,
+      "weightedPerc": 51.64678571428573,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-16",
@@ -5656,14 +4371,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 48.73111111111111,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 46.79805555555555,
-        "correct": true
-      }
+      "avgPerc": 48.73111111111111,
+      "weightedPerc": 46.79805555555555,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-15",
@@ -5678,14 +4388,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 39.46875,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 34.28142857142859,
-        "correct": false
-      }
+      "avgPerc": 39.46875,
+      "weightedPerc": 34.28142857142859,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-14",
@@ -5700,14 +4405,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 39.73090909090909,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 40.2,
-        "correct": true
-      }
+      "avgPerc": 39.73090909090909,
+      "weightedPerc": 40.2,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-13",
@@ -5722,14 +4422,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.06666666666667,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 47.90416666666666,
-        "correct": true
-      }
+      "avgPerc": 47.06666666666667,
+      "weightedPerc": 47.90416666666666,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-12",
@@ -5744,14 +4439,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.268750000000004,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 44.504642857142855,
-        "correct": true
-      }
+      "avgPerc": 45.268750000000004,
+      "weightedPerc": 44.504642857142855,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-09",
@@ -5766,14 +4456,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 73.79153846153847,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 86.00192307692308,
-        "correct": false
-      }
+      "avgPerc": 73.79153846153847,
+      "weightedPerc": 86.00192307692308,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-08",
@@ -5788,14 +4473,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 45.25999999999999,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 45.89590909090908,
-        "correct": false
-      }
+      "avgPerc": 45.25999999999999,
+      "weightedPerc": 45.89590909090908,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-07",
@@ -5810,14 +4490,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.75636363636364,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.79472727272726,
-        "correct": false
-      }
+      "avgPerc": 53.75636363636364,
+      "weightedPerc": 56.79472727272726,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-06",
@@ -5832,14 +4507,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.291666666666664,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 51.600757575757584,
-        "correct": false
-      }
+      "avgPerc": 45.291666666666664,
+      "weightedPerc": 51.600757575757584,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-05",
@@ -5854,14 +4524,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 46.31583333333333,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 50.23136363636363,
-        "correct": false
-      }
+      "avgPerc": 46.31583333333333,
+      "weightedPerc": 50.23136363636363,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-02",
@@ -5876,14 +4541,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 38.09,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 35.82972222222222,
-        "correct": true
-      }
+      "avgPerc": 38.09,
+      "weightedPerc": 35.82972222222222,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-12-01",
@@ -5898,14 +4558,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 39.38444444444444,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 35.203611111111094,
-        "correct": true
-      }
+      "avgPerc": 39.38444444444444,
+      "weightedPerc": 35.203611111111094,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-11-30",
@@ -5920,14 +4575,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 56.590999999999994,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 64.80444444444448,
-        "correct": false
-      }
+      "avgPerc": 56.590999999999994,
+      "weightedPerc": 64.80444444444448,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-11-29",
@@ -5942,14 +4592,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 50.82,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 49.47857142857141,
-        "correct": true
-      }
+      "avgPerc": 50.82,
+      "weightedPerc": 49.47857142857141,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-11-28",
@@ -5964,14 +4609,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 46.00875,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 44.776071428571434,
-        "correct": false
-      }
+      "avgPerc": 46.00875,
+      "weightedPerc": 44.776071428571434,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-11-25",
@@ -5986,14 +4626,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 60.085,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 74.118,
-        "correct": false
-      }
+      "avgPerc": 60.085,
+      "weightedPerc": 74.118,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-11-23",
@@ -6008,14 +4643,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 49.5775,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 53.177499999999995,
-        "correct": false
-      }
+      "avgPerc": 49.5775,
+      "weightedPerc": 53.177499999999995,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-11-22",
@@ -6030,14 +4660,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.595,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 55.360000000000014,
-        "correct": false
-      }
+      "avgPerc": 51.595,
+      "weightedPerc": 55.360000000000014,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-11-21",
@@ -6052,14 +4677,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.55571428571428,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 40.20190476190477,
-        "correct": true
-      }
+      "avgPerc": 42.55571428571428,
+      "weightedPerc": 40.20190476190477,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-11-18",
@@ -6074,14 +4694,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 46.60833333333333,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 47.721999999999994,
-        "correct": false
-      }
+      "avgPerc": 46.60833333333333,
+      "weightedPerc": 47.721999999999994,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-11-17",
@@ -6096,14 +4711,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 69.63545454545455,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 83.45290909090909,
-        "correct": false
-      }
+      "avgPerc": 69.63545454545455,
+      "weightedPerc": 83.45290909090909,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-11-16",
@@ -6118,14 +4728,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 58.322,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 67.32222222222222,
-        "correct": true
-      }
+      "avgPerc": 58.322,
+      "weightedPerc": 67.32222222222222,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-11-15",
@@ -6140,14 +4745,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.7425,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.44214285714286,
-        "correct": false
-      }
+      "avgPerc": 53.7425,
+      "weightedPerc": 56.44214285714286,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-11-14",
@@ -6162,14 +4762,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 40.707499999999996,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 34.21071428571429,
-        "correct": false
-      }
+      "avgPerc": 40.707499999999996,
+      "weightedPerc": 34.21071428571429,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-11-11",
@@ -6184,14 +4779,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 47.41727272727272,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 45.72472727272726,
-        "correct": false
-      }
+      "avgPerc": 47.41727272727272,
+      "weightedPerc": 45.72472727272726,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-11-10",
@@ -6206,14 +4796,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 74.82727272727273,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 87.43909090909091,
-        "correct": true
-      }
+      "avgPerc": 74.82727272727273,
+      "weightedPerc": 87.43909090909091,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-11-09",
@@ -6228,14 +4813,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 58.74400000000001,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 70.63066666666667,
-        "correct": true
-      }
+      "avgPerc": 58.74400000000001,
+      "weightedPerc": 70.63066666666667,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-11-08",
@@ -6250,14 +4830,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 39.06222222222222,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 37.321944444444426,
-        "correct": false
-      }
+      "avgPerc": 39.06222222222222,
+      "weightedPerc": 37.321944444444426,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-11-07",
@@ -6272,14 +4847,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 63.73888888888889,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 71.66222222222221,
-        "correct": true
-      }
+      "avgPerc": 63.73888888888889,
+      "weightedPerc": 71.66222222222221,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-11-04",
@@ -6294,14 +4864,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 35.405,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 29.7257142857143,
-        "correct": false
-      }
+      "avgPerc": 35.405,
+      "weightedPerc": 29.7257142857143,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-11-03",
@@ -6316,14 +4881,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.70727272727272,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 59.26218181818182,
-        "correct": false
-      }
+      "avgPerc": 51.70727272727272,
+      "weightedPerc": 59.26218181818182,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-11-02",
@@ -6338,14 +4898,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 41.26111111111111,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 41.334722222222226,
-        "correct": true
-      }
+      "avgPerc": 41.26111111111111,
+      "weightedPerc": 41.334722222222226,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-11-01",
@@ -6360,14 +4915,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 60.545384615384606,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 72.9824358974359,
-        "correct": false
-      }
+      "avgPerc": 60.545384615384606,
+      "weightedPerc": 72.9824358974359,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-31",
@@ -6382,14 +4932,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 55.298,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 60.8815555555556,
-        "correct": false
-      }
+      "avgPerc": 55.298,
+      "weightedPerc": 60.8815555555556,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-10-28",
@@ -6404,14 +4949,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 54.08666666666667,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 55.08777777777777,
-        "correct": false
-      }
+      "avgPerc": 54.08666666666667,
+      "weightedPerc": 55.08777777777777,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-27",
@@ -6426,14 +4966,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 62.67100000000001,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 74.62933333333332,
-        "correct": true
-      }
+      "avgPerc": 62.67100000000001,
+      "weightedPerc": 74.62933333333332,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-26",
@@ -6448,14 +4983,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 63.45846153846154,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 77.9846153846154,
-        "correct": false
-      }
+      "avgPerc": 63.45846153846154,
+      "weightedPerc": 77.9846153846154,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-25",
@@ -6470,14 +5000,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 44.80800000000001,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 46.811111111111124,
-        "correct": true
-      }
+      "avgPerc": 44.80800000000001,
+      "weightedPerc": 46.811111111111124,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-10-24",
@@ -6492,14 +5017,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.0375,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 51.68636363636364,
-        "correct": false
-      }
+      "avgPerc": 47.0375,
+      "weightedPerc": 51.68636363636364,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-10-21",
@@ -6514,14 +5034,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 53.41374999999999,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 54.983928571428564,
-        "correct": false
-      }
+      "avgPerc": 53.41374999999999,
+      "weightedPerc": 54.983928571428564,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-10-20",
@@ -6536,14 +5051,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 51.598,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 58.927555555555564,
-        "correct": true
-      }
+      "avgPerc": 51.598,
+      "weightedPerc": 58.927555555555564,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-10-19",
@@ -6558,14 +5068,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 42.51444444444444,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 43.410277777777786,
-        "correct": true
-      }
+      "avgPerc": 42.51444444444444,
+      "weightedPerc": 43.410277777777786,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-10-18",
@@ -6580,14 +5085,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 57.14625,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 59.77714285714286,
-        "correct": true
-      }
+      "avgPerc": 57.14625,
+      "weightedPerc": 59.77714285714286,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-17",
@@ -6602,14 +5102,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 37.28142857142858,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 32.9961904761905,
-        "correct": false
-      }
+      "avgPerc": 37.28142857142858,
+      "weightedPerc": 32.9961904761905,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-14",
@@ -6624,14 +5119,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 48.71333333333333,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 52.70861111111111,
-        "correct": false
-      }
+      "avgPerc": 48.71333333333333,
+      "weightedPerc": 52.70861111111111,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-13",
@@ -6646,14 +5136,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 44.19714285714286,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 46.12571428571428,
-        "correct": true
-      }
+      "avgPerc": 44.19714285714286,
+      "weightedPerc": 46.12571428571428,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-12",
@@ -6668,14 +5153,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 63.089999999999996,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 75.82499999999999,
-        "correct": false
-      }
+      "avgPerc": 63.089999999999996,
+      "weightedPerc": 75.82499999999999,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-11",
@@ -6690,14 +5170,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 62.398,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 73.27888888888889,
-        "correct": false
-      }
+      "avgPerc": 62.398,
+      "weightedPerc": 73.27888888888889,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-10-10",
@@ -6712,14 +5187,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 51.8,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 52.27,
-        "correct": false
-      }
+      "avgPerc": 51.8,
+      "weightedPerc": 52.27,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-10-07",
@@ -6734,14 +5204,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 38.43625,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 36.4232142857143,
-        "correct": false
-      }
+      "avgPerc": 38.43625,
+      "weightedPerc": 36.4232142857143,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-10-06",
@@ -6756,14 +5221,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 54.40888888888889,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 62.20666666666667,
-        "correct": false
-      }
+      "avgPerc": 54.40888888888889,
+      "weightedPerc": 62.20666666666667,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-10-05",
@@ -6778,14 +5238,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 59.28099999999999,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 69.54022222222223,
-        "correct": false
-      }
+      "avgPerc": 59.28099999999999,
+      "weightedPerc": 69.54022222222223,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-10-04",
@@ -6800,14 +5255,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.31125,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 49.45964285714287,
-        "correct": true
-      }
+      "avgPerc": 47.31125,
+      "weightedPerc": 49.45964285714287,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-10-03",
@@ -6822,14 +5272,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 44.56375,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 40.57464285714286,
-        "correct": false
-      }
+      "avgPerc": 44.56375,
+      "weightedPerc": 40.57464285714286,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-30",
@@ -6844,14 +5289,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 37.1025,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 34.23642857142857,
-        "correct": true
-      }
+      "avgPerc": 37.1025,
+      "weightedPerc": 34.23642857142857,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-09-29",
@@ -6866,14 +5306,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 37.79375,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 34.81964285714288,
-        "correct": false
-      }
+      "avgPerc": 37.79375,
+      "weightedPerc": 34.81964285714288,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-09-28",
@@ -6888,14 +5323,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 53.118750000000006,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 55.64750000000002,
-        "correct": true
-      }
+      "avgPerc": 53.118750000000006,
+      "weightedPerc": 55.64750000000002,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-09-27",
@@ -6910,14 +5340,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 55.28857142857144,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 60.55666666666667,
-        "correct": true
-      }
+      "avgPerc": 55.28857142857144,
+      "weightedPerc": 60.55666666666667,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-09-26",
@@ -6932,14 +5357,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 61.787499999999994,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 70.29107142857143,
-        "correct": false
-      }
+      "avgPerc": 61.787499999999994,
+      "weightedPerc": 70.29107142857143,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-09-23",
@@ -6954,14 +5374,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 58.620000000000005,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 69.04416666666667,
-        "correct": false
-      }
+      "avgPerc": 58.620000000000005,
+      "weightedPerc": 69.04416666666667,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-09-22",
@@ -6976,14 +5391,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 40.44125,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 38.33428571428572,
-        "correct": false
-      }
+      "avgPerc": 40.44125,
+      "weightedPerc": 38.33428571428572,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-21",
@@ -6998,14 +5408,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 52.282222222222224,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 58.255833333333335,
-        "correct": true
-      }
+      "avgPerc": 52.282222222222224,
+      "weightedPerc": 58.255833333333335,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-20",
@@ -7020,14 +5425,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 48.96125,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 49.92678571428571,
-        "correct": false
-      }
+      "avgPerc": 48.96125,
+      "weightedPerc": 49.92678571428571,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-19",
@@ -7042,14 +5442,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 56.46333333333334,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 59.61194444444444,
-        "correct": false
-      }
+      "avgPerc": 56.46333333333334,
+      "weightedPerc": 59.61194444444444,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-16",
@@ -7064,14 +5459,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 41.52625,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 43.127500000000005,
-        "correct": false
-      }
+      "avgPerc": 41.52625,
+      "weightedPerc": 43.127500000000005,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-09-15",
@@ -7086,14 +5476,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 50.633750000000006,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.89107142857143,
-        "correct": false
-      }
+      "avgPerc": 50.633750000000006,
+      "weightedPerc": 56.89107142857143,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-14",
@@ -7108,14 +5493,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 44.26571428571429,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 44.059047619047625,
-        "correct": true
-      }
+      "avgPerc": 44.26571428571429,
+      "weightedPerc": 44.059047619047625,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-13",
@@ -7130,14 +5510,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 81.33461538461538,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 93.9025641025641,
-        "correct": false
-      }
+      "avgPerc": 81.33461538461538,
+      "weightedPerc": 93.9025641025641,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-09-12",
@@ -7152,14 +5527,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 51.2175,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 58.06530303030303,
-        "correct": true
-      }
+      "avgPerc": 51.2175,
+      "weightedPerc": 58.06530303030303,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-09-09",
@@ -7174,14 +5544,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 45.895,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 46.37928571428569,
-        "correct": true
-      }
+      "avgPerc": 45.895,
+      "weightedPerc": 46.37928571428569,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-09-08",
@@ -7196,14 +5561,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 57.126999999999995,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 66.72377777777778,
-        "correct": true
-      }
+      "avgPerc": 57.126999999999995,
+      "weightedPerc": 66.72377777777778,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-07",
@@ -7218,14 +5578,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 62.096666666666664,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 74.53222222222222,
-        "correct": true
-      }
+      "avgPerc": 62.096666666666664,
+      "weightedPerc": 74.53222222222222,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-09-06",
@@ -7240,14 +5595,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 50.63875,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 52.457857142857144,
-        "correct": false
-      }
+      "avgPerc": 50.63875,
+      "weightedPerc": 52.457857142857144,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-09-02",
@@ -7262,14 +5612,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 65.53777777777778,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 76.39583333333333,
-        "correct": false
-      }
+      "avgPerc": 65.53777777777778,
+      "weightedPerc": 76.39583333333333,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-09-01",
@@ -7284,14 +5629,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 34.24875,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 29.29785714285714,
-        "correct": false
-      }
+      "avgPerc": 34.24875,
+      "weightedPerc": 29.29785714285714,
+      "compareToPast": 40
     },
     "rawData": {
       "Date": "2016-08-31",
@@ -7306,14 +5646,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 73.3146153846154,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 87.60448717948718,
-        "correct": false
-      }
+      "avgPerc": 73.3146153846154,
+      "weightedPerc": 87.60448717948718,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-08-30",
@@ -7328,14 +5663,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 52.58,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 56.2152777777778,
-        "correct": false
-      }
+      "avgPerc": 52.58,
+      "weightedPerc": 56.2152777777778,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-08-29",
@@ -7350,14 +5680,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 49.86416666666667,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 51.28166666666668,
-        "correct": false
-      }
+      "avgPerc": 49.86416666666667,
+      "weightedPerc": 51.28166666666668,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-08-26",
@@ -7372,14 +5697,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 67.18181818181819,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 80.04545454545455,
-        "correct": true
-      }
+      "avgPerc": 67.18181818181819,
+      "weightedPerc": 80.04545454545455,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-08-25",
@@ -7394,14 +5714,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 44.819,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 40.3313333333333,
-        "correct": true
-      }
+      "avgPerc": 44.819,
+      "weightedPerc": 40.3313333333333,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-08-24",
@@ -7416,14 +5731,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 45.71888888888889,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 49.66777777777778,
-        "correct": false
-      }
+      "avgPerc": 45.71888888888889,
+      "weightedPerc": 49.66777777777778,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-08-23",
@@ -7438,14 +5748,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 43.163,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 41.57288888888889,
-        "correct": true
-      }
+      "avgPerc": 43.163,
+      "weightedPerc": 41.57288888888889,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-08-22",
@@ -7460,14 +5765,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 52.300000000000004,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 53.92318181818184,
-        "correct": false
-      }
+      "avgPerc": 52.300000000000004,
+      "weightedPerc": 53.92318181818184,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-19",
@@ -7482,14 +5782,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 43.626666666666665,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 37.92472222222222,
-        "correct": true
-      }
+      "avgPerc": 43.626666666666665,
+      "weightedPerc": 37.92472222222222,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-18",
@@ -7504,14 +5799,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 40.699,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 41.23511111111112,
-        "correct": false
-      }
+      "avgPerc": 40.699,
+      "weightedPerc": 41.23511111111112,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-17",
@@ -7526,14 +5816,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 47.43272727272727,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 54.014909090909086,
-        "correct": false
-      }
+      "avgPerc": 47.43272727272727,
+      "weightedPerc": 54.014909090909086,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-16",
@@ -7548,14 +5833,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.37222222222223,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 34.10083333333335,
-        "correct": true
-      }
+      "avgPerc": 36.37222222222223,
+      "weightedPerc": 34.10083333333335,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-15",
@@ -7570,14 +5850,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 30.471249999999998,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 25.475000000000012,
-        "correct": true
-      }
+      "avgPerc": 30.471249999999998,
+      "weightedPerc": 25.475000000000012,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-12",
@@ -7592,14 +5867,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 50.73375,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 52.816071428571426,
-        "correct": true
-      }
+      "avgPerc": 50.73375,
+      "weightedPerc": 52.816071428571426,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-11",
@@ -7614,14 +5884,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 43.805714285714295,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 40.495238095238115,
-        "correct": false
-      }
+      "avgPerc": 43.805714285714295,
+      "weightedPerc": 40.495238095238115,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-10",
@@ -7636,14 +5901,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 63.59125,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 74.87142857142858,
-        "correct": false
-      }
+      "avgPerc": 63.59125,
+      "weightedPerc": 74.87142857142858,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-09",
@@ -7658,14 +5918,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 43.457142857142856,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 37.54142857142857,
-        "correct": false
-      }
+      "avgPerc": 43.457142857142856,
+      "weightedPerc": 37.54142857142857,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-08",
@@ -7680,14 +5935,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 38.44666666666667,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 34.196,
-        "correct": false
-      }
+      "avgPerc": 38.44666666666667,
+      "weightedPerc": 34.196,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-08-05",
@@ -7702,14 +5952,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 46.64,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 48.40527777777778,
-        "correct": false
-      }
+      "avgPerc": 46.64,
+      "weightedPerc": 48.40527777777778,
+      "compareToPast": 75
     },
     "rawData": {
       "Date": "2016-08-04",
@@ -7724,14 +5969,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 43.69375,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 41.823928571428574,
-        "correct": false
-      }
+      "avgPerc": 43.69375,
+      "weightedPerc": 41.823928571428574,
+      "compareToPast": 60
     },
     "rawData": {
       "Date": "2016-08-03",
@@ -7746,14 +5986,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 54.7475,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 62.78642857142857,
-        "correct": true
-      }
+      "avgPerc": 54.7475,
+      "weightedPerc": 62.78642857142857,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-08-02",
@@ -7768,14 +6003,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 67.397,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 80.92644444444446,
-        "correct": false
-      }
+      "avgPerc": 67.397,
+      "weightedPerc": 80.92644444444446,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-08-01",
@@ -7790,14 +6020,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 74.04615384615384,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 85.02410256410258,
-        "correct": false
-      }
+      "avgPerc": 74.04615384615384,
+      "weightedPerc": 85.02410256410258,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-07-29",
@@ -7812,14 +6037,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 55.446666666666665,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 68.44515151515154,
-        "correct": true
-      }
+      "avgPerc": 55.446666666666665,
+      "weightedPerc": 68.44515151515154,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-07-28",
@@ -7834,14 +6054,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 52.79083333333333,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 57.81924242424241,
-        "correct": false
-      }
+      "avgPerc": 52.79083333333333,
+      "weightedPerc": 57.81924242424241,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-07-27",
@@ -7856,14 +6071,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 38.47333333333333,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 36.09694444444445,
-        "correct": true
-      }
+      "avgPerc": 38.47333333333333,
+      "weightedPerc": 36.09694444444445,
+      "compareToPast": 50
     },
     "rawData": {
       "Date": "2016-07-26",
@@ -7878,14 +6088,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 62.24076923076924,
-        "correct": false
-      },
-      "weightedPerc": {
-        "val": 73.23820512820512,
-        "correct": false
-      }
+      "avgPerc": 62.24076923076924,
+      "weightedPerc": 73.23820512820512,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-07-25",
@@ -7900,14 +6105,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 39.07444444444444,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 35.5461111111111,
-        "correct": true
-      }
+      "avgPerc": 39.07444444444444,
+      "weightedPerc": 35.5461111111111,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-07-22",
@@ -7922,14 +6122,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 36.323750000000004,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 29.197142857142858,
-        "correct": true
-      }
+      "avgPerc": 36.323750000000004,
+      "weightedPerc": 29.197142857142858,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-07-21",
@@ -7944,14 +6139,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 54.48272727272727,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 61.85527272727271,
-        "correct": true
-      }
+      "avgPerc": 54.48272727272727,
+      "weightedPerc": 61.85527272727271,
+      "compareToPast": 55
     },
     "rawData": {
       "Date": "2016-07-20",
@@ -7966,14 +6156,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 46.144,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 47.604888888888894,
-        "correct": true
-      }
+      "avgPerc": 46.144,
+      "weightedPerc": 47.604888888888894,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-07-19",
@@ -7988,14 +6173,9 @@
   {
     "wentUpFollowingDay": false,
     "strategies": {
-      "avgPerc": {
-        "val": 48.51625,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 45.98285714285713,
-        "correct": true
-      }
+      "avgPerc": 48.51625,
+      "weightedPerc": 45.98285714285713,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-07-18",
@@ -8010,14 +6190,9 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
-      "avgPerc": {
-        "val": 56.14625,
-        "correct": true
-      },
-      "weightedPerc": {
-        "val": 60.62357142857145,
-        "correct": true
-      }
+      "avgPerc": 56.14625,
+      "weightedPerc": 60.62357142857145,
+      "compareToPast": 65
     },
     "rawData": {
       "Date": "2016-07-15",
