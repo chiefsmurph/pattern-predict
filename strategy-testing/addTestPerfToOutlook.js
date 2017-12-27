@@ -4,7 +4,7 @@ const calcStrategyPerformance = require('./calcStrategyPerformance');
 module.exports = (todaysOutlook, testResults) => {
 
   const strategyPerformance = calcStrategyPerformance(testResults);
-  console.log(JSON.stringify(strategyPerformance, null, 2), 'stratperf');
+  // console.log(JSON.stringify(strategyPerformance, null, 2), 'stratperf');
 
   const newStrategies = Object.keys(todaysOutlook.strategies).reduce((acc, stratKey) => {
 
@@ -28,6 +28,7 @@ module.exports = (todaysOutlook, testResults) => {
 
     acc[stratKey] = {
       val: stratValue,
+      breakdownMet,
       testPerformance: stratPerf
     };
 

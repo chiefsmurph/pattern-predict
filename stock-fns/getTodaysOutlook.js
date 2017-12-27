@@ -4,11 +4,15 @@ const { MAX_DIGITS } = require('../settings');
 const csvToArray = require('../utils/csvToArray');
 const generateUpDownString = require('../utils/generateUpDownString');
 const arrayAvg = require('../utils/arrayAvg');
+const twoDecimals = require('../utils/twoDecimals');
 
 // predictFns
 const addTestPerfToOutlook = require('../strategy-testing/addTestPerfToOutlook');
 const executePerms = require('../predict-fns/executePerms');
 const createPredictions = require('../predict-fns/createPredictions');
+
+// scraping
+const getHistoricalStock = require('../scraping/getHistoricalStock');
 
 const fs = require('mz/fs');
 
@@ -51,29 +55,37 @@ const getTodaysOutlook = async stockTicker => {
 
 const getOutlookForMultiple = async arrStockTickers => {
 
-  let allResults = await Promise.all(
-    arrStockTickers.map(ticker => getTodaysOutlook(ticker))
-  );
+  let allResults = [];
+  for (let ticker of arrStockTickers) {
+    allResults.push(await getTodaysOutlook(ticker));
+  }
 
-  allResults = allResults.filter(result => !!result).map(result => ({
-    ...result,
-    singleMetric: (obj => {
-      const importantMetrics = [];
+  allResults = allResults.filter(result => !!result).map(result => {
+
+    const importantMetrics = (obj => {
+      const impMetrics = [];
       Object.keys(obj.todaysOutlook.strategies).forEach(stratKey => {
         const stratVal = obj.todaysOutlook.strategies[stratKey].val || obj.todaysOutlook.strategies[stratKey];
-        stratVal && importantMetrics.push(stratVal);
-        console.log('here', importantMetrics);
+        stratVal && impMetrics.push(stratVal);
+        // console.log('here', importantMetrics);
         if (obj.todaysOutlook.strategies[stratKey].testPerformance) {
           Object.keys(obj.todaysOutlook.strategies[stratKey].testPerformance).forEach(timeBreakdown => {
-            importantMetrics.push(obj.todaysOutlook.strategies[stratKey].testPerformance[timeBreakdown].percCorrect);
+            impMetrics.push(obj.todaysOutlook.strategies[stratKey].testPerformance[timeBreakdown].percUp);
           });
         }
-        console.log('there', importantMetrics);
+        // console.log('there', importantMetrics);
       });
-      console.log('imp', importantMetrics);
-      return arrayAvg(importantMetrics.filter(met => !!met));
-    })(result)
-  }));
+      // console.log('imp', importantMetrics);
+      return impMetrics;
+    })(result);
+
+    return {
+      ...result,
+      importantMetrics: importantMetrics.map(metric => Math.round(metric)),
+      singleMetric: twoDecimals(arrayAvg(importantMetrics.filter(met => !!met)))
+    };
+
+  });
 
   allResults = allResults.sort((a, b) => b.singleMetric - a.singleMetric);
 
@@ -83,20 +95,33 @@ const getOutlookForMultiple = async arrStockTickers => {
   console.log('-----------------------------');
   console.log('recommendations for the day');
   allResults.forEach((result, i) => {
-    console.log(`${i+1}. ${result.stockTicker} - single metric: ${result.singleMetric}`);
+    console.log(`${i+1}. ${result.stockTicker} - single metric: ${result.singleMetric} - [${result.importantMetrics}]`);
   });
 
 };
 
-(async() => {
+(async () => {
   console.log('here', process.argv[1]);
   if (process.argv[1].toLowerCase().includes('getTodaysOutlook'.toLowerCase())) {
-    console.log('here');
-    let tickersToProcess = process.argv.slice(2);
-    if (!tickersToProcess.length) {
-      tickersToProcess = require('../stocksOfInterest');
+
+    let tickers = process.argv.slice(2);
+
+    const shouldUpdate = (tickers[tickers.length - 1] === '--update');
+    if (shouldUpdate) {
+      tickers = tickers.slice(0, -1);
     }
-    await getOutlookForMultiple(tickersToProcess);
+    if (!tickers.length) {
+      tickers = require('../stocksOfInterest');
+    }
+    if (shouldUpdate) {
+      for (let ticker of tickers) {
+        await getHistoricalStock(ticker);
+      }
+      console.log('done downloading historical data');
+    }
+
+    console.log(tickers);
+    await getOutlookForMultiple(tickers);
   }
 })();
 

@@ -1,4 +1,6 @@
 module.exports = [
+
+  // base
   'AAPL',
   'DE',
   '^GSPC',
@@ -8,5 +10,15 @@ module.exports = [
   'ORCL',
   'TM',
   'GM',
-  'BTC-USD'
+  'BTC-USD',
+
+  // dec 26
+  'TSN',
+  'IAC',
+  'NMM',
+  'SIRI',
+  'MULE',
+  'BABA',
+  'SBUX',
+  'VRX',
 ];
