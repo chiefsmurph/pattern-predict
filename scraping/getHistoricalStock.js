@@ -3,7 +3,49 @@ const fs = require('mz/fs');
 
 const timeoutPromise = require('../utils/timeoutPromise');
 
+
+const hoursOfDataUpdate = 19;
+
+const getLastScrapes = async () => {
+  try {
+    var lastScrapes = JSON.parse(await fs.readFile('./stock-data/lastScrapes.json', 'utf8'));
+  } catch (e) {
+    var lastScrapes = {};
+  }
+  return lastScrapes;
+};
+
+const updateLastScrapes = async (lastScrapes, stock) => {
+  lastScrapes[stock] = new Date().toString();
+  try {
+    await fs.writeFile('./stock-data/lastScrapes.json', JSON.stringify(lastScrapes, null, 2));
+  } catch (e) {
+    console.error('error saving last scrapes');
+  }
+};
+
+const needsUpdating = (lastScrapes, stock) => {
+  if (!lastScrapes[stock]) return true;
+
+  const currentDate = new Date();
+  const dateLastScraped = new Date(lastScrapes[stock]);
+
+  let dateOfLastDataUpdate = new Date();
+  dateOfLastDataUpdate.setHours(hoursOfDataUpdate);
+  if (dateOfLastDataUpdate > currentDate) {
+    dateOfLastDataUpdate.setDate(dateOfLastDataUpdate.getDate() - 1);
+  }
+
+  return dateOfLastDataUpdate > dateLastScraped;
+};
+
 const getHistoricalStock = async (stock) => {
+
+    const lastScrapes = await getLastScrapes();
+    if (!needsUpdating(lastScrapes, stock)) {
+      return console.log('doesnt need updating', stock);
+    }
+
     console.log('starting to scrape historical content for ', stock);
     const browser = await puppeteer.launch({headless: true});
     const page = await browser.newPage();
@@ -53,6 +95,8 @@ const getHistoricalStock = async (stock) => {
 
     await page.close();
     await browser.close();
+
+    await updateLastScrapes(lastScrapes, stock);
 
     console.log('done scraping historical content for ', stock);
 };
