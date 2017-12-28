@@ -52,4 +52,28 @@ module.exports = [
   'UONE',
   'IGT',
 
+  //dec 28
+  'NSPR',
+  'BBG',
+  'PFSI',
+  'LINU',
+  'CHK',
+  'SWN',
+  'SNAP',
+  'UGAZ',
+  'GWPH',
+  'VLRX',
+  'INAP',
+  'OSUR',
+  'AET',
+  'NEOS',
+  'CMLS',
+  'OPNT',
+  'XPO',
+  'RIOT',
+  'SFIX',
+  'CBIS',
+  'TRTC',
+  'INSYS',
+  ''
 ];

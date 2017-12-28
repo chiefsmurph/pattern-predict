@@ -1,3 +1,3 @@
 module.exports = number => {
-  return parseFloat(number).toFixed(2);
+  return Number(parseFloat(number).toFixed(2));
 };

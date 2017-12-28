@@ -66,43 +66,94 @@ const getOutlookForMultiple = async arrStockTickers => {
   allResults = allResults.filter(result => !!result).map(result => {
 
     const importantMetrics = (obj => {
-      const impMetrics = [];
+      const impMetrics = [ [], [] ];
       Object.keys(obj.todaysOutlook.strategies).forEach(stratKey => {
         const stratVal = obj.todaysOutlook.strategies[stratKey].val;
-        stratVal && impMetrics.push(stratVal);
+        stratVal && impMetrics[0].push(stratVal);
         // console.log('here', importantMetrics);
         if (obj.todaysOutlook.strategies[stratKey].testPerformance) {
           Object.keys(obj.todaysOutlook.strategies[stratKey].testPerformance).forEach(timeBreakdown => {
-            impMetrics.push(obj.todaysOutlook.strategies[stratKey].testPerformance[timeBreakdown].percUp);
+            const strategyPerformance = obj.todaysOutlook.strategies[stratKey].testPerformance[timeBreakdown].percUp;
+            strategyPerformance && impMetrics[1].push(strategyPerformance);
           });
         }
         // console.log('there', importantMetrics);
       });
       // console.log('imp', importantMetrics);
+      console.log('impMetrics', impMetrics);
       return impMetrics;
     })(result);
 
+    const singleMetric = arrayAvg(importantMetrics.map(arr => arrayAvg(arr)));
+    const roundInnerArrays = outer => outer.map(inner => inner.map(el => Math.round(el)));
+
     return {
       ...result,
-      importantMetrics: importantMetrics.map(metric => Math.round(metric)),
-      singleMetric: twoDecimals(arrayAvg(importantMetrics.filter(met => !!met)))
+      importantMetrics: roundInnerArrays(importantMetrics),
+      singleMetric: twoDecimals(singleMetric)
     };
 
   });
 
-  allResults = allResults.sort((a, b) => b.singleMetric - a.singleMetric);
-
   console.log('-----------------------------');
-  console.log('allresults')
+  console.log('allresults b4')
   console.log(JSON.stringify(allResults, null, 2));
   console.log('-----------------------------');
-  console.log('recommendations for the day');
+
+  const sortBySingleMetric = results => results.sort((a, b) => Number(b.singleMetric) - Number(a.singleMetric));
+  allResults = sortBySingleMetric(allResults.filter(result => {
+    console.log('sorting', result.singleMetric, result.stockTicker, !!result.singleMetric, typeof result.singleMetric, !!Number(result.singleMetric));
+    return !!result.singleMetric;
+  }));
+
+  console.log('-----------------------------');
+  console.log('allresults after')
+  console.log(JSON.stringify(allResults, null, 2));
+  console.log('-----------------------------');
+
+  const recCategories = {};
+  const categoryBreakdowns = {
+    'top recommendations': result => {
+      return arrayAvg(result.importantMetrics[0]) > 50 &&
+        arrayAvg(result.importantMetrics[1]) > 50 &&
+        result.singleMetric > 53;
+    },
+    'somewhat recommended': result => {
+      return result.singleMetric > 50;
+    },
+    'not recommended': () => true
+  };
+
+  allResults.forEach(result => {
+    console.log('looking at', result.stockTicker);
+    Object.keys(categoryBreakdowns).some(categoryKey => {
+      const categoryFilterFn = categoryBreakdowns[categoryKey];
+      if (categoryFilterFn(result)) {
+        recCategories[categoryKey] = (recCategories[categoryKey] || []).concat([result]);
+        return true;
+      }
+    });
+  });
 
 
+  // todo : save todays outlook json
   // await fs.writeFile('./stock-predictions/')
 
-  allResults.forEach((result, i) => {
-    console.log(`${i+1}. ${result.stockTicker} - single metric: ${result.singleMetric} - [${result.importantMetrics}]`);
+  // console.log('recommendations for the day');
+  // allResults.forEach((result, i) => {
+  //   console.log(`${i+1}. ${result.stockTicker} - single metric: ${result.singleMetric} - ${JSON.stringify(result.importantMetrics)}`);
+  // });
+  //
+  // console.log('-----------------------------');
+  // console.log('-----------------------------');
+
+  Object.keys(categoryBreakdowns).forEach(categoryKey => {
+    if (recCategories[categoryKey]) {
+      console.log(`category: ${categoryKey}`);
+      recCategories[categoryKey].forEach((result, i) => {
+        console.log(`${i+1}. ${result.stockTicker} - single metric: ${result.singleMetric} - ${JSON.stringify(result.importantMetrics)}`);
+      });
+    }
   });
 
 };
