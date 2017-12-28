@@ -34,7 +34,7 @@ module.exports = [
   'XVG-USD',
   'DASH-USD',
   'SC-USD',
-  'QASH-USD'
+  'QASH-USD',
 
   //dec 27
   'DRYS',
@@ -51,5 +51,5 @@ module.exports = [
   'RGSE',
   'UONE',
   'IGT',
-  
+
 ];
