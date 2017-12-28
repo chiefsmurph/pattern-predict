@@ -10,7 +10,6 @@ module.exports = [
   'ORCL',
   'TM',
   'GM',
-  'BTC-USD',
 
   // dec 26
   'TSN',
@@ -21,4 +20,36 @@ module.exports = [
   'BABA',
   'SBUX',
   'VRX',
+
+
+  // cryptos
+  'BTC-USD',
+  'ETH-USD',
+  'VEN-USD',
+  'XRP-USD',
+  'LTC-USD',
+  'BCH-USD',
+  'QTUM-USD',
+  'XLM-USD',
+  'XVG-USD',
+  'DASH-USD',
+  'SC-USD',
+  'QASH-USD'
+
+  //dec 27
+  'DRYS',
+  'CATB',
+  'TWTR',
+  'TSLA',
+  'FB',
+  'NFLX',
+  'GPRO',
+  'BAC',
+  'AABA',
+  'SAGE',
+  'DXJ',
+  'RGSE',
+  'UONE',
+  'IGT',
+  
 ];

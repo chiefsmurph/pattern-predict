@@ -22,7 +22,14 @@ const testStrategiesOnStock = async stockTicker => {
   // console.log('upDownString', upDownString);
   // console.log('\n');
 
-  const testResults = testStrategies(upDownString, 365, null, dayArray, stockTicker);
+  try {
+    const testResultsFile = './stock-test-results/' + stockTicker + '.json';
+    var prevTestResults = JSON.parse(await fs.readFile(testResultsFile, 'utf8'));
+  } catch (e) {
+    console.error('y', e);
+  }
+
+  const testResults = testStrategies(upDownString, 365, null, dayArray, stockTicker, prevTestResults);
   // console.log('testResults');
   // console.log(JSON.stringify(testResults, null, 2));
 

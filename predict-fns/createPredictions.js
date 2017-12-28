@@ -19,7 +19,7 @@ const createPredictions = (upDownString, permsExecuted, additionalData) => {
 
   const todaysPerms = getTodaysPerms(last2YearsUpDown, MAX_DIGITS)
     .map(perm => getPerm(perm))
-    .filter(perm => perm && perm.perc && perm.count);
+    .filter(perm => perm && perm.perc && perm.count > 3);
 
   return {
     perms: todaysPerms,

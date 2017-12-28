@@ -1,9 +1,9 @@
 const percBreakdowns = require('./percBreakdowns');
-const { calcStrategyPerformanceOverall } = require('./calcStrategyPerformance');
+const { overall } = require('./calcStrategyPerformance');
 
 module.exports = (todaysOutlook, testResults) => {
 
-  const strategyPerformance = calcStrategyPerformance(testResults);
+  const strategyPerformance = overall(testResults);
   // console.log(JSON.stringify(strategyPerformance, null, 2), 'stratperf');
 
   const newStrategies = Object.keys(todaysOutlook.strategies).reduce((acc, stratKey) => {

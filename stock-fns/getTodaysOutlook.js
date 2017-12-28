@@ -97,6 +97,10 @@ const getOutlookForMultiple = async arrStockTickers => {
   console.log(JSON.stringify(allResults, null, 2));
   console.log('-----------------------------');
   console.log('recommendations for the day');
+
+
+  // await fs.writeFile('./stock-predictions/')
+
   allResults.forEach((result, i) => {
     console.log(`${i+1}. ${result.stockTicker} - single metric: ${result.singleMetric} - [${result.importantMetrics}]`);
   });
