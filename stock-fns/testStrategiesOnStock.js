@@ -26,7 +26,7 @@ const testStrategiesOnStock = async stockTicker => {
     const testResultsFile = './stock-test-results/' + stockTicker + '.json';
     var prevTestResults = JSON.parse(await fs.readFile(testResultsFile, 'utf8'));
   } catch (e) {
-    console.error('y', e);
+    // console.error('y', e);
   }
 
   const testResults = testStrategies(upDownString, 365, null, dayArray, stockTicker, prevTestResults);
