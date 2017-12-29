@@ -12,7 +12,7 @@ const executePerms = require('../predict-fns/executePerms');
 const createPredictions = require('../predict-fns/createPredictions');
 
 // scraping
-const getHistoricalStock = require('../scraping/getHistoricalStock');
+const scrapeStock = require('../scraping/scrapeStock');
 
 const fs = require('mz/fs');
 
@@ -173,7 +173,7 @@ const getOutlookForMultiple = async arrStockTickers => {
     }
     if (shouldUpdate) {
       for (let ticker of tickers) {
-        await getHistoricalStock(ticker);
+        await scrapeStock(ticker);
       }
       console.log('done downloading historical data');
     }

@@ -1,16 +1,16 @@
 const cluster = require('cluster');
 const numCPUs = require('os').cpus().length;
 
-const getHistoricalStock = require('../scraping/getHistoricalStock');
+const scrapeStock = require('../scraping/scrapeStock');
 
 const masterProcess = async (tickers, shouldUpdate) => {
 
   // first check for updates
   if (shouldUpdate) {
     for (let ticker of tickers) {
-      await getHistoricalStock(ticker);
+      await scrapeStock(ticker);
     }
-    console.log('done downloading historical data');
+    console.log('done getting stock data');
   }
 
   // then run tests

@@ -5,9 +5,6 @@ const generateUpDownString = require('../utils/generateUpDownString');
 // predictFns
 const testStrategies = require('../strategy-testing/testStrategies');
 
-// scraping
-const getHistoricalStock = require('../scraping/getHistoricalStock');
-
 const fs = require('mz/fs');
 
 const testStrategiesOnStock = async stockTicker => {

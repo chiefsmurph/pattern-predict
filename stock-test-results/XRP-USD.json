@@ -2,6 +2,22 @@
   {
     "wentUpFollowingDay": true,
     "strategies": {
+      "avgPerc": 45.26714285714286,
+      "weightedPerc": 48.7842857142857
+    },
+    "rawData": {
+      "Date": "2017-12-27",
+      "Open": "1.070000",
+      "High": "1.280000",
+      "Low": "1.070000",
+      "Close": "1.210000",
+      "Adj Close": "1.210000",
+      "Volume": "426150824"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
       "avgPerc": 35.57714285714286,
       "weightedPerc": 34.06000000000002
     },

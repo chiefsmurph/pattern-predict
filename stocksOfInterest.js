@@ -74,5 +74,19 @@ module.exports = [
   'SFIX',
   'CBIS',
   'TRTC',
-  'INSYS',
+  'INSY',
+
+  'SID',
+  'AA',
+  'SWN',
+  'ACH',
+  'HALO',
+  'UNFI',
+  'AMC',
+  'CIG',
+  'HYSNF',
+  'LUK',
+  'NRG',
+  'ERF',
+  'CPG'
 ];

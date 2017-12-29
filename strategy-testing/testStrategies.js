@@ -7,7 +7,7 @@ const testStrategies = (upDownString, numDaysToTest, permsExecuted, dayArray, ti
 
   const testResults = [];
 
-  if (prevTestResults) {
+  if (prevTestResults && prevTestResults.length) {
     const lastDayTested = prevTestResults[0].rawData.Date;
     const reversedDayArray = dayArray.reduce((ary, ele) => { ary.unshift(ele); return ary }, []);
     numDaysToTest = reversedDayArray.findIndex(day => day.Date === lastDayTested) - 1;
