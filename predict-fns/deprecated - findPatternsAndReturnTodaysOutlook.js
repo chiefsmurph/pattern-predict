@@ -1,7 +1,7 @@
 const { MAX_DIGITS } = require('../settings');
 
 const executePerms = require('./executePerms');
-const testStrategies = require('./testStrategies');
+// const testStrategies = require('./testStrategies');
 const createPredictions = require('./createPredictions');
 
 const findPatternsAndReturnTodaysOutlook = (upDownString, options = {}) => {
@@ -14,11 +14,11 @@ const findPatternsAndReturnTodaysOutlook = (upDownString, options = {}) => {
     console.log('permutation patterns found in desc order');
     console.log(forPresenting);
   }
-  if (options.runTests) {
-    var testResults = testStrategies(upDownString, options.numTests || 30, options.executePermsEveryDay ? null : permsExecuted);
-  }
+  // if (options.runTests) {
+  //   var testResults = testStrategies(upDownString, options.numTests || 30, options.executePermsEveryDay ? null : permsExecuted);
+  // }
   const todaysOutlook = createPredictions(upDownString, permsExecuted);
-  return [todaysOutlook, testResults];
+  return todaysOutlook;
 };
 
 module.exports = findPatternsAndReturnTodaysOutlook;

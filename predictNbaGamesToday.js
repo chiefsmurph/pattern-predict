@@ -8,26 +8,42 @@ const getNbaGamesToday = require('./scraping/getNbaGamesToday');
 const basketballWlScraperCheerio = require('./scraping/basketballWlScraperCheerio');
 
 // predictFns
-const findPatternsAndReturnTodaysOutlook = require('./predict-fns/findPatternsAndReturnTodaysOutlook');
+const findPatternsAndReturnTodaysOutlook = require('./predict-fns/deprecated - findPatternsAndReturnTodaysOutlook');
 
 (async () => {
 
   const anotherDay = process.argv.slice(2).join(' ');
+  console.log({ anotherDay})
   const todaysGames = await getNbaGamesToday(anotherDay);
   console.log('todaysGames', todaysGames);
   const todaysPredictions = [];
   for (let matchup of todaysGames) {
-    console.log('scraping team ', matchup[0]);
-    const rawt1 = await basketballWlScraperCheerio(matchup[0]);
-    console.log('scraping team ', matchup[1]);
-    const rawt2 = await basketballWlScraperCheerio(matchup[1]);
+    const [rawt1, rawt2] = await Promise.all(
+      matchup.map(basketballWlScraperCheerio)
+    );
+    console.log(
+      JSON.stringify(
+        {
+          matchup,
+          rawt1,
+          rawt2,
+        },
+        null, 2
+      )
+    )
     console.log('----------------');
     console.log('now predicting...');
-    const t1UpDownString = Object.keys(rawt1).map(yr => rawt1[yr]).join('');
-    const t1Outlook = findPatternsAndReturnTodaysOutlook(t1UpDownString);
+    const [
+      t1Outlook,
+      t2Outlook
+    ] = [
+      rawt1,
+      rawt2
+    ].map(rawt => {
+      const upDownString = Object.keys(rawt).map(yr => rawt[yr]).join('');
+      return findPatternsAndReturnTodaysOutlook(upDownString).strategies;
+    });
     console.log('t1Outlook', t1Outlook);
-    const t2UpDownString = Object.keys(rawt2).map(yr => rawt2[yr]).join('');
-    const t2Outlook = findPatternsAndReturnTodaysOutlook(t2UpDownString);
     console.log('t2Outlook', t2Outlook);
     const winnerPrediction = t1Outlook.avgPerc > t2Outlook.avgPerc ? matchup[0] : matchup[1];
     todaysPredictions.push({
@@ -40,7 +56,13 @@ const findPatternsAndReturnTodaysOutlook = require('./predict-fns/findPatternsAn
     console.log('done predicting');
     console.log('----------------');
   }
-
+  console.log(
+    JSON.stringify(
+      todaysPredictions,
+      null,
+      2
+    )
+  )
   todaysPredictions.forEach(pred => {
     console.log(`game ${pred.team1} vs ${pred.team2} predicted winner: ${pred.winnerPrediction} with ${pred.confidence} confidence`);
   });

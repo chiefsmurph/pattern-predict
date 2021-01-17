@@ -79,7 +79,7 @@ const scrapeNewData = async (stock, currentDayArray) => {
               }
             });
 
-
+          console.log({ tdVal: tdVals[0] });
           if (tdVals[0] === lastDayScraped) {
             console.log('found it', i);
             return false;
@@ -110,7 +110,7 @@ const scrapeNewData = async (stock, currentDayArray) => {
 const getHistoricalStock = async stock => {
 
     console.log('starting to scrape historical content for ', stock);
-    const browser = await puppeteer.launch({headless: false});
+    const browser = await puppeteer.launch({headless: true});
     const page = await browser.newPage();
 
     // configure puppeteer

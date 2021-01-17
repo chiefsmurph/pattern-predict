@@ -12,7 +12,8 @@ const scrapeTeam = async(team) => {
 
     const scrapeSeason = async (year) => {
       return new Promise((resolve, reject) => {
-        request(`https://www.basketball-reference.com/teams/${team}/${year}_games.html`, function (error, response, html) {
+        const url = `https://www.basketball-reference.com/teams/${team}/${year}_games.html`;
+        request(url, function (error, response, html) {
           if (!error && response.statusCode == 200) {
             // console.log(html);
             var $ = cheerio.load(html);
@@ -31,7 +32,7 @@ const scrapeTeam = async(team) => {
     };
 
     const years = [];
-    for (let yr = 2018; yr > 2017 - 20; yr--) {
+    for (let yr = 2021; yr > 2017 - 20; yr--) {
       years.push(yr);
     }
     // console.log(years);

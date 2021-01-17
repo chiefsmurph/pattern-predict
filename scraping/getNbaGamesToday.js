@@ -18,9 +18,9 @@ const scrapeTodaysGames = async (anotherDay) => {
     const d = anotherDay ? new Date(anotherDay) : new Date();
     const currentMonth = getMonthName(d);
     const dayCommaYearStr = dayCommaYear(d);
-    console.log('dayCommaYearStr', dayCommaYearStr);
+    console.log('dayCommaYearStr', dayCommaYearStr, d.toLocaleDateString());
     return new Promise((resolve, reject) => {
-      const url = `https://www.basketball-reference.com/leagues/NBA_2018_games-${currentMonth}.html`;
+      const url = `https://www.basketball-reference.com/leagues/NBA_2021_games-${currentMonth}.html`;
       console.log('url', url);
       request(url, function (error, response, html) {
         if (!error && response.statusCode == 200) {

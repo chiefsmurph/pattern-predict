@@ -1,0 +1,5842 @@
+[
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 23.779999999999998,
+      "weightedPerc": 46.15
+    },
+    "rawData": {
+      "Date": "2021-01-14",
+      "Open": "3.550000",
+      "High": "3.550000",
+      "Low": "3.400000",
+      "Close": "3.470000",
+      "Adj Close": "3.470000",
+      "Volume": "34800"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 20,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2021-01-13",
+      "Open": "3.420000",
+      "High": "3.520000",
+      "Low": "3.341000",
+      "Close": "3.520000",
+      "Adj Close": "3.520000",
+      "Volume": "72400"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 15.79,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2021-01-12",
+      "Open": "3.360000",
+      "High": "3.430000",
+      "Low": "3.350000",
+      "Close": "3.380000",
+      "Adj Close": "3.380000",
+      "Volume": "44100"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 15.79,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2021-01-11",
+      "Open": "3.300000",
+      "High": "3.400000",
+      "Low": "3.279000",
+      "Close": "3.350000",
+      "Adj Close": "3.350000",
+      "Volume": "31000"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 17.759999999999998,
+      "weightedPerc": 22.269
+    },
+    "rawData": {
+      "Date": "2021-01-08",
+      "Open": "3.260000",
+      "High": "3.380000",
+      "Low": "3.150000",
+      "Close": "3.320000",
+      "Adj Close": "3.320000",
+      "Volume": "68100"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 32.053999999999995,
+      "weightedPerc": 40.64300000000001
+    },
+    "rawData": {
+      "Date": "2021-01-07",
+      "Open": "3.340000",
+      "High": "3.356000",
+      "Low": "3.220000",
+      "Close": "3.240000",
+      "Adj Close": "3.240000",
+      "Volume": "62100"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 10.6475,
+      "weightedPerc": 10.971666666666666
+    },
+    "rawData": {
+      "Date": "2021-01-06",
+      "Open": "3.220000",
+      "High": "3.400000",
+      "Low": "3.220000",
+      "Close": "3.280000",
+      "Adj Close": "3.280000",
+      "Volume": "111500"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 6.322,
+      "weightedPerc": 10.283999999999997
+    },
+    "rawData": {
+      "Date": "2021-01-05",
+      "Open": "3.360000",
+      "High": "3.500000",
+      "Low": "3.160000",
+      "Close": "3.300000",
+      "Adj Close": "3.300000",
+      "Volume": "257200"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 12.3225,
+      "weightedPerc": 20.055
+    },
+    "rawData": {
+      "Date": "2021-01-04",
+      "Open": "3.750000",
+      "High": "3.860000",
+      "Low": "3.350000",
+      "Close": "3.390000",
+      "Adj Close": "3.390000",
+      "Volume": "697800"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 25.393333333333334,
+      "weightedPerc": 36.11
+    },
+    "rawData": {
+      "Date": "2020-12-31",
+      "Open": "5.840000",
+      "High": "6.400000",
+      "Low": "4.010000",
+      "Close": "4.220000",
+      "Adj Close": "4.220000",
+      "Volume": "4122500"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 15.276666666666666,
+      "weightedPerc": 19.44333333333333
+    },
+    "rawData": {
+      "Date": "2020-12-30",
+      "Open": "3.720000",
+      "High": "4.990000",
+      "Low": "3.531000",
+      "Close": "4.810000",
+      "Adj Close": "4.810000",
+      "Volume": "5125700"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 27.064999999999998,
+      "weightedPerc": 35.919999999999995
+    },
+    "rawData": {
+      "Date": "2020-12-29",
+      "Open": "3.480000",
+      "High": "3.555000",
+      "Low": "3.300000",
+      "Close": "3.300000",
+      "Adj Close": "3.300000",
+      "Volume": "16500"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 11.176666666666668,
+      "weightedPerc": 10.436666666666666
+    },
+    "rawData": {
+      "Date": "2020-12-28",
+      "Open": "3.570000",
+      "High": "3.676000",
+      "Low": "3.550000",
+      "Close": "3.600000",
+      "Adj Close": "3.600000",
+      "Volume": "8800"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 7.145,
+      "weightedPerc": 11.431666666666667
+    },
+    "rawData": {
+      "Date": "2020-12-24",
+      "Open": "3.751000",
+      "High": "3.751000",
+      "Low": "3.550000",
+      "Close": "3.656000",
+      "Adj Close": "3.656000",
+      "Volume": "4700"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 24.97666666666667,
+      "weightedPerc": 37.12
+    },
+    "rawData": {
+      "Date": "2020-12-23",
+      "Open": "3.700000",
+      "High": "3.800000",
+      "Low": "3.660000",
+      "Close": "3.680000",
+      "Adj Close": "3.680000",
+      "Volume": "17500"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 12.145,
+      "weightedPerc": 10
+    },
+    "rawData": {
+      "Date": "2020-12-22",
+      "Open": "3.660000",
+      "High": "3.810000",
+      "Low": "3.500000",
+      "Close": "3.810000",
+      "Adj Close": "3.810000",
+      "Volume": "33800"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 15.475,
+      "weightedPerc": 30
+    },
+    "rawData": {
+      "Date": "2020-12-21",
+      "Open": "4.230000",
+      "High": "4.230000",
+      "Low": "3.570000",
+      "Close": "3.660000",
+      "Adj Close": "3.660000",
+      "Volume": "80600"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 14.29,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-12-18",
+      "Open": "3.016000",
+      "High": "4.680000",
+      "Low": "2.900000",
+      "Close": "4.680000",
+      "Adj Close": "4.680000",
+      "Volume": "109700"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 7.69,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-12-17",
+      "Open": "2.900000",
+      "High": "3.130000",
+      "Low": "2.900000",
+      "Close": "3.100000",
+      "Adj Close": "3.100000",
+      "Volume": "6600"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 0.6325,
+      "weightedPerc": 0.6499999999999997
+    },
+    "rawData": {
+      "Date": "2020-12-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6325,
+      "weightedPerc": 0.6499999999999997
+    },
+    "rawData": {
+      "Date": "2020-12-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6325,
+      "weightedPerc": 0.6499999999999997
+    },
+    "rawData": {
+      "Date": "2020-12-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63375,
+      "weightedPerc": 0.6517857142857141
+    },
+    "rawData": {
+      "Date": "2020-12-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63375,
+      "weightedPerc": 0.6517857142857141
+    },
+    "rawData": {
+      "Date": "2020-12-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63375,
+      "weightedPerc": 0.6517857142857141
+    },
+    "rawData": {
+      "Date": "2020-12-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63375,
+      "weightedPerc": 0.6517857142857141
+    },
+    "rawData": {
+      "Date": "2020-12-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63375,
+      "weightedPerc": 0.6517857142857141
+    },
+    "rawData": {
+      "Date": "2020-12-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.635,
+      "weightedPerc": 0.6517857142857141
+    },
+    "rawData": {
+      "Date": "2020-12-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.635,
+      "weightedPerc": 0.6517857142857141
+    },
+    "rawData": {
+      "Date": "2020-12-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63625,
+      "weightedPerc": 0.654285714285714
+    },
+    "rawData": {
+      "Date": "2020-12-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63625,
+      "weightedPerc": 0.654285714285714
+    },
+    "rawData": {
+      "Date": "2020-12-01",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-25",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.6549999999999997
+    },
+    "rawData": {
+      "Date": "2020-11-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63875,
+      "weightedPerc": 0.6560714285714283
+    },
+    "rawData": {
+      "Date": "2020-11-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.64375,
+      "weightedPerc": 0.6621428571428571
+    },
+    "rawData": {
+      "Date": "2020-11-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.64375,
+      "weightedPerc": 0.6621428571428571
+    },
+    "rawData": {
+      "Date": "2020-11-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.64375,
+      "weightedPerc": 0.6621428571428571
+    },
+    "rawData": {
+      "Date": "2020-11-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.64375,
+      "weightedPerc": 0.6621428571428571
+    },
+    "rawData": {
+      "Date": "2020-11-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.64625,
+      "weightedPerc": 0.6642857142857143
+    },
+    "rawData": {
+      "Date": "2020-11-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.64625,
+      "weightedPerc": 0.6642857142857143
+    },
+    "rawData": {
+      "Date": "2020-11-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.64625,
+      "weightedPerc": 0.6642857142857143
+    },
+    "rawData": {
+      "Date": "2020-11-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.64625,
+      "weightedPerc": 0.6642857142857143
+    },
+    "rawData": {
+      "Date": "2020-11-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6475,
+      "weightedPerc": 0.6649999999999999
+    },
+    "rawData": {
+      "Date": "2020-10-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6475,
+      "weightedPerc": 0.6649999999999999
+    },
+    "rawData": {
+      "Date": "2020-10-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6475,
+      "weightedPerc": 0.6649999999999999
+    },
+    "rawData": {
+      "Date": "2020-10-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6475,
+      "weightedPerc": 0.6649999999999999
+    },
+    "rawData": {
+      "Date": "2020-10-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6475,
+      "weightedPerc": 0.6649999999999999
+    },
+    "rawData": {
+      "Date": "2020-10-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6475,
+      "weightedPerc": 0.6649999999999999
+    },
+    "rawData": {
+      "Date": "2020-10-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6487499999999999,
+      "weightedPerc": 0.6667857142857141
+    },
+    "rawData": {
+      "Date": "2020-10-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6512500000000001,
+      "weightedPerc": 0.6689285714285715
+    },
+    "rawData": {
+      "Date": "2020-10-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6512500000000001,
+      "weightedPerc": 0.6689285714285715
+    },
+    "rawData": {
+      "Date": "2020-10-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6512500000000001,
+      "weightedPerc": 0.6689285714285715
+    },
+    "rawData": {
+      "Date": "2020-10-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6512500000000001,
+      "weightedPerc": 0.6689285714285715
+    },
+    "rawData": {
+      "Date": "2020-10-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6525000000000001,
+      "weightedPerc": 0.6714285714285717
+    },
+    "rawData": {
+      "Date": "2020-10-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6525000000000001,
+      "weightedPerc": 0.6714285714285717
+    },
+    "rawData": {
+      "Date": "2020-10-01",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65375,
+      "weightedPerc": 0.6717857142857147
+    },
+    "rawData": {
+      "Date": "2020-09-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65375,
+      "weightedPerc": 0.6717857142857147
+    },
+    "rawData": {
+      "Date": "2020-09-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.655,
+      "weightedPerc": 0.6725000000000003
+    },
+    "rawData": {
+      "Date": "2020-09-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.655,
+      "weightedPerc": 0.6725000000000003
+    },
+    "rawData": {
+      "Date": "2020-09-25",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.655,
+      "weightedPerc": 0.6725000000000003
+    },
+    "rawData": {
+      "Date": "2020-09-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65625,
+      "weightedPerc": 0.6742857142857146
+    },
+    "rawData": {
+      "Date": "2020-09-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65625,
+      "weightedPerc": 0.6742857142857146
+    },
+    "rawData": {
+      "Date": "2020-09-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65625,
+      "weightedPerc": 0.6742857142857146
+    },
+    "rawData": {
+      "Date": "2020-09-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65625,
+      "weightedPerc": 0.6742857142857146
+    },
+    "rawData": {
+      "Date": "2020-09-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65625,
+      "weightedPerc": 0.6742857142857146
+    },
+    "rawData": {
+      "Date": "2020-09-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65625,
+      "weightedPerc": 0.6742857142857146
+    },
+    "rawData": {
+      "Date": "2020-09-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.65625,
+      "weightedPerc": 0.6742857142857146
+    },
+    "rawData": {
+      "Date": "2020-09-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66,
+      "weightedPerc": 0.6782142857142858
+    },
+    "rawData": {
+      "Date": "2020-09-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66,
+      "weightedPerc": 0.6782142857142858
+    },
+    "rawData": {
+      "Date": "2020-09-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66,
+      "weightedPerc": 0.6782142857142858
+    },
+    "rawData": {
+      "Date": "2020-09-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66,
+      "weightedPerc": 0.6782142857142858
+    },
+    "rawData": {
+      "Date": "2020-09-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66,
+      "weightedPerc": 0.6782142857142858
+    },
+    "rawData": {
+      "Date": "2020-09-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66,
+      "weightedPerc": 0.6782142857142858
+    },
+    "rawData": {
+      "Date": "2020-09-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66,
+      "weightedPerc": 0.6782142857142858
+    },
+    "rawData": {
+      "Date": "2020-09-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66125,
+      "weightedPerc": 0.6792857142857143
+    },
+    "rawData": {
+      "Date": "2020-09-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66125,
+      "weightedPerc": 0.6792857142857143
+    },
+    "rawData": {
+      "Date": "2020-09-01",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66125,
+      "weightedPerc": 0.6792857142857143
+    },
+    "rawData": {
+      "Date": "2020-08-31",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6625000000000001,
+      "weightedPerc": 0.68
+    },
+    "rawData": {
+      "Date": "2020-08-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6625000000000001,
+      "weightedPerc": 0.68
+    },
+    "rawData": {
+      "Date": "2020-08-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6637500000000001,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-08-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6637500000000001,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-08-25",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66625,
+      "weightedPerc": 0.6864285714285715
+    },
+    "rawData": {
+      "Date": "2020-08-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66625,
+      "weightedPerc": 0.6864285714285715
+    },
+    "rawData": {
+      "Date": "2020-08-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66625,
+      "weightedPerc": 0.6864285714285715
+    },
+    "rawData": {
+      "Date": "2020-08-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66625,
+      "weightedPerc": 0.6864285714285715
+    },
+    "rawData": {
+      "Date": "2020-08-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.66875,
+      "weightedPerc": 0.6867857142857144
+    },
+    "rawData": {
+      "Date": "2020-08-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6712499999999999,
+      "weightedPerc": 0.6910714285714289
+    },
+    "rawData": {
+      "Date": "2020-08-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6357142857142856,
+      "weightedPerc": 0.614761904761905
+    },
+    "rawData": {
+      "Date": "2020-08-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.637142857142857,
+      "weightedPerc": 0.6157142857142859
+    },
+    "rawData": {
+      "Date": "2020-07-31",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.637142857142857,
+      "weightedPerc": 0.6157142857142859
+    },
+    "rawData": {
+      "Date": "2020-07-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6385714285714286,
+      "weightedPerc": 0.6185714285714287
+    },
+    "rawData": {
+      "Date": "2020-07-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6366666666666666,
+      "weightedPerc": 0.606
+    },
+    "rawData": {
+      "Date": "2020-07-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6366666666666666,
+      "weightedPerc": 0.606
+    },
+    "rawData": {
+      "Date": "2020-07-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 7.646666666666666,
+      "weightedPerc": 13.030277777777778
+    },
+    "rawData": {
+      "Date": "2020-07-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5839999999999999,
+      "weightedPerc": 0.4589999999999999
+    },
+    "rawData": {
+      "Date": "2020-07-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6349999999999999,
+      "weightedPerc": 0.5116666666666666
+    },
+    "rawData": {
+      "Date": "2020-07-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 7.114000000000002,
+      "weightedPerc": 11.88
+    },
+    "rawData": {
+      "Date": "2020-07-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 10.008,
+      "weightedPerc": 15.201999999999998
+    },
+    "rawData": {
+      "Date": "2020-07-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 27.305,
+      "weightedPerc": 36.805
+    },
+    "rawData": {
+      "Date": "2020-07-17",
+      "Open": "4.580000",
+      "High": "4.580000",
+      "Low": "4.580000",
+      "Close": "4.580000",
+      "Adj Close": "4.580000",
+      "Volume": "0"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 8.33,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-07-16",
+      "Open": "4.570000",
+      "High": "4.590000",
+      "Low": "4.570000",
+      "Close": "4.580000",
+      "Adj Close": "4.580000",
+      "Volume": "2100"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 5.1866666666666665,
+      "weightedPerc": 9.653333333333334
+    },
+    "rawData": {
+      "Date": "2020-07-15",
+      "Open": "4.528000",
+      "High": "4.528000",
+      "Low": "4.528000",
+      "Close": "4.528000",
+      "Adj Close": "4.528000",
+      "Volume": "0"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 31.0275,
+      "weightedPerc": 41.96666666666667
+    },
+    "rawData": {
+      "Date": "2020-07-14",
+      "Open": "4.528000",
+      "High": "4.528000",
+      "Low": "4.528000",
+      "Close": "4.528000",
+      "Adj Close": "4.528000",
+      "Volume": "200"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 9.09,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-07-13",
+      "Open": "4.500000",
+      "High": "4.535000",
+      "Low": "4.460000",
+      "Close": "4.535000",
+      "Adj Close": "4.535000",
+      "Volume": "4000"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 0.54,
+      "weightedPerc": 0.19
+    },
+    "rawData": {
+      "Date": "2020-07-10",
+      "Open": "4.535000",
+      "High": "4.535000",
+      "Low": "4.535000",
+      "Close": "4.535000",
+      "Adj Close": "4.535000",
+      "Volume": "0"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 21.875,
+      "weightedPerc": 42.86
+    },
+    "rawData": {
+      "Date": "2020-07-09",
+      "Open": "4.535000",
+      "High": "4.535000",
+      "Low": "4.535000",
+      "Close": "4.535000",
+      "Adj Close": "4.535000",
+      "Volume": "200"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 10,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-07-08",
+      "Open": "4.567000",
+      "High": "4.599000",
+      "Low": "4.567000",
+      "Close": "4.599000",
+      "Adj Close": "4.599000",
+      "Volume": "1300"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 10,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-07-07",
+      "Open": "4.450000",
+      "High": "4.520000",
+      "Low": "4.440000",
+      "Close": "4.520000",
+      "Adj Close": "4.520000",
+      "Volume": "2000"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": null,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-07-06",
+      "Open": "4.500000",
+      "High": "4.590000",
+      "Low": "4.500000",
+      "Close": "4.590000",
+      "Adj Close": "4.590000",
+      "Volume": "2000"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 26.815999999999995,
+      "weightedPerc": 33.32999999999999
+    },
+    "rawData": {
+      "Date": "2020-07-02",
+      "Open": "4.520000",
+      "High": "4.520000",
+      "Low": "4.520000",
+      "Close": "4.520000",
+      "Adj Close": "4.520000",
+      "Volume": "500"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": null,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-07-01",
+      "Open": "4.480000",
+      "High": "4.520000",
+      "Low": "4.480000",
+      "Close": "4.520000",
+      "Adj Close": "4.520000",
+      "Volume": "700"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 0.4466666666666667,
+      "weightedPerc": 0.4033333333333333
+    },
+    "rawData": {
+      "Date": "2020-06-30",
+      "Open": "4.460000",
+      "High": "4.460000",
+      "Low": "4.460000",
+      "Close": "4.460000",
+      "Adj Close": "4.460000",
+      "Volume": "1000"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.41500000000000004,
+      "weightedPerc": 0.19
+    },
+    "rawData": {
+      "Date": "2020-06-29",
+      "Open": "4.466000",
+      "High": "4.466000",
+      "Low": "4.420000",
+      "Close": "4.420000",
+      "Adj Close": "4.420000",
+      "Volume": "600"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 22.433333333333334,
+      "weightedPerc": 33.33
+    },
+    "rawData": {
+      "Date": "2020-06-26",
+      "Open": "4.475000",
+      "High": "4.510000",
+      "Low": "4.420000",
+      "Close": "4.420000",
+      "Adj Close": "4.420000",
+      "Volume": "5300"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": null,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-06-25",
+      "Open": "4.500000",
+      "High": "4.540000",
+      "Low": "4.450000",
+      "Close": "4.510000",
+      "Adj Close": "4.510000",
+      "Volume": "2800"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 16.75166666666667,
+      "weightedPerc": 20
+    },
+    "rawData": {
+      "Date": "2020-06-24",
+      "Open": "4.630000",
+      "High": "4.630000",
+      "Low": "4.450000",
+      "Close": "4.520000",
+      "Adj Close": "4.520000",
+      "Volume": "2400"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": null,
+      "weightedPerc": null
+    },
+    "rawData": {
+      "Date": "2020-06-23",
+      "Open": "4.512000",
+      "High": "4.573000",
+      "Low": "4.430000",
+      "Close": "4.550000",
+      "Adj Close": "4.550000",
+      "Volume": "3300"
+    }
+  },
+  {
+    "wentUpFollowingDay": true,
+    "strategies": {
+      "avgPerc": 0.5475,
+      "weightedPerc": 0.6617857142857145
+    },
+    "rawData": {
+      "Date": "2020-06-22",
+      "Open": "4.740000",
+      "High": "4.740000",
+      "Low": "4.540000",
+      "Close": "4.540000",
+      "Adj Close": "4.540000",
+      "Volume": "3200"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.54875,
+      "weightedPerc": 0.663214285714286
+    },
+    "rawData": {
+      "Date": "2020-06-19",
+      "Open": "4.570000",
+      "High": "4.700000",
+      "Low": "4.430000",
+      "Close": "4.530000",
+      "Adj Close": "4.530000",
+      "Volume": "8900"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.54875,
+      "weightedPerc": 0.663214285714286
+    },
+    "rawData": {
+      "Date": "2020-06-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55,
+      "weightedPerc": 0.6639285714285716
+    },
+    "rawData": {
+      "Date": "2020-06-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55375,
+      "weightedPerc": 0.6682142857142858
+    },
+    "rawData": {
+      "Date": "2020-06-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55375,
+      "weightedPerc": 0.6682142857142858
+    },
+    "rawData": {
+      "Date": "2020-06-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55375,
+      "weightedPerc": 0.6682142857142858
+    },
+    "rawData": {
+      "Date": "2020-06-01",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55375,
+      "weightedPerc": 0.6682142857142858
+    },
+    "rawData": {
+      "Date": "2020-05-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55375,
+      "weightedPerc": 0.6682142857142858
+    },
+    "rawData": {
+      "Date": "2020-05-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.555,
+      "weightedPerc": 0.6692857142857144
+    },
+    "rawData": {
+      "Date": "2020-05-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.555,
+      "weightedPerc": 0.6692857142857144
+    },
+    "rawData": {
+      "Date": "2020-05-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.555,
+      "weightedPerc": 0.6692857142857144
+    },
+    "rawData": {
+      "Date": "2020-05-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.555,
+      "weightedPerc": 0.6692857142857144
+    },
+    "rawData": {
+      "Date": "2020-05-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55625,
+      "weightedPerc": 0.6696428571428571
+    },
+    "rawData": {
+      "Date": "2020-05-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5575,
+      "weightedPerc": 0.6717857142857142
+    },
+    "rawData": {
+      "Date": "2020-05-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5575,
+      "weightedPerc": 0.6717857142857142
+    },
+    "rawData": {
+      "Date": "2020-05-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5575,
+      "weightedPerc": 0.6717857142857142
+    },
+    "rawData": {
+      "Date": "2020-05-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5575,
+      "weightedPerc": 0.6717857142857142
+    },
+    "rawData": {
+      "Date": "2020-05-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55875,
+      "weightedPerc": 0.6735714285714286
+    },
+    "rawData": {
+      "Date": "2020-05-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55875,
+      "weightedPerc": 0.6735714285714286
+    },
+    "rawData": {
+      "Date": "2020-05-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55875,
+      "weightedPerc": 0.6735714285714286
+    },
+    "rawData": {
+      "Date": "2020-05-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55875,
+      "weightedPerc": 0.6735714285714286
+    },
+    "rawData": {
+      "Date": "2020-05-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55875,
+      "weightedPerc": 0.6735714285714286
+    },
+    "rawData": {
+      "Date": "2020-05-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55875,
+      "weightedPerc": 0.6735714285714286
+    },
+    "rawData": {
+      "Date": "2020-05-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55875,
+      "weightedPerc": 0.6735714285714286
+    },
+    "rawData": {
+      "Date": "2020-05-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.55875,
+      "weightedPerc": 0.6735714285714286
+    },
+    "rawData": {
+      "Date": "2020-05-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56,
+      "weightedPerc": 0.6742857142857143
+    },
+    "rawData": {
+      "Date": "2020-05-01",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56,
+      "weightedPerc": 0.6742857142857143
+    },
+    "rawData": {
+      "Date": "2020-04-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56125,
+      "weightedPerc": 0.6757142857142856
+    },
+    "rawData": {
+      "Date": "2020-04-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56125,
+      "weightedPerc": 0.6757142857142856
+    },
+    "rawData": {
+      "Date": "2020-04-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56125,
+      "weightedPerc": 0.6757142857142856
+    },
+    "rawData": {
+      "Date": "2020-04-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56125,
+      "weightedPerc": 0.6757142857142856
+    },
+    "rawData": {
+      "Date": "2020-04-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56375,
+      "weightedPerc": 0.68
+    },
+    "rawData": {
+      "Date": "2020-04-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56375,
+      "weightedPerc": 0.68
+    },
+    "rawData": {
+      "Date": "2020-04-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56625,
+      "weightedPerc": 0.6821428571428572
+    },
+    "rawData": {
+      "Date": "2020-04-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5675,
+      "weightedPerc": 0.684642857142857
+    },
+    "rawData": {
+      "Date": "2020-04-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5675,
+      "weightedPerc": 0.684642857142857
+    },
+    "rawData": {
+      "Date": "2020-04-01",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5675,
+      "weightedPerc": 0.684642857142857
+    },
+    "rawData": {
+      "Date": "2020-03-31",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5675,
+      "weightedPerc": 0.684642857142857
+    },
+    "rawData": {
+      "Date": "2020-03-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5675,
+      "weightedPerc": 0.684642857142857
+    },
+    "rawData": {
+      "Date": "2020-03-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5675,
+      "weightedPerc": 0.684642857142857
+    },
+    "rawData": {
+      "Date": "2020-03-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5675,
+      "weightedPerc": 0.684642857142857
+    },
+    "rawData": {
+      "Date": "2020-03-25",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.56875,
+      "weightedPerc": 0.6864285714285712
+    },
+    "rawData": {
+      "Date": "2020-03-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5725,
+      "weightedPerc": 0.6903571428571426
+    },
+    "rawData": {
+      "Date": "2020-03-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5725,
+      "weightedPerc": 0.6903571428571426
+    },
+    "rawData": {
+      "Date": "2020-03-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5725,
+      "weightedPerc": 0.6903571428571426
+    },
+    "rawData": {
+      "Date": "2020-03-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5725,
+      "weightedPerc": 0.6903571428571426
+    },
+    "rawData": {
+      "Date": "2020-03-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5725,
+      "weightedPerc": 0.6903571428571426
+    },
+    "rawData": {
+      "Date": "2020-03-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5725,
+      "weightedPerc": 0.6903571428571426
+    },
+    "rawData": {
+      "Date": "2020-03-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.57375,
+      "weightedPerc": 0.692857142857143
+    },
+    "rawData": {
+      "Date": "2020-03-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.57375,
+      "weightedPerc": 0.692857142857143
+    },
+    "rawData": {
+      "Date": "2020-03-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.575,
+      "weightedPerc": 0.692857142857143
+    },
+    "rawData": {
+      "Date": "2020-03-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.575,
+      "weightedPerc": 0.692857142857143
+    },
+    "rawData": {
+      "Date": "2020-03-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.575,
+      "weightedPerc": 0.692857142857143
+    },
+    "rawData": {
+      "Date": "2020-03-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.575,
+      "weightedPerc": 0.692857142857143
+    },
+    "rawData": {
+      "Date": "2020-03-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.575,
+      "weightedPerc": 0.692857142857143
+    },
+    "rawData": {
+      "Date": "2020-03-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5762499999999999,
+      "weightedPerc": 0.6946428571428572
+    },
+    "rawData": {
+      "Date": "2020-03-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5762499999999999,
+      "weightedPerc": 0.6946428571428572
+    },
+    "rawData": {
+      "Date": "2020-03-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5762499999999999,
+      "weightedPerc": 0.6946428571428572
+    },
+    "rawData": {
+      "Date": "2020-03-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5775000000000001,
+      "weightedPerc": 0.6960714285714288
+    },
+    "rawData": {
+      "Date": "2020-02-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5775000000000001,
+      "weightedPerc": 0.6960714285714288
+    },
+    "rawData": {
+      "Date": "2020-02-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5775000000000001,
+      "weightedPerc": 0.6960714285714288
+    },
+    "rawData": {
+      "Date": "2020-02-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5775000000000001,
+      "weightedPerc": 0.6960714285714288
+    },
+    "rawData": {
+      "Date": "2020-02-25",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5787500000000001,
+      "weightedPerc": 0.6985714285714285
+    },
+    "rawData": {
+      "Date": "2020-02-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5787500000000001,
+      "weightedPerc": 0.6985714285714285
+    },
+    "rawData": {
+      "Date": "2020-02-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5787500000000001,
+      "weightedPerc": 0.6985714285714285
+    },
+    "rawData": {
+      "Date": "2020-02-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5787500000000001,
+      "weightedPerc": 0.6985714285714285
+    },
+    "rawData": {
+      "Date": "2020-02-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5787500000000001,
+      "weightedPerc": 0.6985714285714285
+    },
+    "rawData": {
+      "Date": "2020-02-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5787500000000001,
+      "weightedPerc": 0.6985714285714285
+    },
+    "rawData": {
+      "Date": "2020-02-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5787500000000001,
+      "weightedPerc": 0.6985714285714285
+    },
+    "rawData": {
+      "Date": "2020-02-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5800000000000001,
+      "weightedPerc": 0.7003571428571427
+    },
+    "rawData": {
+      "Date": "2020-02-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.58125,
+      "weightedPerc": 0.7010714285714286
+    },
+    "rawData": {
+      "Date": "2020-02-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.58125,
+      "weightedPerc": 0.7010714285714286
+    },
+    "rawData": {
+      "Date": "2020-02-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5825,
+      "weightedPerc": 0.7032142857142857
+    },
+    "rawData": {
+      "Date": "2020-02-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5825,
+      "weightedPerc": 0.7032142857142857
+    },
+    "rawData": {
+      "Date": "2020-02-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5825,
+      "weightedPerc": 0.7032142857142857
+    },
+    "rawData": {
+      "Date": "2020-02-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5825,
+      "weightedPerc": 0.7032142857142857
+    },
+    "rawData": {
+      "Date": "2020-02-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.585,
+      "weightedPerc": 0.7060714285714286
+    },
+    "rawData": {
+      "Date": "2020-02-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.585,
+      "weightedPerc": 0.7060714285714286
+    },
+    "rawData": {
+      "Date": "2020-01-31",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5862499999999999,
+      "weightedPerc": 0.7060714285714286
+    },
+    "rawData": {
+      "Date": "2020-01-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5862499999999999,
+      "weightedPerc": 0.7060714285714286
+    },
+    "rawData": {
+      "Date": "2020-01-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5862499999999999,
+      "weightedPerc": 0.7060714285714286
+    },
+    "rawData": {
+      "Date": "2020-01-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5862499999999999,
+      "weightedPerc": 0.7060714285714286
+    },
+    "rawData": {
+      "Date": "2020-01-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5862499999999999,
+      "weightedPerc": 0.7060714285714286
+    },
+    "rawData": {
+      "Date": "2020-01-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5875,
+      "weightedPerc": 0.7078571428571429
+    },
+    "rawData": {
+      "Date": "2020-01-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5875,
+      "weightedPerc": 0.7078571428571429
+    },
+    "rawData": {
+      "Date": "2020-01-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5875,
+      "weightedPerc": 0.7078571428571429
+    },
+    "rawData": {
+      "Date": "2020-01-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5875,
+      "weightedPerc": 0.7078571428571429
+    },
+    "rawData": {
+      "Date": "2020-01-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.58875,
+      "weightedPerc": 0.7089285714285714
+    },
+    "rawData": {
+      "Date": "2020-01-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.58875,
+      "weightedPerc": 0.7089285714285714
+    },
+    "rawData": {
+      "Date": "2020-01-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.58875,
+      "weightedPerc": 0.7089285714285714
+    },
+    "rawData": {
+      "Date": "2020-01-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.59,
+      "weightedPerc": 0.7114285714285711
+    },
+    "rawData": {
+      "Date": "2020-01-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.59,
+      "weightedPerc": 0.7114285714285711
+    },
+    "rawData": {
+      "Date": "2020-01-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.59125,
+      "weightedPerc": 0.7135714285714282
+    },
+    "rawData": {
+      "Date": "2020-01-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.59125,
+      "weightedPerc": 0.7135714285714282
+    },
+    "rawData": {
+      "Date": "2020-01-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.59375,
+      "weightedPerc": 0.7157142857142853
+    },
+    "rawData": {
+      "Date": "2020-01-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.59375,
+      "weightedPerc": 0.7157142857142853
+    },
+    "rawData": {
+      "Date": "2020-01-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.59375,
+      "weightedPerc": 0.7157142857142853
+    },
+    "rawData": {
+      "Date": "2020-01-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.595,
+      "weightedPerc": 0.7174999999999997
+    },
+    "rawData": {
+      "Date": "2020-01-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.595,
+      "weightedPerc": 0.7174999999999997
+    },
+    "rawData": {
+      "Date": "2019-12-31",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.595,
+      "weightedPerc": 0.7174999999999997
+    },
+    "rawData": {
+      "Date": "2019-12-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.595,
+      "weightedPerc": 0.7174999999999997
+    },
+    "rawData": {
+      "Date": "2019-12-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.595,
+      "weightedPerc": 0.7174999999999997
+    },
+    "rawData": {
+      "Date": "2019-12-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.595,
+      "weightedPerc": 0.7174999999999997
+    },
+    "rawData": {
+      "Date": "2019-12-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.595,
+      "weightedPerc": 0.7174999999999997
+    },
+    "rawData": {
+      "Date": "2019-12-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5975,
+      "weightedPerc": 0.7199999999999999
+    },
+    "rawData": {
+      "Date": "2019-12-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5975,
+      "weightedPerc": 0.7199999999999999
+    },
+    "rawData": {
+      "Date": "2019-12-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5975,
+      "weightedPerc": 0.7199999999999999
+    },
+    "rawData": {
+      "Date": "2019-12-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5975,
+      "weightedPerc": 0.7199999999999999
+    },
+    "rawData": {
+      "Date": "2019-12-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5975,
+      "weightedPerc": 0.7199999999999999
+    },
+    "rawData": {
+      "Date": "2019-12-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5975,
+      "weightedPerc": 0.7199999999999999
+    },
+    "rawData": {
+      "Date": "2019-12-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.5975,
+      "weightedPerc": 0.7199999999999999
+    },
+    "rawData": {
+      "Date": "2019-12-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.59875,
+      "weightedPerc": 0.7217857142857141
+    },
+    "rawData": {
+      "Date": "2019-12-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6,
+      "weightedPerc": 0.7239285714285717
+    },
+    "rawData": {
+      "Date": "2019-12-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6,
+      "weightedPerc": 0.7239285714285717
+    },
+    "rawData": {
+      "Date": "2019-12-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6,
+      "weightedPerc": 0.7239285714285717
+    },
+    "rawData": {
+      "Date": "2019-12-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6,
+      "weightedPerc": 0.7239285714285717
+    },
+    "rawData": {
+      "Date": "2019-12-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6,
+      "weightedPerc": 0.7239285714285717
+    },
+    "rawData": {
+      "Date": "2019-12-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6,
+      "weightedPerc": 0.7239285714285717
+    },
+    "rawData": {
+      "Date": "2019-12-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.60125,
+      "weightedPerc": 0.726428571428572
+    },
+    "rawData": {
+      "Date": "2019-12-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.60125,
+      "weightedPerc": 0.726428571428572
+    },
+    "rawData": {
+      "Date": "2019-11-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.60125,
+      "weightedPerc": 0.726428571428572
+    },
+    "rawData": {
+      "Date": "2019-11-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.60125,
+      "weightedPerc": 0.726428571428572
+    },
+    "rawData": {
+      "Date": "2019-11-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6024999999999999,
+      "weightedPerc": 0.7271428571428576
+    },
+    "rawData": {
+      "Date": "2019-11-25",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6024999999999999,
+      "weightedPerc": 0.7271428571428576
+    },
+    "rawData": {
+      "Date": "2019-11-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.60375,
+      "weightedPerc": 0.728571428571429
+    },
+    "rawData": {
+      "Date": "2019-11-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.605,
+      "weightedPerc": 0.7303571428571434
+    },
+    "rawData": {
+      "Date": "2019-11-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.605,
+      "weightedPerc": 0.7303571428571434
+    },
+    "rawData": {
+      "Date": "2019-11-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.60625,
+      "weightedPerc": 0.7314285714285719
+    },
+    "rawData": {
+      "Date": "2019-11-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.60625,
+      "weightedPerc": 0.7314285714285719
+    },
+    "rawData": {
+      "Date": "2019-11-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.60625,
+      "weightedPerc": 0.7314285714285719
+    },
+    "rawData": {
+      "Date": "2019-11-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6075,
+      "weightedPerc": 0.7314285714285719
+    },
+    "rawData": {
+      "Date": "2019-11-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6075,
+      "weightedPerc": 0.7314285714285719
+    },
+    "rawData": {
+      "Date": "2019-11-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6100000000000001,
+      "weightedPerc": 0.7360714285714287
+    },
+    "rawData": {
+      "Date": "2019-11-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6100000000000001,
+      "weightedPerc": 0.7360714285714287
+    },
+    "rawData": {
+      "Date": "2019-11-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6100000000000001,
+      "weightedPerc": 0.7360714285714287
+    },
+    "rawData": {
+      "Date": "2019-11-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6100000000000001,
+      "weightedPerc": 0.7360714285714287
+    },
+    "rawData": {
+      "Date": "2019-11-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6100000000000001,
+      "weightedPerc": 0.7360714285714287
+    },
+    "rawData": {
+      "Date": "2019-11-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6100000000000001,
+      "weightedPerc": 0.7360714285714287
+    },
+    "rawData": {
+      "Date": "2019-11-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6100000000000001,
+      "weightedPerc": 0.7360714285714287
+    },
+    "rawData": {
+      "Date": "2019-11-01",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6112500000000001,
+      "weightedPerc": 0.7378571428571429
+    },
+    "rawData": {
+      "Date": "2019-10-31",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6112500000000001,
+      "weightedPerc": 0.7378571428571429
+    },
+    "rawData": {
+      "Date": "2019-10-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6112500000000001,
+      "weightedPerc": 0.7378571428571429
+    },
+    "rawData": {
+      "Date": "2019-10-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6125,
+      "weightedPerc": 0.7382142857142858
+    },
+    "rawData": {
+      "Date": "2019-10-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6125,
+      "weightedPerc": 0.7382142857142858
+    },
+    "rawData": {
+      "Date": "2019-10-25",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6125,
+      "weightedPerc": 0.7382142857142858
+    },
+    "rawData": {
+      "Date": "2019-10-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6125,
+      "weightedPerc": 0.7382142857142858
+    },
+    "rawData": {
+      "Date": "2019-10-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.615,
+      "weightedPerc": 0.7414285714285717
+    },
+    "rawData": {
+      "Date": "2019-10-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.615,
+      "weightedPerc": 0.7414285714285717
+    },
+    "rawData": {
+      "Date": "2019-10-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.615,
+      "weightedPerc": 0.7414285714285717
+    },
+    "rawData": {
+      "Date": "2019-10-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.615,
+      "weightedPerc": 0.7414285714285717
+    },
+    "rawData": {
+      "Date": "2019-10-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.615,
+      "weightedPerc": 0.7414285714285717
+    },
+    "rawData": {
+      "Date": "2019-10-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.615,
+      "weightedPerc": 0.7414285714285717
+    },
+    "rawData": {
+      "Date": "2019-10-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.61625,
+      "weightedPerc": 0.7435714285714287
+    },
+    "rawData": {
+      "Date": "2019-10-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6175,
+      "weightedPerc": 0.745357142857143
+    },
+    "rawData": {
+      "Date": "2019-10-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.61875,
+      "weightedPerc": 0.745357142857143
+    },
+    "rawData": {
+      "Date": "2019-10-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.61875,
+      "weightedPerc": 0.745357142857143
+    },
+    "rawData": {
+      "Date": "2019-10-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.61875,
+      "weightedPerc": 0.745357142857143
+    },
+    "rawData": {
+      "Date": "2019-10-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.61875,
+      "weightedPerc": 0.745357142857143
+    },
+    "rawData": {
+      "Date": "2019-10-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.61875,
+      "weightedPerc": 0.745357142857143
+    },
+    "rawData": {
+      "Date": "2019-10-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.61875,
+      "weightedPerc": 0.745357142857143
+    },
+    "rawData": {
+      "Date": "2019-10-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62125,
+      "weightedPerc": 0.7492857142857142
+    },
+    "rawData": {
+      "Date": "2019-10-02",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62125,
+      "weightedPerc": 0.7492857142857142
+    },
+    "rawData": {
+      "Date": "2019-10-01",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6224999999999999,
+      "weightedPerc": 0.7514285714285712
+    },
+    "rawData": {
+      "Date": "2019-09-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6224999999999999,
+      "weightedPerc": 0.7514285714285712
+    },
+    "rawData": {
+      "Date": "2019-09-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6224999999999999,
+      "weightedPerc": 0.7514285714285712
+    },
+    "rawData": {
+      "Date": "2019-09-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6224999999999999,
+      "weightedPerc": 0.7514285714285712
+    },
+    "rawData": {
+      "Date": "2019-09-25",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6224999999999999,
+      "weightedPerc": 0.7514285714285712
+    },
+    "rawData": {
+      "Date": "2019-09-24",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.625,
+      "weightedPerc": 0.7542857142857142
+    },
+    "rawData": {
+      "Date": "2019-09-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.625,
+      "weightedPerc": 0.7542857142857142
+    },
+    "rawData": {
+      "Date": "2019-09-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.625,
+      "weightedPerc": 0.7542857142857142
+    },
+    "rawData": {
+      "Date": "2019-09-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62625,
+      "weightedPerc": 0.7549999999999999
+    },
+    "rawData": {
+      "Date": "2019-09-18",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62625,
+      "weightedPerc": 0.7549999999999999
+    },
+    "rawData": {
+      "Date": "2019-09-17",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62625,
+      "weightedPerc": 0.7549999999999999
+    },
+    "rawData": {
+      "Date": "2019-09-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62625,
+      "weightedPerc": 0.7549999999999999
+    },
+    "rawData": {
+      "Date": "2019-09-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6275,
+      "weightedPerc": 0.7575000000000002
+    },
+    "rawData": {
+      "Date": "2019-09-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6275,
+      "weightedPerc": 0.7575000000000002
+    },
+    "rawData": {
+      "Date": "2019-09-11",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6275,
+      "weightedPerc": 0.7575000000000002
+    },
+    "rawData": {
+      "Date": "2019-09-10",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6275,
+      "weightedPerc": 0.7575000000000002
+    },
+    "rawData": {
+      "Date": "2019-09-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62875,
+      "weightedPerc": 0.7575000000000002
+    },
+    "rawData": {
+      "Date": "2019-09-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62875,
+      "weightedPerc": 0.7575000000000002
+    },
+    "rawData": {
+      "Date": "2019-09-05",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.62875,
+      "weightedPerc": 0.7575000000000002
+    },
+    "rawData": {
+      "Date": "2019-09-04",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63,
+      "weightedPerc": 0.7592857142857145
+    },
+    "rawData": {
+      "Date": "2019-09-03",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63125,
+      "weightedPerc": 0.7614285714285716
+    },
+    "rawData": {
+      "Date": "2019-08-30",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63125,
+      "weightedPerc": 0.7614285714285716
+    },
+    "rawData": {
+      "Date": "2019-08-29",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63125,
+      "weightedPerc": 0.7614285714285716
+    },
+    "rawData": {
+      "Date": "2019-08-28",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63125,
+      "weightedPerc": 0.7614285714285716
+    },
+    "rawData": {
+      "Date": "2019-08-27",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63125,
+      "weightedPerc": 0.7614285714285716
+    },
+    "rawData": {
+      "Date": "2019-08-26",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63125,
+      "weightedPerc": 0.7614285714285716
+    },
+    "rawData": {
+      "Date": "2019-08-23",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6325000000000001,
+      "weightedPerc": 0.7639285714285712
+    },
+    "rawData": {
+      "Date": "2019-08-22",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6325000000000001,
+      "weightedPerc": 0.7639285714285712
+    },
+    "rawData": {
+      "Date": "2019-08-21",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.635,
+      "weightedPerc": 0.7660714285714284
+    },
+    "rawData": {
+      "Date": "2019-08-20",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.635,
+      "weightedPerc": 0.7660714285714284
+    },
+    "rawData": {
+      "Date": "2019-08-19",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.635,
+      "weightedPerc": 0.7660714285714284
+    },
+    "rawData": {
+      "Date": "2019-08-16",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.635,
+      "weightedPerc": 0.7660714285714284
+    },
+    "rawData": {
+      "Date": "2019-08-15",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.635,
+      "weightedPerc": 0.7660714285714284
+    },
+    "rawData": {
+      "Date": "2019-08-14",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63625,
+      "weightedPerc": 0.7678571428571427
+    },
+    "rawData": {
+      "Date": "2019-08-13",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63625,
+      "weightedPerc": 0.7678571428571427
+    },
+    "rawData": {
+      "Date": "2019-08-12",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63625,
+      "weightedPerc": 0.7678571428571427
+    },
+    "rawData": {
+      "Date": "2019-08-09",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63625,
+      "weightedPerc": 0.7678571428571427
+    },
+    "rawData": {
+      "Date": "2019-08-08",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.63625,
+      "weightedPerc": 0.7678571428571427
+    },
+    "rawData": {
+      "Date": "2019-08-07",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  },
+  {
+    "wentUpFollowingDay": false,
+    "strategies": {
+      "avgPerc": 0.6375,
+      "weightedPerc": 0.7678571428571427
+    },
+    "rawData": {
+      "Date": "2019-08-06",
+      "Open": "null",
+      "High": "null",
+      "Low": "null",
+      "Close": "null",
+      "Adj Close": "null",
+      "Volume": "null"
+    }
+  }
+]

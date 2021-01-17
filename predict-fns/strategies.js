@@ -2,7 +2,7 @@ const arrayAvg = require('../utils/arrayAvg');
 
 // takes in todaysPerms and generates final calls
 
-module.exports = (todaysPerms, { dayArray, index }) => {
+module.exports = (todaysPerms, { dayArray, index } = {}) => {
   const avgPerc = arrayAvg(todaysPerms.map(perm => perm.perc));
   return {
 

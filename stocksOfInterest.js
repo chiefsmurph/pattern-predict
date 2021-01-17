@@ -23,18 +23,18 @@ module.exports = [
 
 
   // cryptos
-  'BTC-USD',
-  'ETH-USD',
-  'VEN-USD',
-  'XRP-USD',
-  'LTC-USD',
-  'BCH-USD',
-  'QTUM-USD',
-  'XLM-USD',
-  'XVG-USD',
-  'DASH-USD',
-  'SC-USD',
-  'QASH-USD',
+  // 'BTC-USD',
+  // 'ETH-USD',
+  // 'VEN-USD',
+  // 'XRP-USD',
+  // 'LTC-USD',
+  // 'BCH-USD',
+  // 'QTUM-USD',
+  // 'XLM-USD',
+  // 'XVG-USD',
+  // 'DASH-USD',
+  // 'SC-USD',
+  // 'QASH-USD',
 
   //dec 27
   // 'DRYS',
