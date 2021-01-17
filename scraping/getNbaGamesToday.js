@@ -2,47 +2,49 @@ const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('mz/fs');
 
+
 const getMonthName = date => {
   console.log('month name')
   const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-  return monthNames[date.getMonth()].toLowerCase();
+  return monthNames[date.getMonth()];
 };
-const dayCommaYear = date => {
+
+const getDateStr = date => {
   console.log('day comma')
-  return date.getDate() + ", " + date.getFullYear();
+  return getMonthName(date).slice(0, 3) + ' ' + date.getDate() + ", " + date.getFullYear();
 };
 
-const scrapeTodaysGames = async (anotherDay) => {
 
-    console.log('scraping todays games');
-    const d = anotherDay ? new Date(anotherDay) : new Date();
-    const currentMonth = getMonthName(d);
-    const dayCommaYearStr = dayCommaYear(d);
-    console.log('dayCommaYearStr', dayCommaYearStr, d.toLocaleDateString());
-    return new Promise((resolve, reject) => {
-      const url = `https://www.basketball-reference.com/leagues/NBA_2021_games-${currentMonth}.html`;
-      console.log('url', url);
-      request(url, function (error, response, html) {
-        if (!error && response.statusCode == 200) {
-          // console.log(html);
-          var $ = cheerio.load(html);
-          const gamesToday = [];
-          $('table#schedule tr').each(function(i, el) {
-            const $this = $(this);
-            console.log($this.text());
-            const isGameToday = $this.find('th').text().includes(' ' + dayCommaYearStr);
-            if (isGameToday) {
-              gamesToday.push([
-                  $this.find('td:nth-child(3) a').attr('href').split('/')[2],
-                  $this.find('td:nth-child(5) a').attr('href').split('/')[2]
-              ]);
-            }
-          });
-          resolve(gamesToday);
-        }
-      });
+const scrapeTodaysGames = async dateStr => {
+  const d = new Date(dateStr);
+  const currentMonth = getMonthName(d);
+  const dayCommaYearStr = getDateStr(d);
+
+  console.log('scraping todays games');
+  console.log({ dayCommaYearStr });
+  return new Promise((resolve, reject) => {
+    const url = `https://www.basketball-reference.com/leagues/NBA_2021_games-${currentMonth.toLowerCase()}.html`;
+    console.log('url', url);
+    request(url, function (error, response, html) {
+      if (!error && response.statusCode == 200) {
+        // console.log(html);
+        var $ = cheerio.load(html);
+        const gamesToday = [];
+        $('table#schedule tr').each(function(i, el) {
+          const $this = $(this);
+          console.log($this.text());
+          const isGameToday = $this.find('th').text().includes(' ' + dayCommaYearStr);
+          if (isGameToday) {
+            gamesToday.push([
+                $this.find('td:nth-child(3) a').attr('href').split('/')[2],
+                $this.find('td:nth-child(5) a').attr('href').split('/')[2]
+            ]);
+          }
+        });
+        resolve(gamesToday);
+      }
     });
-
+  });
 };
 
 // (async() => {

@@ -13,6 +13,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "csvtojson": "^1.1.9",
+    "express": "^4.17.1",
     "mz": "^2.7.0",
     "puppeteer": "^0.13.0",
     "request": "^2.83.0"
