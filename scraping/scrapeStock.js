@@ -110,7 +110,7 @@ const scrapeNewData = async (stock, currentDayArray) => {
 const getHistoricalStock = async stock => {
 
     console.log('starting to scrape historical content for ', stock);
-    const browser = await puppeteer.launch({headless: true});
+    const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage();
 
     // configure puppeteer
@@ -134,15 +134,13 @@ const getHistoricalStock = async stock => {
     });
     console.log(stock, ': loaded page');
     await timeoutPromise(2000);
-    await page.click('section > div > div > div span span svg');
+    await page.click('section > div > div > div > div > div span');  // time period dropdown
     await timeoutPromise(100);
-    await page.click('span[data-value="MAX"]');
+    await page.click('button[data-value="MAX"]');   // max timeperiod
     await timeoutPromise(100);
-    await page.click('div[data-test="date-picker-menu"] div button span');
-    await timeoutPromise(500);
-    await page.click('section > div > div > button');
+    await page.click('section > div > div > button'); // apply
     await timeoutPromise(5000);
-    await page.click('section > div div span a');
+    await page.click('section > div div span a'); // download
     await timeoutPromise(1000);
 
 
