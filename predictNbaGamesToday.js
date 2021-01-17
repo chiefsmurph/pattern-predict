@@ -65,7 +65,7 @@ const predictGames = cacheThis(async dateStr => {
   )
 
   const predictionStrings = todaysPredictions.map(pred =>
-    `game ${pred.team1} vs ${pred.team2} predicted winner: ${pred.winnerPrediction} with ${Math.round(pred.confidence)} confidence`
+    `${pred.team1} vs ${pred.team2} predicted winner: ${pred.winnerPrediction} with ${Math.round(pred.confidence)} confidence`
   );
 
   return {
