@@ -7,7 +7,7 @@ const predictNbaGames = require('./predictNbaGamesToday');
 
 /// FOR PREDICTING NBA GAMES
 app.get('/nba/:anotherDay?', async (req, res) => {
-    const asJSON = req.params.json;
+    const asJSON = req.query.json !== undefined;
     console.log({ asJSON });
     try {
         const prediction = await predictNbaGames(req.params.anotherDay);
