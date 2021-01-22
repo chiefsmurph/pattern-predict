@@ -35,22 +35,39 @@ const predictGames = cacheThis(async dateStr => {
       )
       console.log('----------------');
       console.log('now predicting...');
+      const getRecord = raw => {
+        const chars = raw[Object.keys(raw).pop()].split('');
+        const wins = chars.filter(c => c === '1').length;
+        const losses = chars.filter(c => c === '0').length;
+        return [wins, losses].join('-');
+      };
       const [
-        t1Outlook,
-        t2Outlook
+        {
+          outlook: t1Outlook,
+          record: t1Record
+        },
+        {
+          outlook: t2Outlook,
+          record: t2Record
+        }
       ] = [
         rawt1,
         rawt2
       ].map(rawt => {
         const upDownString = Object.keys(rawt).map(yr => rawt[yr]).join('');
-        return findPatternsAndReturnTodaysOutlook(upDownString).strategies;
+        return {
+          outlook: findPatternsAndReturnTodaysOutlook(upDownString).strategies,
+          record: getRecord(rawt)
+        };
       });
       console.log('t1Outlook', t1Outlook);
       console.log('t2Outlook', t2Outlook);
       const winnerPrediction = t1Outlook.avgPerc > t2Outlook.avgPerc ? matchup[0] : matchup[1];
       return {
         team1: matchup[0],
+        t1Record,
         team2: matchup[1],
+        t2Record,
         winnerPrediction,
         confidence: Math.abs(t1Outlook.avgPerc - t2Outlook.avgPerc)
       };
