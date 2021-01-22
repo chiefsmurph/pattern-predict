@@ -65,7 +65,7 @@ const predictGames = cacheThis(async dateStr => {
         t1.strategies.avgPerc - t2.strategies.avgPerc,
         t1.strategies.weightedPerc - t2.strategies.weightedPerc
       ];
-      const winnerPrediction = values.every(v => v > 0) ? team1 : team2;
+      const winningTeam = values.every(v => v > 0) ? team1 : team2;
       const confidence = Math.max(
         ...values.map(Math.abs)
       );
@@ -81,7 +81,7 @@ const predictGames = cacheThis(async dateStr => {
           },
         },
         prediction: {
-          winnerPrediction,
+          winningTeam,
           confidence,
         }
       };
