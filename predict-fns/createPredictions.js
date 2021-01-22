@@ -17,7 +17,7 @@ const createPredictions = (upDownString, permsExecuted, additionalData) => {
     return permsExecuted.find(obj => obj.perm === perm);
   };
 
-  const todaysPerms = getTodaysPerms(last2YearsUpDown, MAX_DIGITS, 4)
+  const todaysPerms = getTodaysPerms(last2YearsUpDown, MAX_DIGITS, 3)
     .map(perm => getPerm(perm))
     .filter(perm => perm && perm.perc && perm.count > 3);
 
