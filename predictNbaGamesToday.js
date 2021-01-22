@@ -69,7 +69,7 @@ const predictGames = cacheThis(async dateStr => {
         team2: matchup[1],
         t2Record,
         winnerPrediction,
-        confidence: Math.abs(t1Outlook.avgPerc - t2Outlook.avgPerc)
+        confidence: Math.abs(t1Outlook.weightedPerc - t2Outlook.weightedPerc)
       };
     })
   );
@@ -82,7 +82,7 @@ const predictGames = cacheThis(async dateStr => {
   )
 
   const predictionStrings = todaysPredictions.map(pred =>
-    `${pred.team1} vs ${pred.team2} predicted winner: ${pred.winnerPrediction} with ${Math.round(pred.confidence)} confidence`
+    `${pred.team1} (${pred.t1Record}) @ ${pred.team2} (${pred.t2Record}) predicted winner: ${pred.winnerPrediction} with ${Math.round(pred.confidence)} confidence`
   );
 
   return {
