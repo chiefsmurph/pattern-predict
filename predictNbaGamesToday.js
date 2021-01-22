@@ -35,41 +35,55 @@ const predictGames = cacheThis(async dateStr => {
       )
       console.log('----------------');
       console.log('now predicting...');
-      const getRecord = raw => {
+      const getThisSeason = raw => {
         const chars = raw[Object.keys(raw).pop()].split('');
         const wins = chars.filter(c => c === '1').length;
         const losses = chars.filter(c => c === '0').length;
-        return [wins, losses].join('-');
+        return {
+          thisSeason: chars.join(''),
+          record: [wins, losses].join('-')
+        };
       };
       const [
-        {
-          outlook: t1Outlook,
-          record: t1Record
-        },
-        {
-          outlook: t2Outlook,
-          record: t2Record
-        }
+        t1,
+        t2
       ] = [
         rawt1,
         rawt2
       ].map(rawt => {
+        const thisSeason = getThisSeason(rawt);
         const upDownString = Object.keys(rawt).map(yr => rawt[yr]).join('');
         return {
-          outlook: findPatternsAndReturnTodaysOutlook(upDownString).strategies,
-          record: getRecord(rawt)
+          ...findPatternsAndReturnTodaysOutlook(upDownString, {
+            maxDigits: thisSeason.length
+          }),
+          ...thisSeason
         };
       });
-      console.log('t1Outlook', t1Outlook);
-      console.log('t2Outlook', t2Outlook);
-      const winnerPrediction = t1Outlook.avgPerc > t2Outlook.avgPerc ? matchup[0] : matchup[1];
+      const [team1, team2] = matchup;
+      const values = [
+        t1.strategies.avgPerc - t2.strategies.avgPerc,
+        t1.strategies.weightedPerc - t2.strategies.weightedPerc
+      ];
+      const winnerPrediction = values.every(v => v > 0) ? team1 : team2;
+      const confidence = Math.max(
+        ...values.map(Math.abs)
+      );
       return {
-        team1: matchup[0],
-        t1Record,
-        team2: matchup[1],
-        t2Record,
-        winnerPrediction,
-        confidence: Math.abs(t1Outlook.weightedPerc - t2Outlook.weightedPerc)
+        teams: {
+          away: {
+            name: team1,
+            ...t1,
+          },
+          home: {
+            name: team2,
+            ...t2,
+          },
+        },
+        prediction: {
+          winnerPrediction,
+          confidence,
+        }
       };
     })
   );
@@ -81,13 +95,13 @@ const predictGames = cacheThis(async dateStr => {
     )
   )
 
-  const predictionStrings = todaysPredictions.map(pred =>
-    `${pred.team1} (${pred.t1Record}) @ ${pred.team2} (${pred.t2Record}) predicted winner: ${pred.winnerPrediction} with ${Math.round(pred.confidence)} confidence`
-  );
+  // const predictionStrings = todaysPredictions.map(pred =>
+  //   `${pred.team1} (${pred.t1.record}) @ ${pred.team2} (${pred.t2.record}) predicted winner: ${pred.winnerPrediction} with ${Math.round(pred.confidence)} confidence`
+  // );
 
   return {
     date: dateStr,
-    predictions: predictionStrings
+    games: todaysPredictions,
   };
 
 

@@ -5,7 +5,7 @@ const executePerms = require('./executePerms');
 const createPredictions = require('./createPredictions');
 
 const findPatternsAndReturnTodaysOutlook = (upDownString, options = {}) => {
-  const permsExecuted = executePerms(upDownString, MAX_DIGITS);
+  const permsExecuted = executePerms(upDownString, Math.min(MAX_DIGITS, options.maxDigits));
 
   if (options.showPerms) {
     const forPresenting = permsExecuted

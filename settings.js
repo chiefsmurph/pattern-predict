@@ -1,3 +1,3 @@
 module.exports = {
-  MAX_DIGITS: 14
+  MAX_DIGITS: 15
 };
