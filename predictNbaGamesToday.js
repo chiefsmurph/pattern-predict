@@ -54,10 +54,10 @@ const predictGames = cacheThis(async dateStr => {
         const thisSeason = getThisSeason(rawt);
         const upDownString = Object.keys(rawt).map(yr => rawt[yr]).join('');
         return {
+          ...thisSeason,
           ...findPatternsAndReturnTodaysOutlook(upDownString, {
             maxDigits: thisSeason.length
           }),
-          ...thisSeason
         };
       });
       const [team1, team2] = matchup;
