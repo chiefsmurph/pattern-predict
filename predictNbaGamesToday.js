@@ -6,6 +6,7 @@ const fs = require('mz/fs')
 // nba scraping
 const getNbaGamesToday = require('./scraping/getNbaGamesToday');
 const basketballWlScraperCheerio = require('./scraping/basketballWlScraperCheerio');
+const getSportsbook = require('./scraping/basketballSportsbook');
 
 // predictFns
 const findPatternsAndReturnTodaysOutlook = require('./predict-fns/deprecated - findPatternsAndReturnTodaysOutlook');
@@ -67,12 +68,14 @@ const predictGames = cacheThis(async dateStr => {
       );
       return {
         teams: {
-          away: {
+          home: {
             name: team1Name,
+            shortName: team1,
             ...t1,
           },
-          home: {
+          away: {
             name: team2Name,
+            shortName: matchup,
             ...t2,
           },
         },
@@ -105,7 +108,24 @@ const predictGames = cacheThis(async dateStr => {
 
 
 const addSportsBookOdds = async prediction => {
-  
+  console.log('adding sportsbook odds...')
+  const sportsbook = await getSportsbook();
+  if (prediction.date !== sportsbook.date) {
+    console.log(`sorry the dates didn't align`);
+    return;
+  }
+  prediction.games.forEach(game => {
+    const shortHome = game.teams.home.shortName;
+    console.log({ shortHome })
+    console.log(JSON.stringify({ sportsBookGames: sportsbook.games }, null, 2));
+    const relatedBookGame = sportsbook.games.find(bookGame => bookGame.home.team === shortHome);
+    if (!relatedBookGame) return console.log('couldnt find that game');
+    console.log({ relatedBookGame });
+    game.teams.home.sportsbook = relatedBookGame.home;
+    delete games.teams.home.sportsbook.teamName;
+    game.teams.away.sportsbook = relatedBookGame.away;
+    delete games.teams.home.sportsbook.teamName;
+  });
 };
 
 
@@ -117,8 +137,9 @@ module.exports = async anotherDay => {
     anotherDay,
     dateStr
   });
-  const prediction = predictGames(dateStr);
+  const prediction = await predictGames(dateStr);
   const isToday = dateStr === (new Date()).toLocaleDateString();
+  console.log({ isToday });
   if (isToday) {
     await addSportsBookOdds(prediction);
   }
