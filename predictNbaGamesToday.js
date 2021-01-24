@@ -104,6 +104,10 @@ const predictGames = cacheThis(async dateStr => {
 }, 60 * 12);  // 12 hours
 
 
+const addSportsBookOdds = async prediction => {
+  
+};
+
 
 
 module.exports = async anotherDay => {
@@ -112,6 +116,11 @@ module.exports = async anotherDay => {
   console.log({
     anotherDay,
     dateStr
-  })
-  return predictGames(dateStr);
+  });
+  const prediction = predictGames(dateStr);
+  const isToday = dateStr === (new Date()).toLocaleDateString();
+  if (isToday) {
+    await addSportsBookOdds(prediction);
+  }
+  return prediction;
 };
