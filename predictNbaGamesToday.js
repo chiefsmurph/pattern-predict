@@ -97,7 +97,7 @@ const predictGames = cacheThis(async dateStr => {
 
   return {
     date: dateStr,
-    games: todaysPredictions,
+    games: todaysPredictions.sort((a, b) => b.prediction.confidence - a.prediction.confidence),
   };
 
 
