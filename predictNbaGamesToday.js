@@ -124,7 +124,7 @@ const addSportsBookOdds = async prediction => {
     game.teams.home.sportsbook = relatedBookGame.home;
     delete game.teams.home.sportsbook.team;
     game.teams.away.sportsbook = relatedBookGame.away;
-    delete game.teams.home.sportsbook.team;
+    delete game.teams.away.sportsbook.team;
   });
 };
 
