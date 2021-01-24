@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 
 const getSportsbook = async () => {
 
-    const browser = await puppeteer.launch({headless: false});
+    const browser = await puppeteer.launch({headless: true});
     const page = await browser.newPage();
     await page.goto(`https://www.sportsline.com/nba/odds/`, {
         waitUntil: 'networkidle2',
