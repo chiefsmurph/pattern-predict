@@ -20,19 +20,15 @@ const predictGames = cacheThis(async dateStr => {
   console.log('gamesToday', gamesToday);
   const todaysPredictions = await Promise.all(
     gamesToday.map(async matchup => {
-      const [rawt1, rawt2] = await Promise.all(
+      const [{
+        teamName: team1Name,
+        teamData: team1Data
+      }, {
+        teamName: team2Name,
+        teamData: team2Data
+      }] = await Promise.all(
         matchup.map(basketballWlScraperCheerio)
       );
-      console.log(
-        JSON.stringify(
-          {
-            matchup,
-            rawt1,
-            rawt2,
-          },
-          null, 2
-        )
-      )
       console.log('----------------');
       console.log('now predicting...');
       const getThisSeason = raw => {
@@ -48,8 +44,8 @@ const predictGames = cacheThis(async dateStr => {
         t1,
         t2
       ] = [
-        rawt1,
-        rawt2
+        team1Data,
+        team2Data
       ].map(rawt => {
         const thisSeason = getThisSeason(rawt);
         const upDownString = Object.keys(rawt).map(yr => rawt[yr]).join('');
@@ -65,18 +61,18 @@ const predictGames = cacheThis(async dateStr => {
         t1.strategies.avgPerc - t2.strategies.avgPerc,
         t1.strategies.weightedPerc - t2.strategies.weightedPerc
       ];
-      const winningTeam = values.every(v => v > 0) ? team1 : team2;
+      const winningTeam = values.every(v => v > 0) ? team1Name : team2Name;
       const confidence = Math.max(
         ...values.map(Math.abs)
       );
       return {
         teams: {
           away: {
-            name: team1,
+            name: team1Name,
             ...t1,
           },
           home: {
-            name: team2,
+            name: team2Name,
             ...t2,
           },
         },

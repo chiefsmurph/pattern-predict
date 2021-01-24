@@ -23,7 +23,10 @@ const scrapeTeam = async(team) => {
                 .map(wl => wl === 'W' ? 1 : 0)
                 .join('');
             console.log(upDownString)
-            resolve(upDownString);
+            resolve({
+              upDownString,
+              teamName: $('span[itemprop="name"]').last().text().trim()
+            });
           } else {
             reject(error);
           }
@@ -31,6 +34,7 @@ const scrapeTeam = async(team) => {
       });
     };
 
+    let teamName;
     const years = [];
     for (let yr = 2021; yr > 2017 - 20; yr--) {
       years.push(yr);
@@ -38,7 +42,9 @@ const scrapeTeam = async(team) => {
     // console.log(years);
     for (let yr of years) {
       try {
-        teamData[yr] = await scrapeSeason(yr);
+        const response = await scrapeSeason(yr);
+        teamData[yr] = response.upDownString;
+        teamName = teamName || response.teamName;
       } catch (e) {
         console.error('y', e);
         break;
@@ -50,7 +56,10 @@ const scrapeTeam = async(team) => {
     try {
       await fs.writeFile('./basketball-data/' + team + '.txt', JSON.stringify(teamData));
       console.log('done');
-      return teamData;
+      return {
+        teamName,
+        teamData,
+      };
     } catch (e) {
       console.error(e);
     }
