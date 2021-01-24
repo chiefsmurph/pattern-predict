@@ -122,9 +122,9 @@ const addSportsBookOdds = async prediction => {
     if (!relatedBookGame) return console.log('couldnt find that game');
     console.log({ relatedBookGame });
     game.teams.home.sportsbook = relatedBookGame.home;
-    delete game.teams.home.sportsbook.teamName;
+    delete game.teams.home.sportsbook.team;
     game.teams.away.sportsbook = relatedBookGame.away;
-    delete game.teams.home.sportsbook.teamName;
+    delete game.teams.home.sportsbook.team;
   });
 };
 
