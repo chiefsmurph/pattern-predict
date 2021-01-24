@@ -45,6 +45,7 @@ const getSportsbook = async () => {
     });
     await page.close();
     await browser.close();
+    return response;
 };
 
 module.exports = getSportsbook;
