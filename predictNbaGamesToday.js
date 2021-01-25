@@ -68,12 +68,12 @@ const predictGames = cacheThis(async dateStr => {
       );
       return {
         teams: {
-          home: {
+          away: {
             name: team1Name,
             shortName: team1,
             ...t1,
           },
-          away: {
+          home: {
             name: team2Name,
             shortName: team2,
             ...t2,
@@ -116,14 +116,14 @@ const addSportsBookOdds = async prediction => {
   // }
   prediction.games.forEach(game => {
     const {
-      home: {
-        shortName: shortHome
-      },
       away: {
         shortName: shortAway
+      },
+      home: {
+        shortName: shortHome
       }
     } = game.teams;
-    // console.log({ shortHome, shortAway })
+    // console.log({ shortAway, shortHome })
     // console.log(JSON.stringify({ sportsBookGames: sportsbook.games }, null, 2));
     const translations = {
       BKN: 'BRK'
@@ -134,14 +134,14 @@ const addSportsBookOdds = async prediction => {
       bookTeam = translations[bookTeam] || bookTeam;
       return bookTeam.slice(0, 2) === predTeam.slice(0, 2);
     };
-    const relatedBookGame = sportsbook.games.find(bookGame => isMatch(bookGame.home.team, shortHome) && isMatch(bookGame.away.team, shortAway));
+    const relatedBookGame = sportsbook.games.find(bookGame => isMatch(bookGame.away.team, shortAway) && isMatch(bookGame.home.team, shortHome));
     if (!relatedBookGame) return console.log(`couldnt find the game: ${shortAway} @ ${shortHome}`);
     console.log(`found ${shortAway} @ ${shortHome}`);
     console.log({ relatedBookGame });
-    const { team: homeTeam, ...homeSportsBook } = relatedBookGame.home;
-    game.teams.home.sportsbook = homeSportsBook;
     const { team: awayTeam, ...awaySportsBook } = relatedBookGame.away;
     game.teams.away.sportsbook = awaySportsBook;
+    const { team: homeTeam, ...homeSportsBook } = relatedBookGame.home;
+    game.teams.home.sportsbook = homeSportsBook;
   });
 };
 
