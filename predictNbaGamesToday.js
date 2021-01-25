@@ -115,11 +115,18 @@ const addSportsBookOdds = async prediction => {
     return;
   }
   prediction.games.forEach(game => {
-    const shortHome = game.teams.home.shortName;
-    console.log({ shortHome })
-    console.log(JSON.stringify({ sportsBookGames: sportsbook.games }, null, 2));
-    const relatedBookGame = sportsbook.games.find(bookGame => bookGame.home.team === shortHome);
-    if (!relatedBookGame) return console.log('couldnt find that game');
+    const {
+      home: {
+        shortName: shortHome
+      },
+      away: {
+        shortName: shortAway
+      }
+    } = game.teams;
+    // console.log({ shortHome, shortAway })
+    // console.log(JSON.stringify({ sportsBookGames: sportsbook.games }, null, 2));
+    const relatedBookGame = sportsbook.games.find(bookGame => bookGame.home.team === shortHome && bookGame.away.team === shortAway);
+    if (!relatedBookGame) return console.log(`couldnt find the game: ${shortAway} @ ${shortHome}`);
     console.log({ relatedBookGame });
     game.teams.home.sportsbook = relatedBookGame.home;
     delete game.teams.home.sportsbook.team;
@@ -138,9 +145,9 @@ module.exports = async anotherDay => {
     dateStr
   });
   const prediction = await predictGames(dateStr);
-  const isToday = dateStr === (new Date()).toLocaleDateString();
-  console.log({ isToday });
-  if (isToday) {
+  const isTodayOrTomorrow = d.getTime() < Date.now() + 1000 * 60 * 60 * 24 * 2;
+  console.log({ isTodayOrTomorrow });
+  if (isTodayOrTomorrow) {
     await addSportsBookOdds(prediction);
   }
   return prediction;

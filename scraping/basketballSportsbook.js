@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
+const cacheThis = require('../utils/cache-this');
 
-const getSportsbook = async () => {
-
+const getSportsbook = cacheThis(async () => {
     const browser = await puppeteer.launch({headless: true});
     const page = await browser.newPage();
     await page.goto(`https://www.sportsline.com/nba/odds/`, {
@@ -53,6 +53,6 @@ const getSportsbook = async () => {
     await page.close();
     await browser.close();
     return response;
-};
+}, 60);
 
 module.exports = getSportsbook;
