@@ -3,7 +3,7 @@ const fs = require('mz/fs');
 
 // https://www.basketball-reference.com/teams/GSW/2017_games.html
 
-const scrapeTeam = async(team) => {
+const scrapeTeam = async team => {
     const browser = await puppeteer.launch({headless: false});
 
     const scrapeSeason = async (year) => {
@@ -55,7 +55,7 @@ const scrapeTeam = async(team) => {
 
     console.log('saving...')
     try {
-      await fs.writeFile('./basketball-data/' + team + '.txt', totalUpDownString);
+      await fs.writeFile('./basketball-data/' + team + '.json', totalUpDownString);
       console.log('done');
     } catch (e) {
       console.error(e);

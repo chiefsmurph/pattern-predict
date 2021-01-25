@@ -4,35 +4,52 @@ const fs = require('mz/fs');
 
 // https://www.basketball-reference.com/teams/GSW/2017_games.html
 
-const scrapeTeam = async(team) => {
+const scrapeSeason = async (team, year) => {
+  return new Promise((resolve, reject) => {
+
+    const safeGet = team => {
+      try {
+        return require(`../basketball-data/${team}.json`);
+      } catch (e) {
+        return {};
+      }
+    }
+
+    const data = safeGet(team)[year];
+    if (data && year !== (new Date()).getFullYear()) {
+      console.log(`using ${team} year ${year} from cache`)
+      return resolve({
+        upDownString: data
+      });
+    }
+
+    const url = `https://www.basketball-reference.com/teams/${team}/${year}_games.html`;
+    request(url, function (error, response, html) {
+      if (!error && response.statusCode == 200) {
+        // console.log(html);
+        var $ = cheerio.load(html);
+        const upDownString = $('table#games td:nth-child(8)').toArray()
+            .map(el => $(el).text())
+            .filter(txt => txt)
+            .map(wl => wl === 'W' ? 1 : 0)
+            .join('');
+        console.log({year, upDownString})
+        resolve({
+          upDownString,
+          teamName: $('span[itemprop="name"]').last().text().trim()
+        });
+      } else {
+        reject(error);
+      }
+    });
+  });
+};
+
+const scrapeTeam = async team => {
 
     console.log('scraping ', team);
 
     const teamData = {};
-
-    const scrapeSeason = async (year) => {
-      return new Promise((resolve, reject) => {
-        const url = `https://www.basketball-reference.com/teams/${team}/${year}_games.html`;
-        request(url, function (error, response, html) {
-          if (!error && response.statusCode == 200) {
-            // console.log(html);
-            var $ = cheerio.load(html);
-            const upDownString = $('table#games td:nth-child(8)').toArray()
-                .map(el => $(el).text())
-                .filter(txt => txt)
-                .map(wl => wl === 'W' ? 1 : 0)
-                .join('');
-            console.log(upDownString)
-            resolve({
-              upDownString,
-              teamName: $('span[itemprop="name"]').last().text().trim()
-            });
-          } else {
-            reject(error);
-          }
-        });
-      });
-    };
 
     let teamName;
     const years = [];
@@ -42,7 +59,7 @@ const scrapeTeam = async(team) => {
     // console.log(years);
     for (let yr of years) {
       try {
-        const response = await scrapeSeason(yr);
+        const response = await scrapeSeason(team, yr);
         teamData[yr] = response.upDownString;
         teamName = teamName || response.teamName;
       } catch (e) {
@@ -54,7 +71,7 @@ const scrapeTeam = async(team) => {
 
     console.log('saving...')
     try {
-      await fs.writeFile('./basketball-data/' + team + '.txt', JSON.stringify(teamData));
+      await fs.writeFile('./basketball-data/' + team + '.json', JSON.stringify(teamData));
       console.log('done');
       return {
         teamName,

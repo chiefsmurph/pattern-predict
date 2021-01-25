@@ -125,13 +125,20 @@ const addSportsBookOdds = async prediction => {
     } = game.teams;
     // console.log({ shortHome, shortAway })
     // console.log(JSON.stringify({ sportsBookGames: sportsbook.games }, null, 2));
-    const relatedBookGame = sportsbook.games.find(bookGame => bookGame.home.team === shortHome && bookGame.away.team === shortAway);
+
+    const isMatch = (team1 = '', team2 = '') => {
+      // console.log((`comparing ${team1} vs ${team2}`));
+      // console.log(`shortened`, team1.slice(0, 2), team2.slice(0, 2))
+      return team1.slice(0, 2) === team2.slice(0, 2);
+    };
+    const relatedBookGame = sportsbook.games.find(bookGame => isMatch(bookGame.home.team, shortHome) && isMatch(bookGame.away.team, shortAway));
     if (!relatedBookGame) return console.log(`couldnt find the game: ${shortAway} @ ${shortHome}`);
+    console.log(`found ${shortAway} @ ${shortHome}`);
     console.log({ relatedBookGame });
-    game.teams.home.sportsbook = relatedBookGame.home;
-    delete game.teams.home.sportsbook.team;
-    game.teams.away.sportsbook = relatedBookGame.away;
-    delete game.teams.away.sportsbook.team;
+    const { team: homeTeam, ...homeSportsBook } = relatedBookGame.home;
+    game.teams.home.sportsbook = homeSportsBook;
+    const { team: awayTeam, ...awaySportsBook } = relatedBookGame.away;
+    game.teams.away.sportsbook = awaySportsBook;
   });
 };
 
