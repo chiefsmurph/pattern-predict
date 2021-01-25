@@ -53,7 +53,7 @@ const scrapeTeam = async team => {
 
     let teamName;
     const years = [];
-    for (let yr = 2021; yr > 2017 - 20; yr--) {
+    for (let yr = 2021; yr > 2001; yr--) {
       years.push(yr);
     }
     // console.log(years);
