@@ -75,7 +75,7 @@ const predictGames = cacheThis(async dateStr => {
           },
           away: {
             name: team2Name,
-            shortName: matchup,
+            shortName: team2,
             ...t2,
           },
         },
