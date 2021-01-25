@@ -110,10 +110,10 @@ const predictGames = cacheThis(async dateStr => {
 const addSportsBookOdds = async prediction => {
   console.log('adding sportsbook odds...')
   const sportsbook = await getSportsbook();
-  if (prediction.date !== sportsbook.date) {
-    console.log(`sorry the dates didn't align`);
-    return;
-  }
+  // if (prediction.date !== sportsbook.date) {
+  //   console.log(`sorry the dates didn't align`);
+  //   return;
+  // }
   prediction.games.forEach(game => {
     const {
       home: {
