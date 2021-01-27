@@ -22,13 +22,22 @@ const getSportsbook = cacheThis(async () => {
                     const consensusCol = gameRow.querySelector('td:nth-of-type(4)');
                     const odds = [...consensusCol.querySelectorAll('.primary')].map(n => n.textContent);
                     let [
+                        homeML = '',
+                        awayML = '',
+                        homeSpread = '',
+                        awaySpread = '',
+                        over = '',
+                        under = ''
+                    ] = odds;
+                    console.log({
+                        odds,
                         homeML,
                         awayML,
                         homeSpread,
                         awaySpread,
                         over,
                         under
-                    ] = odds;
+                    })
                     awayML = Number(awayML.split(' ')[2]);
                     homeML = Number(homeML.split(' ')[2]);
                     awaySpread = Number(awaySpread.split(' ')[1]);
