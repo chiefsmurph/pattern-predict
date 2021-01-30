@@ -117,9 +117,11 @@ const addSportsBookOdds = async prediction => {
   prediction.games.forEach(game => {
     const {
       away: {
+        name: awayName,
         shortName: shortAway
       },
       home: {
+        name: homeName,
         shortName: shortHome
       }
     } = game.teams;
@@ -142,6 +144,13 @@ const addSportsBookOdds = async prediction => {
     game.teams.away.sportsbook = awaySportsBook;
     const { team: homeTeam, ...homeSportsBook } = relatedBookGame.home;
     game.teams.home.sportsbook = homeSportsBook;
+
+    // calc isUpset
+    const { sportsbook: winningSportsbook = {} } = Object.values(game.teams)
+      .find(team => team.name === game.prediction.winningTeam) || {};
+    const { moneyLine: winningMoneyLine } = winningSportsbook;
+    const isUpset = Boolean(winningMoneyLine > 0);
+    game.prediction.isUpset = isUpset;
   });
 };
 
