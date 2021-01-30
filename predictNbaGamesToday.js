@@ -148,7 +148,7 @@ const addSportsBookOdds = async prediction => {
     // calc isUpset
     const { sportsbook: winningSportsbook = {} } = Object.values(game.teams)
       .find(team => team.name === game.prediction.winningTeam) || {};
-    const { moneyline:: winningMoneyline } = winningSportsbook;
+    const { moneyline: winningMoneyline } = winningSportsbook;
     const isUpset = Boolean(winningMoneyline > 0);
     game.prediction.isUpset = isUpset;
   });
